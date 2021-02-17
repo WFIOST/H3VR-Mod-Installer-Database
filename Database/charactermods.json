@@ -72,7 +72,7 @@
 				"SirPotatos"
 			],
 			"Version": "1.0.1",
-			"Description": "Sci-Fi Sofia wields futuristic weapons! All sci-fi guns (vanilla and custom) appear in her weapon pools. The weapon pools also have many real guns that have been used in science fiction works or that look futuristic. Enemy progression is currently same as Operator Ori, but will be tweaked later on.\nIf you have a cool sci-fi vault creation and want it included, send me the vault file on the H3 Homebrew Discord (preferably the json vault file that TNHTweaker generates, and with no magazine in the gun). \nThe custom weapons listed below are highly recommended. They are NOT required to play Sofia, but will add more variety to the weapon pools:\nModulAR:  https://bonetome.com/h3vr/weapons/159/ \nMeatís ModulAR Parts:  https://bonetome.com/h3vr/weapons/157/ \nModulM4:  https://bonetome.com/h3vr/weapons/188/ \nModulSR:  https://bonetome.com/h3vr/weapons/167/\nOutbreak Perfected:  https://bonetome.com/h3vr/weapons/111/ \nHalo: Basic Infantry Weapons:  https://bonetome.com/h3vr/weapons/153/ \nMk14 EBR:  https://bonetome.com/h3vr/weapons/169/ \nTavor 21:  https://bonetome.com/h3vr/weapons/135/\nDesert \nTech MDR:  https://bonetome.com/h3vr/weapons/144/ \nAr-57:  https://bonetome.com/h3vr/weapons/143/ \nF2000 Tactical:  https://bonetome.com/h3vr/weapons/118/",
+			"Description": "Sci-Fi Sofia wields futuristic weapons! All sci-fi guns (vanilla and custom) appear in her weapon pools. The weapon pools also have many real guns that have been used in science fiction works or that look futuristic. Enemy progression is currently same as Operator Ori, but will be tweaked later on.\nIf you have a cool sci-fi vault creation and want it included, send me the vault file on the H3 Homebrew Discord (preferably the json vault file that TNHTweaker generates, and with no magazine in the gun). \nThe custom weapons listed below are highly recommended. They are NOT required to play Sofia, but will add more variety to the weapon pools:\nModulAR:  https://bonetome.com/h3vr/weapons/159/ \nMeat‚Äôs ModulAR Parts:  https://bonetome.com/h3vr/weapons/157/ \nModulM4:  https://bonetome.com/h3vr/weapons/188/ \nModulSR:  https://bonetome.com/h3vr/weapons/167/\nOutbreak Perfected:  https://bonetome.com/h3vr/weapons/111/ \nHalo: Basic Infantry Weapons:  https://bonetome.com/h3vr/weapons/153/ \nMk14 EBR:  https://bonetome.com/h3vr/weapons/169/ \nTavor 21:  https://bonetome.com/h3vr/weapons/135/\nDesert \nTech MDR:  https://bonetome.com/h3vr/weapons/144/ \nAr-57:  https://bonetome.com/h3vr/weapons/143/ \nF2000 Tactical:  https://bonetome.com/h3vr/weapons/118/",
 			"Path": "https://bonetome.com/download.php?file=ZjNmZDcwNTRhZDVjYjI5YSszNjUrOTk3",
 			"Website": "https://bonetome.com/h3vr/characters/197/",
 			"Arguments": "moveToFolder?SciFiSofia.zip?Mods/?SciFiSofia.zip",
@@ -89,7 +89,7 @@
 				"SirPotatos"
 			],
 			"Version": "1.0.1",
-			"Description": "You ever wanted to be just like John Wick? Well, you can't. No one is THAT good. BUT, you can totally LARP as John Wick with this new TNH character: John Wurst!!! \nJohn Wurst's weapon pools ONLY include guns that John Wick has used in the movies. When you buy a gun from the supply room, it will come kitted out exactly like it was in the movie when John used it.\nAdditionally, custom sosigs have been created to mirror the kinds of enemies that John faces in the three movies. Early sosigs, for example, will be unarmored and have pistols only. But beware the final holds when the High Table enforcers kick in the door.\nREQUIRES TNHTWEAKER 1.4 OR HIGHER!\nSeveral modded guns are required for this character:\n- ModulAR https://bonetome.com/h3vr/weapons/159/\n- Meat's ModulARParts https://bonetome.com/h3vr/weapons/157/\n- Meat's ModulMPX https://bonetome.com/h3vr/weapons/187/ (Add ìEvo3î to your magazine blacklist in your TNHTweaker folder if you want the MPX to spawn with MPX mags instead of Evo3 mags.)\n- Potatoís Compiled Custom Guns https://bonetome.com/h3vr/weapons/142/",
+			"Description": "You ever wanted to be just like John Wick? Well, you can't. No one is THAT good. BUT, you can totally LARP as John Wick with this new TNH character: John Wurst!!! \nJohn Wurst's weapon pools ONLY include guns that John Wick has used in the movies. When you buy a gun from the supply room, it will come kitted out exactly like it was in the movie when John used it.\nAdditionally, custom sosigs have been created to mirror the kinds of enemies that John faces in the three movies. Early sosigs, for example, will be unarmored and have pistols only. But beware the final holds when the High Table enforcers kick in the door.\nREQUIRES TNHTWEAKER 1.4 OR HIGHER!\nSeveral modded guns are required for this character:\n- ModulAR https://bonetome.com/h3vr/weapons/159/\n- Meat's ModulARParts https://bonetome.com/h3vr/weapons/157/\n- Meat's ModulMPX https://bonetome.com/h3vr/weapons/187/ (Add ‚ÄúEvo3‚Äù to your magazine blacklist in your TNHTweaker folder if you want the MPX to spawn with MPX mags instead of Evo3 mags.)\n- Potato‚Äôs Compiled Custom Guns https://bonetome.com/h3vr/weapons/142/",
 			"Path": "https://bonetome.com/download.php?file=OTI3NDIwMzcyMjJmNmRhNSszNjUrOTgw",
 			"Website": "https://bonetome.com/h3vr/characters/195/",
 			"Arguments": "moveToFolder?JohnWurst.zip?Mods/?JohnWurst.zip",
@@ -188,16 +188,16 @@
 		{
 			"modID": "doomboxsgermanuniforms",
 			"Name": "Doombox's German Uniforms",
-			"RawName": "germanuniforms.zip",
+			"RawName": "GermanUniforms.zip",
 			"Author": [
 				"Doombox3"
 			],
-			"Version": "1.0.0",
-			"Description": "",
-			"Path": "https://bonetome.com/download.php?file=ZTkyNjc1MzFjMDRjNmM5YyszNjUrOTc0",
+			"Version": "1.1.0",
+			"Description": "Imperial German uniforms for Sosigs!",
+			"Path": "https://bonetome.com/download.php?file=ZTkyNjc1MzFjMDRjNmM5Yys0NDErOTc0",
 			"Website": "https://bonetome.com/h3vr/characters/192/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/german uniforms",
+			"DelInfo": "VirtualObjects/German Uniforms",
 			"Dependencies": [
 				"tnhtweaker",
 				"lsiic"
