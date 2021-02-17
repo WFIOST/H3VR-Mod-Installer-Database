@@ -188,16 +188,16 @@
 		{
 			"modID": "doomboxsgermanuniforms",
 			"Name": "Doombox's German Uniforms",
-			"RawName": "germanuniforms.zip",
+			"RawName": "GermanUniforms.zip",
 			"Author": [
 				"Doombox3"
 			],
-			"Version": "1.0.0",
-			"Description": "",
-			"Path": "https://bonetome.com/download.php?file=ZTkyNjc1MzFjMDRjNmM5YyszNjUrOTc0",
+			"Version": "1.1.0",
+			"Description": "Imperial German uniforms for Sosigs!",
+			"Path": "https://bonetome.com/download.php?file=ZTkyNjc1MzFjMDRjNmM5Yys0NDErOTc0",
 			"Website": "https://bonetome.com/h3vr/characters/192/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/german uniforms",
+			"DelInfo": "VirtualObjects/German Uniforms",
 			"Dependencies": [
 				"tnhtweaker",
 				"lsiic"
