@@ -3,8 +3,8 @@
   "modlistid": "experimentaldatabase",
 	"modlist": [
 		{
-			"modID": "wurstmod",
-			"Name": "Wurst Mod",
+			"modID": "basedmod",
+			"Name": "Wurst Mod no.2",
 			"RawName": "WurstMod.deli",
 			"Author": [
 				"Nolenz",
