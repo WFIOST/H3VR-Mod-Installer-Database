@@ -160,25 +160,24 @@
         "modular"
       ]
     },
-		{
-			"modID": "45turn",
-			"Name": "45 Degree Barrel Extentions",
-			"RawName": "45_turn.zip",
-			"Author": [
-				"KamikazeF0X"
-			],
-			"Version": "1.0.1",
-			"Description": "Guns always shoots forwards, and this is boring!\nThanks to this barrel extension, you will be able to curve your bullets!\nDue to how the game works, there is four attachments for the four directions you can put them in, Up, Down, Left and... Right, Right!\n(For some other reasons, muzzle flash always points forwards, I haven't got to figure out why)",
-			"Path": "https://bonetome.com/download.php?file=ZTQxZjg1NDAxZDY0NDhjNiszNjUrNzA3",
-			"Website": "https://bonetome.com/h3vr/weapons/124/",
-			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/45_turn?VirtualObjects/45_turn.manifest",
-			"Dependencies": [
-				"lsiic",
-				"modular"
-			]
-		},
-
+    {
+      "modID": "45turn",
+      "Name": "45 Degree Barrel Extentions",
+      "RawName": "45_turn.zip",
+      "Author": [
+        "KamikazeF0X"
+      ],
+      "Version": "1.0.1",
+      "Description": "Guns always shoots forwards, and this is boring!\nThanks to this barrel extension, you will be able to curve your bullets!\nDue to how the game works, there is four attachments for the four directions you can put them in, Up, Down, Left and... Right, Right!\n(For some other reasons, muzzle flash always points forwards, I haven't got to figure out why)",
+      "Path": "https://bonetome.com/download.php?file=ZTQxZjg1NDAxZDY0NDhjNiszNjUrNzA3",
+      "Website": "https://bonetome.com/h3vr/weapons/124/",
+      "Arguments": "unzipToDir?VirtualObjects/",
+      "DelInfo": "VirtualObjects/45_turn?VirtualObjects/45_turn.manifest",
+      "Dependencies": [
+        "lsiic",
+        "modular"
+      ]
+    },
     {
       "modID": "f2000",
       "Name": "F2000 Tactical",
@@ -318,25 +317,23 @@
         "lsiic"
       ]
     },
-		{
-			"modID": "fnx",
-			"Name": "FN FNX-45 Tactical FDE",
-			"RawName": "FNX45.zip",
-			"Author": [
-				"Shampooh"
-			],
-			"Version": "1.2.0",
-			"Description": "The FNX-45 Tactical in FDE and now black, now for your VR shootin. Features of a full set of custom handling and firing sounds, as well as a LAM, suppressor, and working slide cap. Just bring any attachment near the slide cap to hide it and attach an optic or whatever else you'd like.",
-			"Path": "https://bonetome.com/download.php?file=YWQwOTIxYzhiNTExNGRkYSsxNTk5KzExNjM=",
-			"Website": "https://bonetome.com/h3vr/weapons/265/",
-			"Arguments": "unzipToDir?mods/",
-			"DelInfo": "mods/FNX45.h3mod",
-			"Dependencies": [
-				"sideloader"
-			]
-		},
-
-
+    {
+      "modID": "fnx",
+      "Name": "FN FNX-45 Tactical FDE",
+      "RawName": "FNX45.zip",
+      "Author": [
+        "Shampooh"
+      ],
+      "Version": "1.2.0",
+      "Description": "The FNX-45 Tactical in FDE and now black, now for your VR shootin. Features of a full set of custom handling and firing sounds, as well as a LAM, suppressor, and working slide cap. Just bring any attachment near the slide cap to hide it and attach an optic or whatever else you'd like.",
+      "Path": "https://bonetome.com/download.php?file=YWQwOTIxYzhiNTExNGRkYSsxNTk5KzExNjM=",
+      "Website": "https://bonetome.com/h3vr/weapons/265/",
+      "Arguments": "unzipToDir?mods/",
+      "DelInfo": "mods/FNX45.h3mod",
+      "Dependencies": [
+        "sideloader"
+      ]
+    },
     {
       "modID": "meatsshotguns",
       "Name": "Meat's ModulShotguns",
@@ -357,112 +354,132 @@
         "h3vrutils"
       ]
     },
-		{
-			"modID": "notwolfiesmuzzles",
-			"Name": "FOXArms Muzzles",
-			"RawName": "FOXArmsMuzzles0.7.2.zip",
-			"Author": [
-				"NotWolfie",
-				"Meat_Banono"
-			],
-			"Version": "0.7.2",
-			"Description": "Thanks to Potatoes , AndrewFT, @Warlord Soulbro of the Melon and Meatbanono , I present..\n\nFOXARMS Attachments (Muzzles and Supressors)\nVersion 0.7.2\n\nMore muzzles and supressors are coming! Don't think I'm done yet!\n\nCurrently added\n- Gemtech One (Scales)\n- Rotor 43 (Scales)\n- Titan Muzzle Combo (Muzzle and Supressor, Non-scale)\n- Daniel Defence Combo (Muzzle and Supressor, Non-scale)\n- Colt AR15 Flash-hider (Non-scale)\n- GK-02 Shotgun Muzzle (Non-Scale)\n- Fischer Glock Supressor (Has an attachment point)\n- Alpha Dog (Has an attachment point)\n- Vendetta Muzzle Brake\n- CQB Muzzle Brake\n- Titanium Compensator\n- SRD Supressor ",
-			"Path": "https://bonetome.com/download.php?file=YTU3YTU4NjcyODc3MjYwNSszNjUrMTIzNQ==",
-			"Website": "https://bonetome.com/h3vr/weapons/273/",
-			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/muzzles",
-			"Dependencies": [
-				"lsiic"
-			]
-		},
-		{
-			"modID": "ftwarmsvpo215",
-			"Name": "FTW Arms VPO-215",
-			"RawName": "VPO-215.zip",
-			"Author": [
-				"Andrew_FTW"
-			],
-			"Version": "1.2",
-			"Description": "Here is the VPO-215! A tarkov favorite for many.",
-			"Path": "https://bonetome.com/download.php?file=MWQ2ZmRlZWU1Yjk0ZTNmMCszNjUrMTI0OQ==",
-			"Website": "https://bonetome.com/h3vr/weapons/279/",
-			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/VPO215/",
-			"Dependencies": [
-				"lsiic"
-			]
-		},
-		{
-			"modID": "carkiddaps",
-			"Name": "'Stechkin' APS",
-			"RawName": "StechkinAPS.zip",
-			"Author": [
-				"Carkidd"
-			],
-			"Version": "1.0.1",
-			"Description": "'I just want to be less of a burden...'\nIntended for vehicle crews and artillerymen, this Russian machinepistol is surprisingly practical in game- using both hands, it can be fired on full auto with good accuracy, and the wire stock and suppressor turn it into quite a handy little PDW. Comes with a 20 round magazine. The only thing holding it back is the lack of AP ammo in 9x18 in game. \nDue to code limitations on the game's handgun script, I am unable to get the proper three position selector/decocker and SA/DA operation (somehow broken on full auto pistols)- therefore, the weapon only has semi and full selector positions and is single action. Doesn't change much gameplay wise, just an inaccuracy. ",
-			"Path": "https://bonetome.com/download.php?file=MGE3YmZiZTJlZjNhZTJhYiszNjUrMTI2MQ==",
-			"Website": "https://bonetome.com/h3vr/weapons/281/",
-			"Arguments": "unzipToDir?Mods/",
-			"DelInfo": "Mods/StechkinAPS.hotmod",
-			"Dependencies": [
-				"sideloader"
-			]
-		},
-		{
-			"modID": "ftwarmssupershotgun",
-			"Name": "FTW Arms Super Shotgun",
-			"RawName": "SuperShotgun.zip",
-			"Author": [
-				"Andrew_FTW"
-			],
-			"Version": "1.1.0",
-			"Description": "In the first age, in the first battle, when the shadows first lengthened, one stood. Charred by the embers of the Barbecue, his meat cooked by the fires of Hell and burned beyond consumption, he chose the path of perpetual torment. In his ravenous hatred he found no peace; and with broiling mustard he scoured the Meatmas Plains seeking vengeance against the Dark Meats who had wronged him. He wore the crown of the Bratwurst Sosigs, and those that tasted the bite of his fork named him... the Beef Slayer.\nThanks to Chargin for the beefy shotgun sounds",
-			"Path": "https://bonetome.com/download.php?file=MTBmNGQ1ZmZkYmVjODI0NCszNjUrMTI2Mw==",
-			"Website": "https://bonetome.com/h3vr/weapons/282/",
-			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/SuperShotgun",
-			"Dependencies": [
-				"lsiic"
-			]
-		},
-		{
-			"modID": "ftwarmsammoboxes",
-			"Name": "FTW Arms Ammo Boxes",
-			"RawName": "FTWArmsammoboxes.zip",
-			"Author": [
-				"Andrew_FTW"
-			],
-			"Version": "1.1.0",
-			"Description": "Tired of carrying piles of loose shells in your backpack? Wish you could hold more bullets in those large quickbelt slots? Do I have the mod for you! FTW Arms brand Ammo boxes comes with 5 brand new boxes of ammunition, including 9x19, 12 gauge, 5.45x39, 23x75mm, and 5.56x45, with more on the way in future updated! \n\nNOTE: \nTHE BOXES ARE FOUND UNDER MUZZLE LOADER RIFLES",
-			"Path": "https://bonetome.com/download.php?file=NzkxNDc3YjkwMzkwZTUyNCszNjUrMTMwNQ==",
-			"Website": "https://bonetome.com/h3vr/weapons/301/",
-			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/FTW Arms ammo boxes",
-			"Dependencies": [
-				"lsiic"
-			]
-		},
-		{
-			"modID": "meatsmvp",
-			"Name": "Meat and Melon's MVP",
-			"RawName": "MelonVP.zip",
-			"Author": [
-				"Meat_Banono",
-				"Tacticalloon",
-				"Nikpo",
-				"Melon The Gunwarden"
-			],
-			"Version": "1.0.0",
-			"Description": "The biggest collab to date in H3!\nMelon's personal Mossberg MVP is in H3VR under the bolt action rifle category! Accepting 5.56 stanag mags in green polymer and ash wood, and 7.62 M14 mags in black polymer and beautifully oiled wood.\nThere is also a hidden bipod attach point towards the front that requires H3 Utils for a neat appear-on-attach feature!",
-			"Path": "https://bonetome.com/download.php?file=NWZkMDgzZGYyNGI0OWZhZSszNjUrMTMyMw==",
-			"Website": "https://bonetome.com/h3vr/weapons/304/",
-			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/MelonVP",
-			"Dependencies": [
-				"lsiic",
-				"h3vrutils"
-			]
-		}
+    {
+      "modID": "notwolfiesmuzzles",
+      "Name": "FOXArms Muzzles",
+      "RawName": "FOXArmsMuzzles0.7.2.zip",
+      "Author": [
+        "NotWolfie",
+        "Meat_Banono"
+      ],
+      "Version": "0.7.2",
+      "Description": "Thanks to Potatoes , AndrewFT, @Warlord Soulbro of the Melon and Meatbanono , I present..\n\nFOXARMS Attachments (Muzzles and Supressors)\nVersion 0.7.2\n\nMore muzzles and supressors are coming! Don't think I'm done yet!\n\nCurrently added\n- Gemtech One (Scales)\n- Rotor 43 (Scales)\n- Titan Muzzle Combo (Muzzle and Supressor, Non-scale)\n- Daniel Defence Combo (Muzzle and Supressor, Non-scale)\n- Colt AR15 Flash-hider (Non-scale)\n- GK-02 Shotgun Muzzle (Non-Scale)\n- Fischer Glock Supressor (Has an attachment point)\n- Alpha Dog (Has an attachment point)\n- Vendetta Muzzle Brake\n- CQB Muzzle Brake\n- Titanium Compensator\n- SRD Supressor ",
+      "Path": "https://bonetome.com/download.php?file=YTU3YTU4NjcyODc3MjYwNSszNjUrMTIzNQ==",
+      "Website": "https://bonetome.com/h3vr/weapons/273/",
+      "Arguments": "unzipToDir?VirtualObjects/",
+      "DelInfo": "VirtualObjects/muzzles",
+      "Dependencies": [
+        "lsiic"
+      ]
+    },
+    {
+      "modID": "ftwarmsvpo215",
+      "Name": "FTW Arms VPO-215",
+      "RawName": "VPO-215.zip",
+      "Author": [
+        "Andrew_FTW"
+      ],
+      "Version": "1.2",
+      "Description": "Here is the VPO-215! A tarkov favorite for many.",
+      "Path": "https://bonetome.com/download.php?file=MWQ2ZmRlZWU1Yjk0ZTNmMCszNjUrMTI0OQ==",
+      "Website": "https://bonetome.com/h3vr/weapons/279/",
+      "Arguments": "unzipToDir?VirtualObjects/",
+      "DelInfo": "VirtualObjects/VPO215/",
+      "Dependencies": [
+        "lsiic"
+      ]
+    },
+    {
+      "modID": "carkiddaps",
+      "Name": "'Stechkin' APS",
+      "RawName": "StechkinAPS.zip",
+      "Author": [
+        "Carkidd"
+      ],
+      "Version": "1.0.1",
+      "Description": "'I just want to be less of a burden...'\nIntended for vehicle crews and artillerymen, this Russian machinepistol is surprisingly practical in game- using both hands, it can be fired on full auto with good accuracy, and the wire stock and suppressor turn it into quite a handy little PDW. Comes with a 20 round magazine. The only thing holding it back is the lack of AP ammo in 9x18 in game. \nDue to code limitations on the game's handgun script, I am unable to get the proper three position selector/decocker and SA/DA operation (somehow broken on full auto pistols)- therefore, the weapon only has semi and full selector positions and is single action. Doesn't change much gameplay wise, just an inaccuracy. ",
+      "Path": "https://bonetome.com/download.php?file=MGE3YmZiZTJlZjNhZTJhYiszNjUrMTI2MQ==",
+      "Website": "https://bonetome.com/h3vr/weapons/281/",
+      "Arguments": "unzipToDir?Mods/",
+      "DelInfo": "Mods/StechkinAPS.hotmod",
+      "Dependencies": [
+        "sideloader"
+      ]
+    },
+    {
+      "modID": "ftwarmssupershotgun",
+      "Name": "FTW Arms Super Shotgun",
+      "RawName": "SuperShotgun.zip",
+      "Author": [
+        "Andrew_FTW"
+      ],
+      "Version": "1.1.0",
+      "Description": "In the first age, in the first battle, when the shadows first lengthened, one stood. Charred by the embers of the Barbecue, his meat cooked by the fires of Hell and burned beyond consumption, he chose the path of perpetual torment. In his ravenous hatred he found no peace; and with broiling mustard he scoured the Meatmas Plains seeking vengeance against the Dark Meats who had wronged him. He wore the crown of the Bratwurst Sosigs, and those that tasted the bite of his fork named him... the Beef Slayer.\nThanks to Chargin for the beefy shotgun sounds",
+      "Path": "https://bonetome.com/download.php?file=MTBmNGQ1ZmZkYmVjODI0NCszNjUrMTI2Mw==",
+      "Website": "https://bonetome.com/h3vr/weapons/282/",
+      "Arguments": "unzipToDir?VirtualObjects/",
+      "DelInfo": "VirtualObjects/SuperShotgun",
+      "Dependencies": [
+        "lsiic"
+      ]
+    },
+    {
+      "modID": "ftwarmsammoboxes",
+      "Name": "FTW Arms Ammo Boxes",
+      "RawName": "FTWArmsammoboxes.zip",
+      "Author": [
+        "Andrew_FTW"
+      ],
+      "Version": "1.1.0",
+      "Description": "Tired of carrying piles of loose shells in your backpack? Wish you could hold more bullets in those large quickbelt slots? Do I have the mod for you! FTW Arms brand Ammo boxes comes with 5 brand new boxes of ammunition, including 9x19, 12 gauge, 5.45x39, 23x75mm, and 5.56x45, with more on the way in future updated! \n\nNOTE: \nTHE BOXES ARE FOUND UNDER MUZZLE LOADER RIFLES",
+      "Path": "https://bonetome.com/download.php?file=NzkxNDc3YjkwMzkwZTUyNCszNjUrMTMwNQ==",
+      "Website": "https://bonetome.com/h3vr/weapons/301/",
+      "Arguments": "unzipToDir?VirtualObjects/",
+      "DelInfo": "VirtualObjects/FTW Arms ammo boxes",
+      "Dependencies": [
+        "lsiic"
+      ]
+    },
+    {
+      "modID": "meatsmvp",
+      "Name": "Meat and Melon's MVP",
+      "RawName": "MelonVP.zip",
+      "Author": [
+        "Meat_Banono",
+        "Tacticalloon",
+        "Nikpo",
+        "Melon The Gunwarden"
+      ],
+      "Version": "1.0.0",
+      "Description": "The biggest collab to date in H3!\nMelon's personal Mossberg MVP is in H3VR under the bolt action rifle category! Accepting 5.56 stanag mags in green polymer and ash wood, and 7.62 M14 mags in black polymer and beautifully oiled wood.\nThere is also a hidden bipod attach point towards the front that requires H3 Utils for a neat appear-on-attach feature!",
+      "Path": "https://bonetome.com/download.php?file=NWZkMDgzZGYyNGI0OWZhZSszNjUrMTMyMw==",
+      "Website": "https://bonetome.com/h3vr/weapons/304/",
+      "Arguments": "unzipToDir?VirtualObjects/",
+      "DelInfo": "VirtualObjects/MelonVP",
+      "Dependencies": [
+        "lsiic",
+        "h3vrutils"
+      ]
+    },
+    {
+      "modID": "lasersandlights",
+      "Name": "Modern Warfighter's Lasers and Lights",
+      "RawName": "MWLL.rar",
+      "Author": [
+        "Jayyden",
+        "CarKidd",
+        "Shampooh",
+        "Melon The Gunwarden"
+      ],
+      "Version": "1.0.1",
+      "Description": "A collection of modern weapon lights and lasers, with reworked effects for a better-looking atachment.\nContains the following:\n\nEoTech NGAL\n\nEoTech AN/PEQ-15 with BUIS\n\nSteiner DBAL-i2 with BUIS\n\nSteiner DBAL-A3\n\nZenitCo Perst4\n\nBE Meyers MAWL-C1+",
+      "Path": "https://bonetome.com/download.php?file=ZTg2OGY5MWQ1NGU5YzBjMisrMTMzMw==",
+      "Website": "https://bonetome.com/h3vr/weapons/308/",
+      "Arguments": "unzipToDir?VirtualObjects/",
+      "DelInfo": "VirtualObjects/MWLL",
+      "Dependencies": [
+        "lsiic"
+      ]
+    }
   ]
 }
