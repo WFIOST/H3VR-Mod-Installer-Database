@@ -1,0 +1,25 @@
+{
+  "modlistname": "Map Mods",
+  "modlistid": "mapmods",
+	"modlist": [
+		{
+			"modID": "wurstmod",
+			"Name": "Wurst Mod",
+			"RawName": "WurstMod.deli",
+			"Author": [
+				"Nolenz",
+				"nrgill28"
+			],
+			"Version": "2.0.2.0",
+			"Description": "Loads map mods for h3vr.",
+			"Path": "https://github.com/Nolenz/WurstMod/releases/download/v2.0.2.0/WurstMod.deli%",
+			"Website": "https://github.com/Nolenz/WurstMod/",
+			"Arguments": "moveToFolder?WurstMod.deli?Mods/?WurstMod.deli",
+			"DelInfo": "Mods/WurstMod.deli",
+			"Dependencies": [
+				"bepinex",
+				"deli"
+			]
+		}
+	]
+}
