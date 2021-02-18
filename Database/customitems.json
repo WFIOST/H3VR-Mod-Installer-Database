@@ -515,6 +515,23 @@
 			]
 		},
 		{
+			"modID": "mdr",
+			"Name": "Desert Tech MDR",
+			"RawName": "mdr.rar",
+			"Author": [
+				"sgt.brooks"
+			],
+			"Version": "1.0.0",
+			"Description": "MDR\nTHANKS TO Meat_banono FOR SEND MODEL",
+			"Path": "https://bonetome.com/download.php?file=NmJlZjUwN2I1ZGFiOWMxMSsrNzU0",
+			"Website": "https://bonetome.com/h3vr/weapons/144/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/mdr",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
 			"modID": "hkg28",
 			"Name": "H&K G28 DMR",
 			"RawName": "g28.rar",
