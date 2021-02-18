@@ -531,6 +531,40 @@
 				"lsiic"
 			]
 		},
+    {
+			"modID": "ar57",
+			"Name": "[AR Five Seven] AR57",
+			"RawName": "ar57.rar",
+			"Author": [
+				"sgt.brooks"
+			],
+			"Version": "1.0.0",
+			"Description": "AR57",
+			"Path": "https://bonetome.com/download.php?file=YzczNGU3NmZmZTUwNzg2MysrNzUz",
+			"Website": "https://bonetome.com/h3vr/weapons/143/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/ar57",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+    {
+			"modID": "m110",
+			"Name": "Knight's Armament m110",
+			"RawName": "m110.rar",
+			"Author": [
+				"sgt.brooks"
+			],
+			"Version": "1.0.0",
+			"Description": "sense we don't really have much 762 ar's decide go for m110\n\nuse mk17 mags",
+			"Path": "https://bonetome.com/download.php?file=M2VhZDIxMTAwNzVjMWY5MisrNjg5",
+			"Website": "https://bonetome.com/h3vr/weapons/114/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/m110",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
 		{
 			"modID": "hkg28",
 			"Name": "H&K G28 DMR",
