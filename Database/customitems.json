@@ -560,9 +560,45 @@
 			"Path": "https://bonetome.com/download.php?file=YWJmOTkxZDNhOTRlNDhjOCsrNDc3",
 			"Website": "https://bonetome.com/h3vr/weapons/60/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/hk416_pack",
+			"DelInfo": "VirtualObjects/gunrackphys",
 			"Dependencies": [
 				"lsiic"
+			]
+		},
+		{
+			"modID": "gunrackqb",
+			"Name": "Gun Rack (QB)",
+			"RawName": "VirtualObjects.7z",
+			"Author": [
+				"TylerS76"
+			],
+			"Version": "1.0.0",
+			"Description": "Gun Rack (QB version).\nRequires LSIIC.\nMessage me on Discord at TylerS76#2974 if you encounter errors.",
+			"Path": "https://bonetome.com/download.php?file=ZDMyMmI4ZDJkYjkxNWYyNysrNDY3",
+			"Website": "https://bonetome.com/h3vr/weapons/53/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/gunrack",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "gunhook",
+			"Name": "Gun Hook",
+			"RawName": "VirtualObjects.7z",
+			"Author": [
+				"TylerS76"
+			],
+			"Version": "1.0.0",
+			"Description": "It's a hook for hanging guns.\nRequires LSIIC, MonoMod and BepInEx. They can be found in the H3VR Homebrew Discord.\nMessage me on Discord at TylerS76#2974 if you encounter errors.",
+			"Path": "https://bonetome.com/download.php?file=OGEzZmY1MGQ2MDQwYjI4NysrNDY4",
+			"Website": "https://bonetome.com/h3vr/weapons/54/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/hook",
+			"Dependencies": [
+				"lsiic",
+				"monomod",
+				"bepinex"
 			]
 		}
 	]
