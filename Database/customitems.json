@@ -597,6 +597,23 @@
 				"lsiic"
 			]
 		},
+    {
+			"modID": "strafegun",
+			"Name": "Strafe SMG",
+			"RawName": "StrafeGun.zip",
+			"Author": [
+				"Gunlovers"
+			],
+			"Version": "1.0.0",
+			"Description": "From the bloodiest game of 1996, this firearm returns from the olden days to find new blood and guts to spill!",
+			"Path": "https://bonetome.com/download.php?file=YTAzODVmM2NkYWViMDQ0MCsrMTM0OA==",
+			"Website": "https://bonetome.com/h3vr/weapons/321/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/StrafeGun",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
 		{
 			"modID": "gunrackphys",
 			"Name": "Gun Rack (Phys)",
