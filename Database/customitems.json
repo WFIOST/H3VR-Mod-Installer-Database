@@ -680,7 +680,42 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/SovietPigeonmod1",
 			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "ccipepperbox",
+			"Name": "CCI Pepperbox",
+			"RawName": "ccipepperbox.zip",
+			"Author": [
+				"KamikazeF0X"
+			],
+			"Version": "1.0.0",
+			"Description": "50 barrels break action .22 Long Rifle gun can either be a fun little plinker or an angry swarm of bees thanks to the selector on the left side of the reciver! This selector allows you to fire all the 50 barrels!\nNote : In the future, if the break actions guns will have speedloaders, this will take a box of ammo like the ones from CCI (hence the name of the gun)",
+			"Path": "https://bonetome.com/download.php?file=ZGIxODk3MGM5NmUwODViNiszNjUrMTM2NQ==",
+			"Website": "https://bonetome.com/h3vr/weapons/333/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/ccipepperbox",
+			"Dependencies": [
 				"lsiic",
+				"meatsshotguns"
+			]
+		},
+		{
+			"modID": "dumpomatic",
+			"Name": "Dump-O-Matic",
+			"RawName": "dumpomatic.zip",
+			"Author": [
+				"KamikazeF0X"
+			],
+			"Version": "0.9.0",
+			"Description": "The Dump-o-matic is the pinnacle of abusive consumerism!\nThis handgun holds up 8 rounds of 9mm Parabellum, with how poorly it is made, it would be surprising if it could fire one more...\nIt is spawnlockable, so once empty, spawn a new one, rack it and off you go!\nThere is also a golden unlimited ammo version, just for giggles",
+			"Path": "https://bonetome.com/download.php?file=ZDg4YmM0NjhhYTJhOWZhNyszNjUrMTM2Ng==",
+			"Website": "https://bonetome.com/h3vr/weapons/334/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/dumpomatic",
+			"Dependencies": [
+				"lsiic"
 			]
 		}
 	]
