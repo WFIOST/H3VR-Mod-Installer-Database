@@ -380,12 +380,12 @@
 		{
 			"modID": "notwolfiesmuzzles",
 			"Name": "FOXArms Muzzles",
-			"RawName": "FOXArmsMuzzles0.7.2.zip",
+			"RawName": "FOXArmsMuzzles073.zip",
 			"Author": [
 				"NotWolfie",
 				"Meat_Banono"
 			],
-			"Version": "0.7.2",
+			"Version": "0.7.3",
 			"Description": "Thanks to Potatoes , AndrewFT, @Warlord Soulbro of the Melon and Meatbanono , I present..\n\nFOXARMS Attachments (Muzzles and Supressors)\nVersion 0.7.2\n\nMore muzzles and supressors are coming! Don't think I'm done yet!\n\nCurrently added\n- Gemtech One (Scales)\n- Rotor 43 (Scales)\n- Titan Muzzle Combo (Muzzle and Supressor, Non-scale)\n- Daniel Defence Combo (Muzzle and Supressor, Non-scale)\n- Colt AR15 Flash-hider (Non-scale)\n- GK-02 Shotgun Muzzle (Non-Scale)\n- Fischer Glock Supressor (Has an attachment point)\n- Alpha Dog (Has an attachment point)\n- Vendetta Muzzle Brake\n- CQB Muzzle Brake\n- Titanium Compensator\n- SRD Supressor ",
 			"Path": "https://bonetome.com/download.php?file=YTU3YTU4NjcyODc3MjYwNSszNjUrMTIzNQ==",
 			"Website": "https://bonetome.com/h3vr/weapons/273/",
@@ -670,11 +670,11 @@
 		{
 			"modID": "golub92match",
 			"Name": "G92M",
-			"RawName": "G92M.zip",
+			"RawName": "G92Mupdate1.2.5.zip",
 			"Author": [
 				"SovietPigeon"
 			],
-			"Version": "1.2.0",
+			"Version": "1.2.5",
 			"Description": "Sovietpigeon's G92M on the mod installer. /nA funny little cross between a Beretta, a Glock, and a USP Match.",
 			"Path": "https://bonetome.com/download.php?file=YThmZjJlZjBhYzE5YzNhNisyMjE3KzEzNTU=",
 			"Website": "https://bonetome.com/h3vr/weapons/328/",

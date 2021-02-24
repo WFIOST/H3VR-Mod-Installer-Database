@@ -219,23 +219,23 @@
         "sideloader"
       ]
     },
-    {
-      "modID": "bratwurstbernie",
-      "Name": "Bratwurst Bernie",
-      "RawName": "BratwurstBernieV1.1.rar",
-      "Author": [
-        "LqdVR"
-      ],
-      "Version": "1.1.0",
-      "Description": "This character features all guns from Germany, Austria and Switzerland from turn of the century, WWI, WWII, crazy cold war space guns all the way up to modern classics.\nLoot progression is loosely based on default type characters, with weakest guns at the start, the further you get, the more firepower you will gain.\nOh and I threw in some swanky MP5 foregrips and germanic(probably) medieval weapons for good measure.\nThe level difficulty is also mostly based on the standard enemy and encryption progression with some tweaks for slighty better playability.\nTested on Update 96.\nStandard and limited ammo has been tested pretty thoroughly, endless not so much.\nAnyway let me know if you run into some problems or feel like there could be tweaks or improvements.",
-      "Path": "https://bonetome.com/download.php?file=MDEyYzgxYzQ1YTUyOTJlYSszNjUrODY2",
-      "Website": "https://bonetome.com/h3vr/characters/164/",
-      "Arguments": "unzipToDir?Mods/",
-      "DelInfo": "Mods/BratwurstBernie.deli",
-      "Dependencies": [
-        "tnhtweaker"
-      ]
-    },
+		{
+			"modID": "bratwurstbernie",
+			"Name": "Bratwurst Bernie",
+			"RawName": "BratwurstBernieV1.2.rar",
+			"Author": [
+				"LqdVR"
+			],
+			"Version": "1.2.0",
+			"Description": "This character features all guns from Germany, Austria and Switzerland from turn of the century, WWI, WWII, crazy cold war space guns all the way up to modern classics.\nLoot progression is loosely based on default type characters, with weakest guns at the start, the further you get, the more firepower you will gain.\nOh and I threw in some swanky MP5 foregrips and germanic(probably) medieval weapons for good measure.\nThe level difficulty is also mostly based on the standard enemy and encryption progression with some tweaks for slighty better playability.\nTested on Update 96.\nStandard and limited ammo has been tested pretty thoroughly, endless not so much.\nAnyway let me know if you run into some problems or feel like there could be tweaks or improvements.",
+			"Path": "https://bonetome.com/download.php?file=MDEyYzgxYzQ1YTUyOTJlYSszNjUrODY2",
+			"Website": "https://bonetome.com/h3vr/characters/164/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/BratwurstBernie.deli",
+			"Dependencies": [
+				"tnhtweaker"
+			]
+		},
     {
       "modID": "completelyfuckedcarl",
       "Name": "Completely Fucked Carl",
