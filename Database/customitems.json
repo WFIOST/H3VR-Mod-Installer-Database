@@ -194,7 +194,7 @@
       "Path": "https://bonetome.com/download.php?file=OGZjMjdjNjkzNWM3NDkyZSs0NDErMTIzMA==",
       "Website": "https://bonetome.com/h3vr/weapons/271/",
       "Arguments": "unzipToDir?VirtualObjects/",
-      "DelInfo": "VirtualObjects/MeatsModul870",
+      "DelInfo": "VirtualObjects/modul870",
       "Dependencies": [
         "lsiic",
         "h3vrutils"
@@ -284,11 +284,11 @@
       "Path": "https://bonetome.com/download.php?file=NWZkMDgzZGYyNGI0OWZhZSsrMTMyMw==",
       "Website": "https://bonetome.com/h3vr/weapons/304/",
       "Arguments": "unzipToDir?VirtualObjects/",
-      "DelInfo": "VirtualObjects/MelonVP",
-      "Dependencies": [
-        "lsiic",
-        "h3vrutils"
-      ]
+      "DelInfo": "VirtualObjects/mvp",
+			"Dependencies": [
+				"lsiic",
+				"h3vrutils"
+			]
     },
 		{
 			"modID": "45turn",
@@ -355,6 +355,7 @@
 			"Path": "https://bonetome.com/download.php?file=M2MyODRlMWU4NWI5ZjE3MCsxMzY3KzExMDk=",
 			"Website": "https://bonetome.com/h3vr/weapons/242/",
 			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/Andrews Foregrips",
 			"Dependencies": [
 				"lsiic"
 			]
@@ -406,7 +407,7 @@
 			"Path": "https://bonetome.com/download.php?file=MWQ2ZmRlZWU1Yjk0ZTNmMCszNjUrMTI0OQ==",
 			"Website": "https://bonetome.com/h3vr/weapons/279/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/VPO215/",
+			"DelInfo": "VirtualObjects/VPO-215",
 			"Dependencies": [
 				"lsiic"
 			]
