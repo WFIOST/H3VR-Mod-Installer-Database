@@ -464,18 +464,18 @@
 			]
 		},
 		{
-			"modID": "jayydenlaser",
-			"Name": "Modern Warfighter Laser and Lights",
-			"RawName": "MWLL.rar",
+			"modID": "MWLL",
+			"Name": "Modern Warfighter Lights And Lasers",
+			"RawName": "MWLL.zip",
 			"Author": [
 				"Jayyden"
 			],
-			"Version": "1.0.1",
-			"Description": "A collection of modern weapon lights and lasers, with reworked effects for a better-looking atachment.\n\nContains the following:\nEoTech NGAL\nEoTech AN/PEQ-15 with BUIS\nSteiner DBAL-i2 with BUIS\nSteiner DBAL-A3\nZenitCo Perst4\nBE Meyers MAWL-C1+\n\nThanks to:\n- Shampooh, Carkidd (assistance with implementation)\n- Melon (purchasing models)",
-			"Path": "https://bonetome.com/download.php?file=ZTg2OGY5MWQ1NGU5YzBjMisrMTMzMw==",
+			"Version": "1.0.4",
+			"Description": "A collection of modern weapon lights and lasers, with reworked effects for better-looking attachments.",
+			"Path": "https://bonetome.com/download.php?file=ZTg2OGY5MWQ1NGU5YzBjMisyMTYxKzEzMzM=",
 			"Website": "https://bonetome.com/h3vr/weapons/308/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/lightsandlasers",
+			"DelInfo": "VirtualObjects/mwll",
 			"Dependencies": [
 				"lsiic"
 			]
@@ -732,23 +732,6 @@
 			"Website": "https://bonetome.com/h3vr/weapons/336/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/mwo",
-			"Dependencies": [
-				"lsiic"
-			]
-		},
-		{
-			"modID": "mwll",
-			"Name": "Modern Warfighter Lights And Lasers",
-			"RawName": "MWLL.zip",
-			"Author": [
-				"Jayyden"
-			],
-			"Version": "1.0.4",
-			"Description": "A collection of modern weapon lights and lasers, with reworked effects for better-looking attachments.",
-			"Path": "https://bonetome.com/download.php?file=ZTg2OGY5MWQ1NGU5YzBjMisyMTYxKzEzMzM=",
-			"Website": "https://bonetome.com/h3vr/weapons/308/",
-			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/mwll",
 			"Dependencies": [
 				"lsiic"
 			]
