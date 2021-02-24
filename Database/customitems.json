@@ -718,6 +718,40 @@
 			"Dependencies": [
 				"lsiic"
 			]
+		},
+		{
+			"modID": "mwo",
+			"Name": "Modern Warfighter Optics",
+			"RawName": "MWO.zip",
+			"Author": [
+				"Jayyden"
+			],
+			"Version": "1.0.0",
+			"Description": "A collection of modern collimator optics meant for contemporary weapon systems in various sizes, shapes, and colors.",
+			"Path": "https://bonetome.com/download.php?file=NmU0ZDBhZjAzYWZlMzk4NCsyMTYxKzEzNzM=",
+			"Website": "https://bonetome.com/h3vr/weapons/336/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/mwo",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "mwll",
+			"Name": "Modern Warfighter Lights And Lasers",
+			"RawName": "MWLL.zip",
+			"Author": [
+				"Jayyden"
+			],
+			"Version": "1.0.4",
+			"Description": "A collection of modern weapon lights and lasers, with reworked effects for better-looking attachments.",
+			"Path": "https://bonetome.com/download.php?file=ZTg2OGY5MWQ1NGU5YzBjMisyMTYxKzEzMzM=",
+			"Website": "https://bonetome.com/h3vr/weapons/308/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/mwll",
+			"Dependencies": [
+				"lsiic"
+			]
 		}
 	]
 }
