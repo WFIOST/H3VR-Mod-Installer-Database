@@ -475,7 +475,7 @@
 			"Path": "https://bonetome.com/download.php?file=ZTg2OGY5MWQ1NGU5YzBjMisyMTYxKzEzMzM=",
 			"Website": "https://bonetome.com/h3vr/weapons/308/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/mwll",
+			"DelInfo": "VirtualObjects/lightsandlasers",
 			"Dependencies": [
 				"lsiic"
 			]
@@ -731,7 +731,7 @@
 			"Path": "https://bonetome.com/download.php?file=NmU0ZDBhZjAzYWZlMzk4NCsyMTYxKzEzNzM=",
 			"Website": "https://bonetome.com/h3vr/weapons/336/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/mwo",
+			"DelInfo": "VirtualObjects/optics",
 			"Dependencies": [
 				"lsiic"
 			]
