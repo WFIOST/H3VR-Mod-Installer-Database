@@ -675,11 +675,11 @@
 				"SovietPigeon"
 			],
 			"Version": "1.2.5",
-			"Description": "Sovietpigeon's G92M on the mod installer. /nA funny little cross between a Beretta, a Glock, and a USP Match.",
+			"Description": "Sovietpigeon's G92M on the mod installer. \nA funny little cross between a Beretta, a Glock, and a USP Match.",
 			"Path": "https://bonetome.com/download.php?file=YThmZjJlZjBhYzE5YzNhNisyMjE3KzEzNTU=",
 			"Website": "https://bonetome.com/h3vr/weapons/328/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/G92Mupdate1.2.5",
+			"DelInfo": "VirtualObjects/G92Mupdate1.2.5/",
 			"Dependencies": [
 				"lsiic"
 			]
