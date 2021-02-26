@@ -156,7 +156,7 @@
 			"Path": "https://bonetome.com/download.php?file=ZWZhZWFlMmIwNWMxM2RjOSszNjUrMTM4Mg==",
 			"Website": "https://bonetome.com/h3vr/weapons/343/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/ModulAK?VirtualObjects/modular-modulak",
+			"DelInfo": "VirtualObjects/ModulAK(VanillaMag)/",
 			"Dependencies": [
 				"lsiic",
 				"h3vrutils"
