@@ -144,32 +144,32 @@
 				"meatsmodularparts"
 			]
 		},
-    {
-      "modID": "meatsmodulak",
-      "Name": "Meat's ModulAK",
-      "RawName": "MeatsModulAK1.1.zip",
-      "Author": [
-        "Meat_Banono"
-      ],
-      "Version": "1.1.0",
-      "Description": "It's here, and it's better than ever before. Meat's ModulAK, featuring advanced features like compressing springs and attachable folding stocks!\nIncluded in this mod are several things I said I wouldn't make, namely:\nAK74N in 5.45x39mm\nAK105 in 5.45x39mm\nAK103 in 7.62x39mm\nAK104 in 7.62x39mm\nAK101 in 5.56x45mm\nAK102 in 5.56x45mm\nAll ModulAK's can be found in lever action pistol category, alongside grips and dustcovers.\nModulAK Handguards are found under Attachments - Grips.\nModulAK Stocks are found under Attachments - Stocks.\nPlease use Meat's Magazines for extra compatible AK series magazines for your favorite builds!\nKnown issues - SFS adapter for AK74N will not fold, so it is just a static tube adapter for AR stocks.",
-      "Path": "https://bonetome.com/download.php?file=NzFhNzc3MWJiZjQ2OWJhOCszNjUrODYx",
-      "Website": "https://bonetome.com/h3vr/weapons/162/",
-      "Arguments": "unzipToDir?VirtualObjects/",
-      "DelInfo": "VirtualObjects/AKParts",
-      "Dependencies": [
-        "lsiic",
-        "h3vrutils"
-      ]
-    },
 		{
-			"modID": "meatsmodulpp",
-			"Name": "Meat's ModulPP",
-			"RawName": "MeatsModulPP.zip",
+			"modID": "meatsmodulak",
+			"Name": "Meat's ModulAK",
+			"RawName": "MeatsModulAK(VanillaMag).zip",
 			"Author": [
 				"Meat_Banono"
 			],
-			"Version": "1.0.0",
+			"Version": "2.0.0",
+			"Description": "PLEASE DELETE YOUR OLD AKPARTS AND MODULPP FOLDERS FROM VIRTUAL OBJECTS IF YOU ARE UPDATING\nTHIS MOD REQUIRES THE LATEST VERSION OF H3UTILS: https://bonetome.com/h3vr/mods/160/ \nTHIS VERSION OF THE MOD DOES NOT SIMULATE MAG LATCH BEHAVIOUR: SIMPLY GRAB THE MAGAZINE TO REMOVE IT\nModulAK steels its way through the tundra and winter of Russia to find its way back to Bonetome, bigger, badder, and stronger then ever. Featuring a changelog literally too long to post, this mod has functionally been rebuilt from the bottom up. \n\nIncluded in this re-release are:\nRECEIVERS\n-AKM              Assault Rifles\n-AK74N            Assault Rifles\n-AK101            Assault Rifles\n-AK102            Assault Rifles\n-AK103            Assault Rifles\n-AK104            Assault Rifles\n-AK105            Assault Rifles\n-AKS74UN          Carbines\n-PP19 Vityaz      SMGs\n-Saiga 9 Carbine  SMGS\n\nATTACHMENTS\n-Literally over 100 different attachments\n-Please watch the tutorial to find them\n\nMAGAZINES\n-Every AK magazine from Meat's Mags has been retextured and included in this mod (still compatible, dont go deleting Meat's Mags)\n-Added several new magazines in addition, located at the end of the Assault Rifles category\n\nIf you have any questions, please feel free to ping me, @Meat_banono in either the mods-general section of the H3VR discord or in the general help channel of the H3VR Homebrew Server\n\nI want to thank Nikpo for some excellent FDE retextures, Jayyden for the amazing infographic panels, Andrew_FTW for the brilliantly soviet Icons, all of my beta testers, and especially the Escape from Tarkov team, whose models and textures I truly have unending admiration of. I hope you will too after some up close time with these weapons. Thank you for downloading this mod!",
+			"Path": "https://bonetome.com/download.php?file=ZWZhZWFlMmIwNWMxM2RjOSszNjUrMTM4Mg==",
+			"Website": "https://bonetome.com/h3vr/weapons/343/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/ModulAK?VirtualObjects/modular-modulak",
+			"Dependencies": [
+				"lsiic",
+				"h3vrutils"
+			]
+		},
+		{
+			"modID": "meatsmodulpp",
+			"Name": "Meat's ModulPP",
+			"RawName": "empt",
+			"Author": [
+				"Meat_Banono"
+			],
+			"Version": "1.0.1",
 			"Description": "The cold Russian winter brings another modular receiver forth. The PP-19 01 Vityaz Submachinegun!Chambered in 9x19mm with a high cyclic rate, this is a very comfortable and peppy AK-style SMG. \nThis is completely compatible with my ModulAK pack, and is needed for the pistolgrips. To install, drag and drop the folder into your VirtualObjects folder.\nIncluded in this little pack (all found under lever action pistols) are:\nPP-19 SMG\nSaiga 9 Carbine\nPP-19 30 rnd Magazine\n30 rnd Banana Magazine\nSaiga 9 10 rnd Magazine\nTwo dustcovers and PP-19 Muzzlebrake\nHappy plinking and gunsmithing!",
 			"Path": "https://bonetome.com/download.php?file=ODQ4YThkNDZjMGZhYzNmYSszNjUrODc3",
 			"Website": "https://bonetome.com/h3vr/weapons/165/",
