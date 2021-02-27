@@ -709,7 +709,7 @@
 			"Author": [
 				"KamikazeF0X"
 			],
-			"Version": "0.9.2",
+			"Version": "0.9.4",
 			"Description": "The Dump-o-matic is the pinnacle of abusive consumerism!\nThis handgun holds up 8 rounds of 9mm Parabellum, with how poorly it is made, it would be surprising if it could fire one more...\nIt is spawnlockable, so once empty, spawn a new one, rack it and off you go!\nThere is also a golden unlimited ammo version, just for giggles",
 			"Path": "https://bonetome.com/download.php?file=ZDg4YmM0NjhhYTJhOWZhNyszNjUrMTM2Ng==",
 			"Website": "https://bonetome.com/h3vr/weapons/334/",
@@ -732,6 +732,23 @@
 			"Website": "https://bonetome.com/h3vr/weapons/336/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/optics",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "thekeyring",
+			"Name": "The Key Ring",
+			"RawName": "thekeyring.zip",
+			"Author": [
+				"KamikazeF0X"
+			],
+			"Version": "1.0.0",
+			"Description": "This adds 6 new underbarrel firearms on the base of the already in game 'Spare Key' and the 'House Key'\n\nThe Scooter Key - A tiny one chambered in 12ga short\nThe Tractor Key - A quite rural one that shoots military grade 50mm... potatoes\nThe Truck Key - A punchy gun that fires 20x82mm rounds\nThe Boat Key - A pocket solution for .50BMG \nThe Plane Key - A useful one that uses 27x90mm (Oversized Kolibri rounds)\nThe Safe Key - A mortar that attaches under any big enough guns that can whistand the power of .45ACP Oversized!",
+			"Path": "https://bonetome.com/download.php?file=MGViMzFhYTE3ZmEzMDEzYyszNjUrMTM3Nw==",
+			"Website": "https://bonetome.com/h3vr/weapons/339/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/thekeyring",
 			"Dependencies": [
 				"lsiic"
 			]
