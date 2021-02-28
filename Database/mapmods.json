@@ -185,9 +185,9 @@
 			"Version": "1.0.",
 			"Description": "Don't look down...\nOriginal map created by Tug, (https://steamcommunity.com/id/tuggleboat) adapted to H3VR by tiktokfamous.\nA Take and Hold map set atop a high-rise, features 4 hold points and 6 supply points.",
 			"Path": "https://bonetome.com/download.php?file=NDFlOTQ1MzBiZDE5NjE3Mys0NDErMTI3MA==",
-			"Website": "https://bonetome.com/h3vr/map/103/",
-			"Arguments": "unzipToDir?CustomLevels/Generic/",
-			"Delinfo": "CustomLevels/Generic/Generic-Item Posing/",
+			"Website": "https://bonetome.com/h3vr/map/285/",
+			"Arguments": "unzipToDir?CustomLevels/TakeAndHold",
+			"Delinfo": "CustomLevels/TakeAndHold/TNH-FreeHold/",
 			"Dependencies": [
 				"wurstmod"
 			]
