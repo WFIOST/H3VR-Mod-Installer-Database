@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "modlistname": {
+      "type": "string"
+    },
+    "modlistid": {
+      "type": "string"
+    },
+    "modlist": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "modID": {
+              "type": "string"
+            },
+            "Name": {
+              "type": "string"
+            },
+            "RawName": {
+              "type": "string"
+            },
+            "Author": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "Version": {
+              "type": "string"
+            },
+            "Description": {
+              "type": "string"
+            },
+            "Path": {
+              "type": "string"
+            },
+            "Website": {
+              "type": "string"
+            },
+            "Arguments": {
+              "type": "string"
+            },
+            "DelInfo": {
+              "type": "string"
+            },
+            "Dependencies": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            }
+          },
+          "required": [
+            "modID",
+            "Name",
+            "RawName",
+            "Author",
+            "Version",
+            "Description",
+            "Path",
+            "Website",
+            "Arguments",
+            "DelInfo",
+            "Dependencies"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "modlistname",
+    "modlistid",
+    "modlist"
+  ]
+}
