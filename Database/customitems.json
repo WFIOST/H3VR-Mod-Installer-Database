@@ -151,7 +151,7 @@
 			"Author": [
 				"Meat_Banono"
 			],
-			"Version": "2.0.0",
+			"Version": "2.0.1",
 			"Description": "PLEASE DELETE YOUR OLD AKPARTS AND MODULPP FOLDERS FROM VIRTUAL OBJECTS IF YOU ARE UPDATING\nTHIS MOD REQUIRES THE LATEST VERSION OF H3UTILS: https://bonetome.com/h3vr/mods/160/ \nTHIS VERSION OF THE MOD DOES NOT SIMULATE MAG LATCH BEHAVIOUR: SIMPLY GRAB THE MAGAZINE TO REMOVE IT\nModulAK steels its way through the tundra and winter of Russia to find its way back to Bonetome, bigger, badder, and stronger then ever. Featuring a changelog literally too long to post, this mod has functionally been rebuilt from the bottom up. \n\nIncluded in this re-release are:\nRECEIVERS\n-AKM              Assault Rifles\n-AK74N            Assault Rifles\n-AK101            Assault Rifles\n-AK102            Assault Rifles\n-AK103            Assault Rifles\n-AK104            Assault Rifles\n-AK105            Assault Rifles\n-AKS74UN          Carbines\n-PP19 Vityaz      SMGs\n-Saiga 9 Carbine  SMGS\n\nATTACHMENTS\n-Literally over 100 different attachments\n-Please watch the tutorial to find them\n\nMAGAZINES\n-Every AK magazine from Meat's Mags has been retextured and included in this mod (still compatible, dont go deleting Meat's Mags)\n-Added several new magazines in addition, located at the end of the Assault Rifles category\n\nIf you have any questions, please feel free to ping me, @Meat_banono in either the mods-general section of the H3VR discord or in the general help channel of the H3VR Homebrew Server\n\nI want to thank Nikpo for some excellent FDE retextures, Jayyden for the amazing infographic panels, Andrew_FTW for the brilliantly soviet Icons, all of my beta testers, and especially the Escape from Tarkov team, whose models and textures I truly have unending admiration of. I hope you will too after some up close time with these weapons. Thank you for downloading this mod!",
 			"Path": "https://bonetome.com/download.php?file=ZWZhZWFlMmIwNWMxM2RjOSszNjUrMTM4Mg==",
 			"Website": "https://bonetome.com/h3vr/weapons/343/",
@@ -726,7 +726,7 @@
 			"Author": [
 				"Jayyden"
 			],
-			"Version": "1.0.0",
+			"Version": "1.0.2",
 			"Description": "A collection of modern collimator optics meant for contemporary weapon systems in various sizes, shapes, and colors.",
 			"Path": "https://bonetome.com/download.php?file=NmU0ZDBhZjAzYWZlMzk4NCsyMTYxKzEzNzM=",
 			"Website": "https://bonetome.com/h3vr/weapons/336/",
@@ -749,6 +749,23 @@
 			"Website": "https://bonetome.com/h3vr/weapons/339/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/thekeyring",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "shotsword",
+			"Name": "ShotSword",
+			"RawName": "shotsword.zip",
+			"Author": [
+				"KamikazeF0X"
+			],
+			"Version": "1.0.0",
+			"Description": "This is a quite dangerous sword, but also a deadly shotgun!\nLoad this weapon with Dragon's Breath ammo and unleash terror among sliced and grilled sosigs!\n\nThe weapon is in "Shotguns > Tube Fed"\nIt holds 3 rounds in the internal mag plus one in the chamber\nIt features a "Hidden" attachment point on the top for stuff like a laser pointer",
+			"Path": "https://bonetome.com/download.php?file=MWE4YzljOTk3YzkxYTY0YSszNjUrMTM4NQ==",
+			"Website": "https://bonetome.com/h3vr/weapons/345/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/shotsword",
 			"Dependencies": [
 				"lsiic"
 			]
