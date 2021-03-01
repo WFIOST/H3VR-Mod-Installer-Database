@@ -761,7 +761,7 @@
 				"KamikazeF0X"
 			],
 			"Version": "1.0.0",
-			"Description": "This is a quite dangerous sword, but also a deadly shotgun!\nLoad this weapon with Dragon's Breath ammo and unleash terror among sliced and grilled sosigs!\n\nThe weapon is in "Shotguns > Tube Fed"\nIt holds 3 rounds in the internal mag plus one in the chamber\nIt features a "Hidden" attachment point on the top for stuff like a laser pointer",
+			"Description": "This is a quite dangerous sword, but also a deadly shotgun!\nLoad this weapon with Dragon's Breath ammo and unleash terror among sliced and grilled sosigs!\n\nThe weapon is in 'Shotguns > Tube Fed'\nIt holds 3 rounds in the internal mag plus one in the chamber\nIt features a 'Hidden' attachment point on the top for stuff like a laser pointer",
 			"Path": "https://bonetome.com/download.php?file=MWE4YzljOTk3YzkxYTY0YSszNjUrMTM4NQ==",
 			"Website": "https://bonetome.com/h3vr/weapons/345/",
 			"Arguments": "unzipToDir?VirtualObjects/",
