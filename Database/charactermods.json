@@ -22,7 +22,7 @@
     {
       "modID": "pmcpete",
       "Name": "PMC Pete",
-      "RawName": "PMCPete(UNZIPME).zip",
+      "RawName": "PMCPete.zip",
       "Author": [
         "devyndamonster"
       ],
@@ -33,7 +33,7 @@
       "Arguments": "unzipToDir?Mods/",
       "DelInfo": "Mods/PMCPete.deli",
       "Dependencies": [
-        "tnhtweaker",
+        "tnhtweaker"
       ]
     },
     {
@@ -84,10 +84,10 @@
       "Arguments": "moveToFolder?JohnWurst.zip?Mods/?JohnWurst.zip",
       "DelInfo": "Mods/JohnWurst.zip",
       "Dependencies": [
-	    "meatsmodularparts",
-		"meatsmodulmpx",
-	    "modular",
-		"pccg",
+	"meatsmodularparts",
+	"meatsmodulmpx",
+	"modular",
+	"pccg",
         "tnhtweaker"
       ]
     },
