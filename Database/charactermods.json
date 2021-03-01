@@ -119,13 +119,13 @@
     {
       "modID": "allrounderrandy",
       "Name": "All Rounder Randy",
-      "RawName": "AllRounderRandyv2.5.0.zip",
+      "RawName": "AllRounderRandyv2.6.0.zip",
       "Author": [
         "Jessica"
       ],
-      "Version": "2.5.0",
+      "Version": "2.6.0",
       "Description": "\nThe first custom character ever made (aside from Devyn's, of course...) is now the first on Bonetome! Unless someone else has snuck their way in before me.\nAll Rounder Randy is arguably the custom character which comes closest to vanilla gameplay, specifically Classic Loadout Louis, but features custom Sosigs and an altered progression, there is a lot less getting screwed over because your luck was bad, and you'll find things you never would've got in most other vanilla characters",
-      "Path": "https://bonetome.com/download.php?file=ZDA4ZjhlOWU3NjczYjE5Mis0NDErODYw",
+      "Path": "https://bonetome.com/download.php?file=ZDA4ZjhlOWU3NjczYjE5Mis5NjQrODYw",
       "Website": "https://bonetome.com/h3vr/characters/161/",
       "Arguments": "unzipToDir??moveToFolder?All Rounder Randy/Mods/?/?Mods/?moveToFolder?All Rounder Randy/TNH_Tweaker/?/?TNH_Tweaker/",
       "DelInfo": "Mods/AllRounderRandy",
@@ -219,39 +219,39 @@
         "sideloader"
       ]
     },
-		{
-			"modID": "bratwurstbernie",
-			"Name": "Bratwurst Bernie",
-			"RawName": "BratwurstBernieV1.2.rar",
-			"Author": [
-				"LqdVR"
-			],
-			"Version": "1.2.0",
-			"Description": "This character features all guns from Germany, Austria and Switzerland from turn of the century, WWI, WWII, crazy cold war space guns all the way up to modern classics.\nLoot progression is loosely based on default type characters, with weakest guns at the start, the further you get, the more firepower you will gain.\nOh and I threw in some swanky MP5 foregrips and germanic(probably) medieval weapons for good measure.\nThe level difficulty is also mostly based on the standard enemy and encryption progression with some tweaks for slighty better playability.\nTested on Update 96.\nStandard and limited ammo has been tested pretty thoroughly, endless not so much.\nAnyway let me know if you run into some problems or feel like there could be tweaks or improvements.",
-			"Path": "https://bonetome.com/download.php?file=MDEyYzgxYzQ1YTUyOTJlYSszNjUrODY2",
-			"Website": "https://bonetome.com/h3vr/characters/164/",
-			"Arguments": "unzipToDir?Mods/",
-			"DelInfo": "Mods/BratwurstBernie.deli",
-			"Dependencies": [
-				"tnhtweaker"
-			]
-		},
-		{
-			"modID": "completelyfuckedcarl",
-			"Name": "Completely Fucked Carl",
-			"RawName": "CompletelyFuckedCarl.rar",
-			"Author": [
-				"ilgmesh"
-			],
-			"Version": "1.0.1",
-			"Description": "GTA SA style gang wars, static encryption only\n- Ballas, Vagos, Triads and Police, each round introduces a new gang and they're all hostile towards each other\n- GTA SA pistols mostly drop from Ballas and Vagos, most of the other SA weapons will randomly drop from the Triads and Police\n- Lots of meat to shoot\nPROBABLY works best with spawnlock enabled, but there is a free riot shield at the beginning if you're a fan of always being out of ammo",
-			"Path": "https://bonetome.com/download.php?file=NjM1ZTNhYmQ3ZGM3OTgyYyszNjUrMTAwNQ==",
-			"Website": "https://bonetome.com/h3vr/characters/199/",
-			"Arguments": "unzipToDir?Mods/",
-			"DelInfo": "Mods/CompletelyFuckedCarl",
-			"Dependencies": [
-				"tnhtweaker"
-			]
-		}
+    {
+      "modID": "bratwurstbernie",
+      "Name": "Bratwurst Bernie",
+      "RawName": "BratwurstBernieV1.2.rar",
+      "Author": [
+        "LqdVR"
+      ],
+      "Version": "1.2.0",
+      "Description": "This character features all guns from Germany, Austria and Switzerland from turn of the century, WWI, WWII, crazy cold war space guns all the way up to modern classics.\nLoot progression is loosely based on default type characters, with weakest guns at the start, the further you get, the more firepower you will gain.\nOh and I threw in some swanky MP5 foregrips and germanic(probably) medieval weapons for good measure.\nThe level difficulty is also mostly based on the standard enemy and encryption progression with some tweaks for slighty better playability.\nTested on Update 96.\nStandard and limited ammo has been tested pretty thoroughly, endless not so much.\nAnyway let me know if you run into some problems or feel like there could be tweaks or improvements.",
+      "Path": "https://bonetome.com/download.php?file=MDEyYzgxYzQ1YTUyOTJlYSszNjUrODY2",
+      "Website": "https://bonetome.com/h3vr/characters/164/",
+      "Arguments": "unzipToDir?Mods/",
+      "DelInfo": "Mods/BratwurstBernie.deli",
+      "Dependencies": [
+        "tnhtweaker"
+      ]
+    },
+    {
+      "modID": "completelyfuckedcarl",
+      "Name": "Completely Fucked Carl",
+      "RawName": "CompletelyFuckedCarl.zip",
+      "Author": [
+        "ilgmesh"
+      ],
+      "Version": "1.0.1",
+      "Description": "GTA SA style gang wars, static encryption only\n- Ballas, Vagos, Triads and Police, each round introduces a new gang and they're all hostile towards each other\n- GTA SA pistols mostly drop from Ballas and Vagos, most of the other SA weapons will randomly drop from the Triads and Police\n- Lots of meat to shoot\nPROBABLY works best with spawnlock enabled, but there is a free riot shield at the beginning if you're a fan of always being out of ammo",
+      "Path": "https://bonetome.com/download.php?file=NjM1ZTNhYmQ3ZGM3OTgyYyszNjUrMTAwNQ==",
+      "Website": "https://bonetome.com/h3vr/characters/199/",
+      "Arguments": "unzipToDir?Mods/",
+      "DelInfo": "Mods/CompletelyFuckedCarl",
+      "Dependencies": [
+        "tnhtweaker"
+      ]
+    }
   ]
 }
