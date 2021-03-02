@@ -1,6 +1,6 @@
 {
   "modlistname": "Super Secret Database",
-  "modlistid": "experimentaldatabase",
+  "modlistid": "experimental",
 	"modlist": [
 		{
 			"modID": "basedmod",
