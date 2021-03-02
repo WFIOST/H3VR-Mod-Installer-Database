@@ -33,17 +33,7 @@
       "Arguments": "unzipToDir?Mods/",
       "DelInfo": "Mods/PMCPete.deli",
       "Dependencies": [
-        "tnhtweaker",
-        "meatsash12",
-        "meatsmodulmpx",
-        "meatsmags",
-        "ebr",
-        "meatsmodulsr",
-        "meatsmodulpp",
-        "meatsmodulak",
-        "modular",
-        "meatsmodularparts",
-        "pccg"
+        "tnhtweaker"
       ]
     },
     {
@@ -251,29 +241,8 @@
       "Path": "https://bonetome.com/download.php?file=NjM1ZTNhYmQ3ZGM3OTgyYys5NjQrMTAwNQ==",
       "Website": "https://bonetome.com/h3vr/characters/199/",
       "Arguments": "moveToFolder?CompletelyFuckedCarl.zip?Mods/?CompletelyFuckedCarl.zip",
-      "DelInfo": "Mods/CompletelyFuckedCarl.zip",
+      "DelInfo": "Mods/CompletelyFuckedCarl",
       "Dependencies": [
-        "tnhtweaker"
-      ]
-    },
-    {
-      "modID": "modularadrian",
-      "Name": "ModulAR Adrian",
-      "RawName": "Adrianv1.0.2.zip",
-      "Author": [
-        "Altra/alvin2503/Altr4"
-      ],
-      "Version": "1.0.2",
-      "Description": "I have procrastinated long enough\n\na character based on the modulAR mod. Start with the modul9mm and work your up to a bigger caliber while customizing your gun.\nManage your resource, use the mag upgrader and cloner to supply yourself with enough ammo to survive.\n\n*NOTE: Iron sights are inaccurate with the Modul9mm (tendencies to shoot high)*\n\nSupported:\n-Meats Magazine\n-Turt's SidechARger\n-TheKeyRing\n-Modern Warfighter Optics\n-Modern Warfighter Laser and Lights\n-FOXArms Muzzles\n-FTW Arms Foregrips\n-Munchies + the Donut + Chicken!\n\nThere's probably more but I don't remember\n\nLast few hold might be too hard",
-      "Path": "https://bonetome.com/download.php?file=NjM1ZTNhYmQ3ZGM3OTgyYys5NjQrMTAwNQ==",
-      "Website": "https://bonetome.com/h3vr/characters/348/",
-      "Arguments": "moveToFolder?Adrianv1.0.2.zip?Mods/?Adrianv1.0.2.zip",
-      "DelInfo": "Mods/Adrianv1.0.2.zip",
-      "Dependencies": [
-        "meatsmodulsr",
-        "meatsmodularparts",
-        "meatsrigs",
-        "modular",
         "tnhtweaker"
       ]
     }
