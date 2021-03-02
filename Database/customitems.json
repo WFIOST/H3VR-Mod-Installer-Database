@@ -514,22 +514,23 @@
         "lsiic"
       ]
     },
-    {
-      "modID": "gunshields",
-      "Name": "Gunshields",
-      "RawName": "gunshields1.0.2.7z",
-      "Author": [
-        "Carkidd"
-      ],
-      "Version": "1.0.0",
-      "Description": "First off, thanks a ton to notcolin17 for creating these wonderful models.\nFight back against the hotdog menace with these two gun shields. The newer one offers easy viewing through its glass panels, while the old one allows use of iron sights with its center cutout. They are attachable to any picatinny rail, and can be found at the end of the list under Attachments > Decorative\nThese will block most gunfire from the front- some shots may slip around, especially with the old style shield, but overall you'll be protected from the enemy, especially at range. Some sosig guns, mainly the snipers, will penetrate, so watch out! \nNOTICE: Will lag quite badly with more than one shield attached when in Direct simulation mode! Switch to floating mode in the options panel under Simulation/Game options to remedy- my testing on my pretty weak PC let me get to at least 8 shields without much lag when moving. Make sure to reload the scene to finish changing this setting!\nKnown issues:\nThe modern shield freaks out and flies off a bit when spawning- this is just due to its positioning when it spawns in and I'm not sure how to change that! ",
-      "Path": "https://bonetome.com/download.php?file=MmE1MTc3MjQxZjM1ZmFiNSs5NjQrOTc1",
-      "Website": "https://bonetome.com/h3vr/weapons/193/",
-      "Arguments": "unzipToDir?VirtualObjects/",
-      "Dependencies": [
-        "lsiic"
-      ]
-    },
+		{
+			"modID": "gunshields",
+			"Name": "Gunshields",
+			"RawName": "gunshields1.0.2.7z",
+			"Author": [
+				"Carkidd"
+			],
+			"Version": "1.0.0",
+			"Description": "First off, thanks a ton to notcolin17 for creating these wonderful models.\nFight back against the hotdog menace with these two gun shields. The newer one offers easy viewing through its glass panels, while the old one allows use of iron sights with its center cutout. They are attachable to any picatinny rail, and can be found at the end of the list under Attachments > Decorative\nThese will block most gunfire from the front- some shots may slip around, especially with the old style shield, but overall you'll be protected from the enemy, especially at range. Some sosig guns, mainly the snipers, will penetrate, so watch out! \nNOTICE: Will lag quite badly with more than one shield attached when in Direct simulation mode! Switch to floating mode in the options panel under Simulation/Game options to remedy- my testing on my pretty weak PC let me get to at least 8 shields without much lag when moving. Make sure to reload the scene to finish changing this setting!\nKnown issues:\nThe modern shield freaks out and flies off a bit when spawning- this is just due to its positioning when it spawns in and I'm not sure how to change that! ",
+			"Path": "https://bonetome.com/download.php?file=MmE1MTc3MjQxZjM1ZmFiNSs5NjQrOTc1",
+			"Website": "https://bonetome.com/h3vr/weapons/193/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/gunshields",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
     {
       "modID": "hk416pack",
       "Name": "HK416 Pack",
