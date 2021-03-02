@@ -749,7 +749,7 @@
       "Path": "https://bonetome.com/download.php?file=NmU0ZDBhZjAzYWZlMzk4NCsyMTYxKzEzNzM=",
       "Website": "https://bonetome.com/h3vr/weapons/336/",
       "Arguments": "unzipToDir?VirtualObjects/",
-      "DelInfo": "VirtualObjects/optics",
+      "DelInfo": "VirtualObjects/mwo",
       "Dependencies": [
         "lsiic"
       ]
