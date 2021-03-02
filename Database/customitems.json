@@ -389,7 +389,7 @@
       "Path": "https://bonetome.com/download.php?file=M2MyODRlMWU4NWI5ZjE3MCsxMzY3KzExMDk=",
       "Website": "https://bonetome.com/h3vr/weapons/242/",
       "Arguments": "unzipToDir?VirtualObjects/",
-      "DelInfo": "VirtualObjects/Andrews Foregrips",
+      "DelInfo": "VirtualObjects/FTW Arms Foregrips",
       "Dependencies": [
         "lsiic"
       ]
@@ -492,7 +492,7 @@
       "Path": "https://bonetome.com/download.php?file=NzkxNDc3YjkwMzkwZTUyNCszNjUrMTMwNQ==",
       "Website": "https://bonetome.com/h3vr/weapons/301/",
       "Arguments": "unzipToDir?VirtualObjects/",
-      "DelInfo": "VirtualObjects/FTW Arms ammo boxes",
+      "DelInfo": "VirtualObjects/AmmoBoxes",
       "Dependencies": [
         "lsiic"
       ]
@@ -509,7 +509,7 @@
       "Path": "https://bonetome.com/download.php?file=ZTg2OGY5MWQ1NGU5YzBjMisyMTYxKzEzMzM=",
       "Website": "https://bonetome.com/h3vr/weapons/308/",
       "Arguments": "unzipToDir?VirtualObjects/",
-      "DelInfo": "VirtualObjects/lightsandlasers",
+      "DelInfo": "VirtualObjects/mwll",
       "Dependencies": [
         "lsiic"
       ]
