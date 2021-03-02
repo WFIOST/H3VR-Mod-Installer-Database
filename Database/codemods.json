@@ -75,6 +75,9 @@
 				"bepinex",
 				"deli"
 			]
+			"IncompatableMods": [
+				"betterhands"
+			]
 		}
 	]
 }
