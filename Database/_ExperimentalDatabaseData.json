@@ -1,0 +1,20 @@
+﻿{
+  "modlist": [
+    {
+      "modID": "uniqueidmodinstaller",
+      "Name": "H3VRModInstaller",
+      "Version": "9.9.9",
+      "Description": "Experimental database thing!",
+      "Website": "https://github.com/Frityet/H3VRModInstaller",
+      "Dependencies": [
+        "https://raw.githubusercontent.com/WFIOST/H3VR-Mod-Installer-Database/main/Database/",
+        "charactermods.json",
+        "codemods.json",
+        "dependencies.json",
+        "customitems.json",
+        "mapmods.json",
+        "experimental.json"
+      ]
+    }
+  ]
+}
