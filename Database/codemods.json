@@ -16,7 +16,7 @@
 			"Website": "https://github.com/drummerdude2003/CursedDlls.BepinEx",
 			"Arguments": "unzipToDir?",
 			"DelInfo": "BepInEx/plugins/CursedDlls",
-			"Dependencies": [ 
+			"Dependencies": [
 				"bepinex",
 				"monomod"
 			]
@@ -40,23 +40,41 @@
 				"configurationmanager"
 			]
 		},
-    	{
-      		"modID": "betterhands",
-      		"Name": "Better Hands",
-      		"RawName": "BetterHands.deli",
-      		"Author": [
-      	  	"M’aiq the Dude"
-      		],
-      		"Version": "1.0.0",
-      		"Description": "Mod for H3VR to recolor controller geo, resize interaction spheres, and add mag palming. All features are optional and configured via mods/configs/betterhands.cfg. Configs can be edited mid-game, but will require a scene reload to take effect.\nMag palming allows you to carry two small sized magazines in one hand. To do this click the trigger when holding a magazine in your hand.",
-      		"Path": "https://github.com/Maiq-The-Dude/BetterHands/releases/download/1.0.0/",
-      		"Website": "https://github.com/Maiq-The-Dude/BetterHands/",
-      		"Arguments": "moveToFolder?BetterHands.deli?Mods/?BetterHands.deli",
-      		"DelInfo": "Mods/BetterHands.deli",
-      		"Dependencies": [
-      	  	"bepinex",
-      	  	"deli"
-      		]
-    	}
+		{
+			"modID": "betterhands",
+			"Name": "Better Hands",
+			"RawName": "BetterHands.deli",
+			"Author": [
+				"M’aiq the Dude"
+			],
+			"Version": "1.0.0",
+			"Description": "Mod for H3VR to recolor controller geo, resize interaction spheres, and add mag palming. All features are optional and configured via mods/configs/betterhands.cfg. Configs can be edited mid-game, but will require a scene reload to take effect.\nMag palming allows you to carry two small sized magazines in one hand. To do this click the trigger when holding a magazine in your hand.",
+			"Path": "https://github.com/Maiq-The-Dude/BetterHands/releases/download/1.0.0/",
+			"Website": "https://github.com/Maiq-The-Dude/BetterHands/",
+			"Arguments": "moveToFolder?BetterHands.deli?Mods/?BetterHands.deli",
+			"DelInfo": "Mods/BetterHands.deli",
+			"Dependencies": [
+				"bepinex",
+				"deli"
+			]
+		},
+		{
+			"modID": "better1911",
+			"Name": "Better 1911",
+			"RawName": "Better1911.deli",
+			"Author": [
+				"M’aiq the Dude"
+			],
+			"Version": "1.2.0",
+			"Description": "Mod for H3VR to remove the red dot and add numerous cosmetic enhancements to the M1911 Tactical.All features listed below are optional and configured via mods/configs/better1911.cfg\n\n    Remove the red dot\n    Fix low capacity magazine positioning\n    Disable glow sights\n    Recolor front/rear glow sights\n    Modify roughness, normal strength, specularity, and color of the frame, slide, and grips\n    Match magazine material to either the custom frame or slide material",
+			"Path": "https://github.com/Maiq-The-Dude/Better1911/releases/download/1.2.0/",
+			"Website": "https://github.com/Maiq-The-Dude/Better1911",
+			"Arguments": "moveToFolder?Better1911.deli?Mods/?Better1911.deli",
+			"DelInfo": "Mods/Better1911.deli",
+			"Dependencies": [
+				"bepinex",
+				"deli"
+			]
+		}
 	]
 }
