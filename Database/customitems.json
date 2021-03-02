@@ -787,41 +787,6 @@
       "Dependencies": [
         "lsiic"
       ]
-    },
-    {
-      "modID": "tiltrailsgobrrr",
-      "Name": "More Tilt Rails",
-      "RawName": "TiltRails.zip",
-      "Author": [
-        "Shampooh"
-      ],
-      "Version": "1.0.0",
-      "Description": "Adds two new tilt rails: 30 degrees and 45 degrees. Why, you ask? I needed a camera rig for my magazine video and wanted to have the rail cam looking dead on at the magazine. And maybe someone else can think of something else interesting to do with these, I know a few folks have mentioned that this could be practical for grenade launchers.",
-      "Path": "https://bonetome.com/download.php?file=ZWY2OTgzZWE0YmQ2Y2Q0Nis5NjQrMTM5Nw==",
-      "Website": "https://bonetome.com/h3vr/mods/351/",
-      "Arguments": "unzipToDir?mods/",
-      "DelInfo": "mods/TiltRails.h3mod",
-      "Dependencies": [
-        "sideloader"
-      ]
-    },
-    {
-      "modID": "shampoohmags",
-      "Name": "Shampooh's Magazine(s)",
-      "RawName": "ShampMags.zip",
-      "Author": [
-        "Shampooh"
-      ],
-      "Version": "1.0.0",
-      "Description": "It's a set of magazines. Sorta. At a literal level there's more than one magazine right now, but they're just reskins. In time, this will include more magazines with a particular focus on anything I can find with nicely modeled springs and windows. Heck, I'm already sitting on a few models folks have shared with me and more ideas of things to pull out of MW.\n\nCurrently contains:\n\nMW'19's MCX Magazines, 3 skins - Found in Assault Rifles category\n\nCredits\n\nAll assets from Modern Warfare '19\nVery big thank you to Potatoes for implementing the model swapping functionality for mag followers into H3VR utils, without which this wouldn't be nearly as nice as it is\n\nTo do:\n\n* Actual accurate Lancer magazine\n* PMAG with useful window\n* MW's AN-94 magazine for 5.45\n* Recycle the spring and follower from that for a 7.62 magazine maybe?\n* MW's P90 magazines",
-      "Path": "https://bonetome.com/download.php?file=ZWJmM2VmNzc1NTU2ODZkYis5NjQrMTM5NQ==",
-      "Website": "https://bonetome.com/h3vr/weapons/350/",
-      "Arguments": "unzipToDir?mods/",
-      "DelInfo": "mods/ShampMags.h3mod",
-      "Dependencies": [
-        "h3vrutils",
-        "sideloader"
-      ]
     }
   ]
 }
