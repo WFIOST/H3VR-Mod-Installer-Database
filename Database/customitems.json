@@ -148,7 +148,7 @@
       "modID": "meatsmodulak",
       "Name": "Meat's ModulAK",
       "RawName": "MeatsModulAK(VanillaMag).zip",
-      "FileSizeMB": 521,
+      "FileSizeMB": 521.43,
       "Author": [
         "Meat_Banono",
         "Nikpo",
@@ -174,7 +174,7 @@
       "modID": "meatsmodulakenhanced",
       "Name": "Meat's ModulAK (Enhanced Edition)",
       "RawName": "ModulAK(MagLatch).zip",
-      "FileSizeMB": 521,
+      "FileSizeMB": 521.43,
       "Author": [
         "Meat_Banono",
         "Nikpo",
@@ -855,6 +855,24 @@
       "Dependencies": [
         "h3vrutils",
         "sideloader"
+      ]
+    },
+    {
+      "modID": "m1014picsights",
+      "Name": "M1014 Picatinny Sights",
+      "RawName": "m1014irons.zip",
+      "FileSizeMB": 5.45,
+      "Author": [
+        "KamikazeF0X"
+      ],
+      "Version": "1.0.0",
+      "Description": "This is a pair of Iron Sights found on M1014 but modified for Picatinny rails",
+      "Path": "https://bonetome.com/download.php?file=MjFmYzVjMzUxNzI3MTcyNiszNjUrMTQwMQ==",
+      "Website": "https://bonetome.com/h3vr/weapons/354/",
+      "Arguments": "unzipToDir?VirtualObjects/",
+      "DelInfo": "VirtualObjects/m1014irons",
+      "Dependencies": [
+        "lsiic"
       ]
     }
   ]
