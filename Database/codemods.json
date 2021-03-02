@@ -48,7 +48,7 @@
 				"M’aiq the Dude"
 			],
 			"Version": "1.0.0",
-			"Description": "Mod for H3VR to recolor controller geo, resize interaction spheres, and add mag palming. All features are optional and configured via mods/configs/betterhands.cfg. Configs can be edited mid-game, but will require a scene reload to take effect.\nMag palming allows you to carry two small sized magazines in one hand. To do this click the trigger when holding a magazine in your hand.",
+			"Description": "IT IS STRONGLY ADVISED THAT YOU CONFIGURE THIS MOD IN YOUR '.../H3VR/Mods/configs/betterhands.cfg' FILE\n\nMod for H3VR to recolor controller geo, resize interaction spheres, and add mag palming. All features are optional and configured via mods/configs/betterhands.cfg. Configs can be edited mid-game, but will require a scene reload to take effect.\nMag palming allows you to carry two small sized magazines in one hand. To do this click the trigger when holding a magazine in your hand.",
 			"Path": "https://github.com/Maiq-The-Dude/BetterHands/releases/download/1.0.0/",
 			"Website": "https://github.com/Maiq-The-Dude/BetterHands/",
 			"Arguments": "moveToFolder?BetterHands.deli?Mods/?BetterHands.deli",
