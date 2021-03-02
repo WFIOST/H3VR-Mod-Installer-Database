@@ -851,7 +851,7 @@
       "Path": "https://bonetome.com/download.php?file=MDgwOTBlZmUzZjdjZWM2NSs5NjQrMTM5NA==",
       "Website": "https://bonetome.com/h3vr/weapons/349/",
       "Arguments": "unzipToDir?FlashShields/?moveToFolder?FlashShields/FlashShieldBoth.h3mod?Mods/?FlashShieldBoth.h3mod",
-      "DelInfo": "mods/FlashShieldBoth.h3mod?FlashShieldLeft.h3mod?FlashShieldRight.h3mod",
+      "DelInfo": "mods/FlashShieldBoth.h3mod?FlashShields/FlashShieldLeft.h3mod?FlashShields/FlashShieldRight.h3mod",
       "Dependencies": [
         "h3vrutils",
         "sideloader"
