@@ -148,8 +148,12 @@
       "modID": "meatsmodulak",
       "Name": "Meat's ModulAK",
       "RawName": "MeatsModulAK(VanillaMag).zip",
+      "FileSizeMB": 521,
       "Author": [
-        "Meat_Banono"
+        "Meat_Banono",
+        "Nikpo",
+        "Jayyden",
+        "Andrew_FTW"
       ],
       "Version": "2.0.1",
       "Description": "PLEASE DELETE YOUR OLD AKPARTS AND MODULPP FOLDERS FROM VIRTUAL OBJECTS IF YOU ARE UPDATING\n\nTHIS VERSION OF THE MOD DOES NOT SIMULATE MAG LATCH BEHAVIOUR: SIMPLY GRAB THE MAGAZINE TO REMOVE IT\n\nModulAK steels its way through the tundra and winter of Russia to find its way back to Bonetome, bigger, badder, and stronger then ever. Featuring a changelog literally too long to post, this mod has functionally been rebuilt from the bottom up. \n\nIncluded in this re-release are:\nRECEIVERS\n-AKM              Assault Rifles\n-AK74N            Assault Rifles\n-AK101            Assault Rifles\n-AK102            Assault Rifles\n-AK103            Assault Rifles\n-AK104            Assault Rifles\n-AK105            Assault Rifles\n-AKS74UN          Carbines\n-PP19 Vityaz      SMGs\n-Saiga 9 Carbine  SMGS\n\nATTACHMENTS\n-Literally over 100 different attachments\n-Please watch the tutorial to find them\n\nMAGAZINES\n-Every AK magazine from Meat's Mags has been retextured and included in this mod (still compatible, dont go deleting Meat's Mags)\n-Added several new magazines in addition, located at the end of the Assault Rifles category\n\nIf you have any questions, please feel free to ping me, @Meat_banono in either the mods-general section of the H3VR discord or in the general help channel of the H3VR Homebrew Server\n\nI want to thank Nikpo for some excellent FDE retextures, Jayyden for the amazing infographic panels, Andrew_FTW for the brilliantly soviet Icons, all of my beta testers, and especially the Escape from Tarkov team, whose models and textures I truly have unending admiration of. I hope you will too after some up close time with these weapons. Thank you for downloading this mod!",
@@ -160,35 +164,47 @@
       "Dependencies": [
         "lsiic",
         "h3vrutils"
+      ],
+      "IncompatableMods": [
+        "modulpp",
+        "meatsmodulakenhanced"
       ]
     },
     {
       "modID": "meatsmodulakenhanced",
       "Name": "Meat's ModulAK (Enhanced Edition)",
-      "RawName": "MeatsModulAK(MagLatch).zip",
+      "RawName": "ModulAK(MagLatch).zip",
+      "FileSizeMB": 521,
       "Author": [
-        "Meat_Banono"
+        "Meat_Banono",
+        "Nikpo",
+        "Jayyden",
+        "Andrew_FTW"
       ],
       "Version": "2.0.1",
-      "Description": "PLEASE DELETE YOUR OLD AKPARTS AND MODULPP FOLDERS FROM VIRTUAL OBJECTS IF YOU ARE UPDATING\nTHIS VERSION OF THE MOD INTRODUCES SIMULATED MAG LATCH BEHAVIOUR: TO REMOVE A MAGAZINE YOU MUST GRAB AND PRESS DOWN ON YOUR TOUCHPAD OR THUMBSTICK TO RELEASE THE LATCH\n\nModulAK steels its way through the tundra and winter of Russia to find its way back to Bonetome, bigger, badder, and stronger then ever. Featuring a changelog literally too long to post, this mod has functionally been rebuilt from the bottom up. \n\nIncluded in this re-release are:\nRECEIVERS\n-AKM              Assault Rifles\n-AK74N            Assault Rifles\n-AK101            Assault Rifles\n-AK102            Assault Rifles\n-AK103            Assault Rifles\n-AK104            Assault Rifles\n-AK105            Assault Rifles\n-AKS74UN          Carbines\n-PP19 Vityaz      SMGs\n-Saiga 9 Carbine  SMGS\n\nATTACHMENTS\n-Literally over 100 different attachments\n-Please watch the tutorial to find them\n\nMAGAZINES\n-Every AK magazine from Meat's Mags has been retextured and included in this mod (still compatible, dont go deleting Meat's Mags)\n-Added several new magazines in addition, located at the end of the Assault Rifles category\n\nIf you have any questions, please feel free to ping me, @Meat_banono in either the mods-general section of the H3VR discord or in the general help channel of the H3VR Homebrew Server\n\nI want to thank Nikpo for some excellent FDE retextures, Jayyden for the amazing infographic panels, Andrew_FTW for the brilliantly soviet Icons, all of my beta testers, and especially the Escape from Tarkov team, whose models and textures I truly have unending admiration of. I hope you will too after some up close time with these weapons. Thank you for downloading this mod!",
-      "Path": "https://bonetome.com/download.php?file=YzI4YTE3NTI0MjgzMGQ5Mys5NjQrMTM4MQ==",
-      "Website": "https://bonetome.com/h3vr/weapons/343/",
+      "Description": "PLEASE DELETE YOUR OLD AKPARTS AND MODULPP FOLDERS FROM VIRTUAL OBJECTS IF YOU ARE UPDATING\n\nTHIS VERSION OF THE MOD INTRODUCES SIMULATED MAG LATCH BEHAVIOUR: TO REMOVE A MAGAZINE YOU MUST GRAB AND PRESS DOWN ON YOUR TOUCHPAD OR THUMBSTICK TO RELEASE THE LATCH\n\nModulAK steels its way through the tundra and winter of Russia to find its way back to Bonetome, bigger, badder, and stronger then ever. Featuring a changelog literally too long to post, this mod has functionally been rebuilt from the bottom up. \n\nIncluded in this re-release are:\nRECEIVERS\n-AKM              Assault Rifles\n-AK74N            Assault Rifles\n-AK101            Assault Rifles\n-AK102            Assault Rifles\n-AK103            Assault Rifles\n-AK104            Assault Rifles\n-AK105            Assault Rifles\n-AKS74UN          Carbines\n-PP19 Vityaz      SMGs\n-Saiga 9 Carbine  SMGS\n\nATTACHMENTS\n-Literally over 100 different attachments\n-Please watch the tutorial to find them\n\nMAGAZINES\n-Every AK magazine from Meat's Mags has been retextured and included in this mod (still compatible, dont go deleting Meat's Mags)\n-Added several new magazines in addition, located at the end of the Assault Rifles category\n\nIf you have any questions, please feel free to ping me, @Meat_banono in either the mods-general section of the H3VR discord or in the general help channel of the H3VR Homebrew Server\n\nI want to thank Nikpo for some excellent FDE retextures, Jayyden for the amazing infographic panels, Andrew_FTW for the brilliantly soviet Icons, all of my beta testers, and especially the Escape from Tarkov team, whose models and textures I truly have unending admiration of. I hope you will too after some up close time with these weapons. Thank you for downloading this mod!",
+      "Path": "https://bonetome.com/download.php?file=YzI4YTE3NTI0MjgzMGQ5MyszNjUrMTM4MQ==",
+      "Website": "https://bonetome.com/h3vr/weapons/342/",
       "Arguments": "unzipToDir?VirtualObjects/",
       "DelInfo": "VirtualObjects/ModulAK(MagLatch)/",
       "Dependencies": [
         "lsiic",
         "h3vrutils"
+      ],
+      "IncompatableMods": [
+        "modulpp",
+        "meatsmodulak"
       ]
     },
     {
       "modID": "meatsmodulpp",
-      "Name": "Meat's ModulPP (Now included with ModulAK, please uninstall)",
+      "Name": "Meat's ModulPP (Now included with ModulAK, please uninstall!)",
       "RawName": "empt",
       "Author": [
         "Meat_Banono"
       ],
       "Version": "1.0.1",
-      "Description": "The cold Russian winter brings another modular receiver forth. The PP-19 01 Vityaz Submachinegun!Chambered in 9x19mm with a high cyclic rate, this is a very comfortable and peppy AK-style SMG. \nThis is completely compatible with my ModulAK pack, and is needed for the pistolgrips. To install, drag and drop the folder into your VirtualObjects folder.\nIncluded in this little pack (all found under lever action pistols) are:\nPP-19 SMG\nSaiga 9 Carbine\nPP-19 30 rnd Magazine\n30 rnd Banana Magazine\nSaiga 9 10 rnd Magazine\nTwo dustcovers and PP-19 Muzzlebrake\nHappy plinking and gunsmithing!",
+      "Description": "NOTE: NOW DEPRECATED, DO NOT INSTALL\nThe cold Russian winter brings another modular receiver forth. The PP-19 01 Vityaz Submachinegun!Chambered in 9x19mm with a high cyclic rate, this is a very comfortable and peppy AK-style SMG. \nThis is completely compatible with my ModulAK pack, and is needed for the pistolgrips. To install, drag and drop the folder into your VirtualObjects folder.\nIncluded in this little pack (all found under lever action pistols) are:\nPP-19 SMG\nSaiga 9 Carbine\nPP-19 30 rnd Magazine\n30 rnd Banana Magazine\nSaiga 9 10 rnd Magazine\nTwo dustcovers and PP-19 Muzzlebrake\nHappy plinking and gunsmithing!",
       "Path": "https://bonetome.com/download.php?file=ODQ4YThkNDZjMGZhYzNmYSszNjUrODc3",
       "Website": "https://bonetome.com/h3vr/weapons/165/",
       "Arguments": "unzipToDir?VirtualObjects/",
