@@ -627,10 +627,7 @@
       "Website": "https://bonetome.com/h3vr/weapons/349/",
       "Arguments": "unzipToDir?FlashShields/?moveToFolder?FlashShields/FlashShieldBoth.h3mod?Mods/?FlashShieldBoth.h3mod",
       "DelInfo": "mods/FlashShieldBoth.h3mod?FlashShields/FlashShieldLeft.h3mod?FlashShields/FlashShieldRight.h3mod",
-      "Dependencies": [
-        "h3vrutils",
-        "sideloader"
-      ]
+      "Dependencies": ["h3vrutils", "sideloader"]
     },
     {
       "modID": "m1014picsights",
