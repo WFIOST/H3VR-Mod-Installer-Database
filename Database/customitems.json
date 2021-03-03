@@ -240,6 +240,19 @@
       "Dependencies": ["lsiic", "modular"]
     },
     {
+      "modID": "SCRRifle",
+      "Name": "https://bonetome.com/h3vr/weapons/99/",
+      "RawName": "scrrifle.zip",
+      "Author": ["KamikazeF0X"],
+      "Version": "1.1.0",
+      "Description": "This is a rifle version of the SCR Pistol\nIt features a hidden bottom rail and a hidden top rail on the wooden foregrip",
+      "Path": "https://bonetome.com/download.php?file=NzRkM2NkMWIxYTNkZGNmZisrNjM2",
+      "Website": "https://bonetome.com/h3vr/weapons/99/",
+      "Arguments": "unzipToDir?VirtualObjects/",
+      "DelInfo": "VirtualObjects/scrrifle?VirtualObjects/scrrifle.manifest",
+      "Dependencies": ["lsiic"]
+    },
+    {
       "modID": "f2000",
       "Name": "F2000 Tactical",
       "RawName": "F2000T-1-01HF.zip",
