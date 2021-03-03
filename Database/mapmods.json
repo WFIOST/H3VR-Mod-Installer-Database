@@ -50,8 +50,8 @@
       "Description": "A little town overrun with Outlaws.\n- pretty challenging, makes \"Cowboys\" into \"Cattlemen\"\n- you can move freely in Holds\n- has no barriers but natural cover\n- 8 Holds, 6 Supplypoints",
       "Path": "https://bonetome.com/download.php?file=N2VjNTE4NGVjMGE0MzdiYis0NDErMTAyMw==",
       "Website": "https://bonetome.com/h3vr/map/202/",
-      "Arguments": "moveToDir?Mods?",
-      "Delinfo": "Mods/SanctuaryPack.zip",
+      "Arguments": "unzipToDir??moveToFolder?Sanctuary Pack/TNH-Sanctuary 1.3?CustomLevels/TakeAndHold/?moveToFolder?Sanctuary Pack/TNH-Sanctuary light?CustomLevels/TakeAndHold/",
+      "Delinfo": "CustomLevels/TakeAndHold/TNH-Sanctuary 1.3?CustomLevels/TakeAndHold/TNH-Sanctuary light",
       "Dependencies": ["wurstmod"]
     },
     {
@@ -116,7 +116,7 @@
       "Path": "https://bonetome.com/download.php?file=MmQ4OGI5MGZlZmRmYTA5ZSsrMTMyNw==",
       "Website": "https://bonetome.com/h3vr/map/305/",
       "Arguments": "unzipToDir?CustomLevels/TakeAndHold",
-      "Delinfo": "Mods/IslandCompund",
+      "Delinfo": "CustomLevels/TakeAndHold/IslandCompund",
       "Dependencies": ["wurstmod"]
     },
     {
