@@ -116,7 +116,7 @@
       "Path": "https://bonetome.com/download.php?file=MmQ4OGI5MGZlZmRmYTA5ZSsrMTMyNw==",
       "Website": "https://bonetome.com/h3vr/map/305/",
       "Arguments": "unzipToDir?CustomLevels/TakeAndHold",
-      "Delinfo": "CustomLevels/TakeAndHold/IslandCompund",
+      "Delinfo": "CustomLevels/TakeAndHold/IslandCompound",
       "Dependencies": ["wurstmod"]
     },
     {
