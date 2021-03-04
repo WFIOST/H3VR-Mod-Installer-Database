@@ -642,19 +642,33 @@
       "DelInfo": "mods/FlashShieldBoth.h3mod?FlashShields/FlashShieldLeft.h3mod?FlashShields/FlashShieldRight.h3mod",
       "Dependencies": ["h3vrutils", "sideloader"]
     },
-    {
-      "modID": "m1014picsights",
-      "Name": "M1014 Picatinny Sights",
-      "RawName": "m1014irons.zip",
-      "FileSizeMB": 5.45,
-      "Author": ["KamikazeF0X"],
-      "Version": "1.0.0",
-      "Description": "This is a pair of Iron Sights found on M1014 but modified for Picatinny rails",
-      "Path": "https://bonetome.com/download.php?file=MjFmYzVjMzUxNzI3MTcyNiszNjUrMTQwMQ==",
-      "Website": "https://bonetome.com/h3vr/weapons/354/",
-      "Arguments": "unzipToDir?VirtualObjects/",
-      "DelInfo": "VirtualObjects/m1014irons",
-      "Dependencies": ["lsiic"]
-    }
+		{
+			"modID": "m1014picsights",
+			"Name": "M1014 Picatinny Sights",
+			"RawName": "m1014irons.zip",
+			"FileSizeMB": 5.45,
+			"Author": [ "KamikazeF0X" ],
+			"Version": "1.0.0",
+			"Description": "This is a pair of Iron Sights found on M1014 but modified for Picatinny rails",
+			"Path": "https://bonetome.com/download.php?file=MjFmYzVjMzUxNzI3MTcyNiszNjUrMTQwMQ==",
+			"Website": "https://bonetome.com/h3vr/weapons/354/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/m1014irons",
+			"Dependencies": [ "lsiic" ]
+		},
+		{
+			"modID": "ftwarmsspawnabletargets",
+			"Name": "FTW Arms Spawnable Targets",
+			"RawName": "FTWArmsSpawnableTargets.zip",
+			"FileSizeMB": 129.14,
+			"Author": [ "Andrew_FTW" ],
+			"Version": "1.0.0",
+			"Description": "Sick of waiting for gameplanner in order to live out your IPSC dreams? Well does FTW Arms have the mod for you! Extract this bad boy into your virtual objects, and take a look in the targets section of the item spawner for all your targety needs!",
+			"Path": "https://bonetome.com/download.php?file=ZGU2MDIwYTQyY2NhNjk0YSszNjUrMTQwNQ==",
+			"Website": "https://bonetome.com/h3vr/weapons/355/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/FTW Arms Spawnable Targets/",
+			"Dependencies": [ "lsiic" ]
+		}
   ]
 }
