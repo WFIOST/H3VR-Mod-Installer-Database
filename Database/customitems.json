@@ -669,6 +669,20 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/FTW Arms Spawnable Targets/",
 			"Dependencies": [ "lsiic" ]
+		},
+		{
+			"modID": "meatmincer",
+			"Name": "Meat Mincer",
+			"RawName": "meatmincer.zip",
+			"FileSizeMB": 5.92,
+			"Author": [ "KamikazeF0X" ],
+			"Version": "1.0.0",
+			"Description": "This is a simple meat mincer... That shoots bullets like a gatling!\nFill the hopper with ammo, and off you go!\n\nYou need Cursed.DLLs for loading this thing, so it will take anything you throw inside\nOtherwhise, you will be only able to feed it 9mm Parabellum\n\nThis is in the item spawner as a Support > Machine Gun \n\nDon't forget, you can't snapturn with ammo in the hopper and you must be gentile while moving it full, physics in games aren't quite made for that kind of dumb gat!\n\nThere will be two bugs due to how it is set up :\nYou must attach a barrel extander if you want to attach a suppressor\nYou can't attach bipods",
+			"Path": "https://bonetome.com/download.php?file=MzI2MTdlYWE0NjFjNGNiYSszNjUrMTQwNg==",
+			"Website": "https://bonetome.com/h3vr/weapons/356/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/meatmincer",
+			"Dependencies": [ "lsiic" ]
 		}
   ]
 }
