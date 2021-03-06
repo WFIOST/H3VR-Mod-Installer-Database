@@ -38,7 +38,7 @@
 			"Path": "https://github.com/Deli-Counter/Deli/releases/download/v0.2.5/",
 			"Website": "https://github.com/Deli-Counter/Deli/",
 			"Arguments": "",
-			"DelInfo": "Mods/Deli.Core.deli?Mods/Deli.Monomod.deli?BepInEx/patchers/Deli/?BepInEx/plugins/Deli/",
+			"DelInfo": "Mods/Deli.Core.deli?Mods/Deli.Monomod.deli?BepInEx/patchers/Deli/ADepIn.dll?Deli.Monomod.deli?BepInEx/patchers/Deli/Deli.dll?BepInEx/plugins/Deli/Deli.Runtime.dll",
 			"Dependencies": [ "bepinex" ],
 			"IncompatableMods": [ "deli_experimental" ]
 		},
@@ -52,7 +52,7 @@
 			"Path": "https://github.com/Deli-Collective/Deli/releases/download/v0.3.0/",
 			"Website": "https://github.com/Deli-Counter/Deli/",
 			"Arguments": "",
-			"DelInfo": "BepInEx/patchers/Deli/?BepInEx/plugins/Deli/",
+			"DelInfo": "BepInEx/patchers/Deli/Deli.Newtonsoft.Json.dll?BepInEx/patchers/Deli/Deli.Patcher.dll?BepInEx/plugins/Deli/Deli.Setup.dll",
 			"Dependencies": [ "bepinex" ],
 			"IncompatableMods": [ "deli" ]
 		},
