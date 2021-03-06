@@ -367,7 +367,7 @@
 			"Path": "https://bonetome.com/download.php?file=NzkxNDc3YjkwMzkwZTUyNCszNjUrMTMwNQ==",
 			"Website": "https://bonetome.com/h3vr/weapons/301/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/FTW Arms ammo boxes",
+			"DelInfo": "VirtualObjects/AmmoBoxes/",
 			"Dependencies": [ "lsiic" ]
 		},
 		{
