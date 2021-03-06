@@ -106,19 +106,19 @@
       "Delinfo": "Mods/Customs_0.3.8",
       "Dependencies": ["wurstmod"]
     },
-    {
-      "modID": "islandcompund",
-      "Name": "Island Compound",
-      "RawName": "IslandCompound.zip",
-      "Author": ["Devyndamonster"],
-      "Version": "1.5.1",
-      "Description": "Fight hotdogs on an island compound!\n- 16 Hold points\n- 19 Supply points\n\nThis is a custom map for Take & Hold by Devyndamonster, the layout encourages a lot of more outdoors, longer range engagements, though there are still plenty of areas for close-quarters combat which is where most holds occur.",
-      "Path": "https://bonetome.com/download.php?file=MmQ4OGI5MGZlZmRmYTA5ZSsrMTMyNw==",
-      "Website": "https://bonetome.com/h3vr/map/305/",
-      "Arguments": "unzipToDir?CustomLevels/TakeAndHold",
-      "Delinfo": "Mods/IslandCompund",
-      "Dependencies": ["wurstmod"]
-    },
+		{
+			"modID": "islandcompund",
+			"Name": "Island Compound",
+			"RawName": "IslandCompound.zip",
+			"Author": [ "Devyndamonster" ],
+			"Version": "1.5.1",
+			"Description": "Fight hotdogs on an island compound!\n- 16 Hold points\n- 19 Supply points\n\nThis is a custom map for Take & Hold by Devyndamonster, the layout encourages a lot of more outdoors, longer range engagements, though there are still plenty of areas for close-quarters combat which is where most holds occur.",
+			"Path": "https://bonetome.com/download.php?file=MmQ4OGI5MGZlZmRmYTA5ZSsrMTMyNw==",
+			"Website": "https://bonetome.com/h3vr/map/305/",
+			"Arguments": "unzipToDir?CustomLevels/TakeAndHold",
+			"Delinfo": "CustomLevels/TakeAndHold/IslandCompound/",
+			"Dependencies": [ "wurstmod" ]
+		},
     {
       "modID": "greenscreen",
       "Name": "Greenscreen Map",
