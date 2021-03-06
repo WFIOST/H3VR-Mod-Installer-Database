@@ -108,7 +108,7 @@
 		},
 		{
 			"modID": "meatsmodulak",
-			"Name": "Meat's ModulAK",
+			"Name": "Meat's ModulAK (Vanilla Edition)",
 			"RawName": "MeatsModulAK(VanillaMag).zip",
 			"FileSizeMB": 521.43,
 			"Author": [ "Meat_Banono", "Nikpo", "Jayyden", "Andrew_FTW" ],
@@ -119,7 +119,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/ModulAK(VanillaMag)/",
 			"Dependencies": [ "lsiic", "h3vrutils" ],
-			"IncompatableMods": [ "modulpp", "meatsmodulakenhanced" ]
+			"IncompatableMods": [ "meatsmodulakenhanced" ]
 		},
 		{
 			"modID": "meatsmodulakenhanced",
@@ -134,20 +134,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/ModulAK(MagLatch)/",
 			"Dependencies": [ "lsiic", "h3vrutils" ],
-			"IncompatableMods": [ "modulpp", "meatsmodulak" ]
-		},
-		{
-			"modID": "meatsmodulpp",
-			"Name": "Meat's ModulPP (Now included with ModulAK, please uninstall!)",
-			"RawName": "empt",
-			"Author": [ "Meat_Banono" ],
-			"Version": "1.0.1",
-			"Description": "NOTE: NOW DEPRECATED, DO NOT INSTALL\nThe cold Russian winter brings another modular receiver forth. The PP-19 01 Vityaz Submachinegun!Chambered in 9x19mm with a high cyclic rate, this is a very comfortable and peppy AK-style SMG. \nThis is completely compatible with my ModulAK pack, and is needed for the pistolgrips. To install, drag and drop the folder into your VirtualObjects folder.\nIncluded in this little pack (all found under lever action pistols) are:\nPP-19 SMG\nSaiga 9 Carbine\nPP-19 30 rnd Magazine\n30 rnd Banana Magazine\nSaiga 9 10 rnd Magazine\nTwo dustcovers and PP-19 Muzzlebrake\nHappy plinking and gunsmithing!",
-			"Path": "https://bonetome.com/download.php?file=ODQ4YThkNDZjMGZhYzNmYSszNjUrODc3",
-			"Website": "https://bonetome.com/h3vr/weapons/165/",
-			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/ModulPP",
-			"Dependencies": [ "lsiic", "meatsmodulak" ]
+			"IncompatableMods": [ "meatsmodulak" ]
 		},
 		{
 			"modID": "meatsshotguns",
