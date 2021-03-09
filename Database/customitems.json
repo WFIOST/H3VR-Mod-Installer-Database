@@ -712,6 +712,20 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/Meter Stick/",
 			"Dependencies": [ "lsiic" ]
+		},
+		{
+			"modID": "golubicasilverballers",
+			"Name": "Golub ICA Silverballers",
+			"RawName": "Silverballers.zip",
+			"FileSizeMB": 18.57,
+			"Author": [ "Sovietpigeon" ],
+			"Version": "1.0.0",
+			"Description": "A tactical pistol. Custom slide. A low rate of fire with high damage.\nHere we go, have fun pretending to be Agent 47 you miserable people.",
+			"Path": "https://bonetome.com/download.php?file=YjQyOWIwZjE2Njg3YjAyZSszNjUrMTQxNw==",
+			"Website": "https://bonetome.com/h3vr/weapons/365/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/suppressor",
+			"Dependencies": [ "lsiic" ]
 		}
 
 	]
