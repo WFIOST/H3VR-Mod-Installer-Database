@@ -6,18 +6,380 @@
 			"modID": "wendigoblacktec9",
 			"Name": "Black Tec-9",
 			"RawName": "ClassicTec-9.zip",
-			"Author": [ "Wendigo" ],
+			"Author": [
+				"Wendigo"
+			],
 			"Version": "1.0.0",
+			"FileSizeMB": "3.70",
 			"Description": "Get rid of that awful orange tape and revert it back to the classic Grey and black Tec-9 look",
 			"Path": "https://bonetome.com/download.php?file=OTc2MTkxODc5N2MwN2Y5NSszNjUrMTQyMA==",
 			"Website": "https://bonetome.com/h3vr/skins/368/",
 			"Arguments": "unzipToDir?Mods/",
 			"DelInfo": "Mods/Classic Tec-9.h3mod",
-			"Dependencies": [ "sideloader" ],
+			"Dependencies": [
+				"sideloader"
+			],
 			"ImgLoc": "https://i.imgur.com/WxB922d.png",
 			"SingularModData": {
-				"OccupiesID": [ "Tec9" ],
-				"OccupiesName": [ "Tec-9" ]
+				"OccupiesID": [
+					"Tec9"
+				],
+				"OccupiesName": [
+					"Tec-9"
+				]
+			}
+		},
+		{
+			"modID": "wendigoak74nv2",
+			"Name": "Wendigo AK-74n v2",
+			"RawName": "WendigoAK-74Nv2.zip",
+			"FileSizeMB": "3.70",
+			"Author": [
+				"Wendigo"
+			],
+			"Version": "1.0.0",
+			"Description": "Since I have gained a bit more experience with skin-making I decided to go back to an older project and revamp it to the best of my ability with Red wood, newer engravings, grip and magazine tape, burnt barrel, glow sights and a chromed rear sight.",
+			"Path": "https://bonetome.com/download.php?file=NTkzNzE5YmQ2NmFjYzhmMSszNjUrMTQxOQ==",
+			"Website": "https://bonetome.com/h3vr/skins/367/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/Wendigo AK-74N v2.h3mod",
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/j7EHrbR.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"AK74N"
+				],
+				"OccupiesName": [
+					"AK-74"
+				]
+			}
+		},
+		{
+			"modID": "wendigoimprovedar10",
+			"Name": "Improved AR-10",
+			"RawName": "AR-10Wendigo.zip",
+			"FileSizeMB": "3.92",
+			"Author": [
+				"Wendigo"
+			],
+			"Version": "1.0.0",
+			"Description": "The default AR-10 wood was decent but I wanted to change it to make it as good as I could.",
+			"Path": "https://bonetome.com/download.php?file=ZjdmMTE2MzFlNDM3YzZlOSszNjUrMTQxOA==",
+			"Website": "https://bonetome.com/h3vr/skins/366/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/AR-10 Wendigo.h3mod",
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/kdNfLuu.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"AR10"
+				],
+				"OccupiesName": [
+					"AR-10"
+				]
+			}
+		},
+		{
+			"modID": "kapitolistppsh",
+			"Name": "PPSH - The Reaper + Optional SFX",
+			"RawName": "PPSH-TheReaper+SFX.zip",
+			"FileSizeMB": "31.80",
+			"Author": [
+				"Kapitolist"
+			],
+			"Version": "1.0.0",
+			"Description": "PPSH with the Pack a Punch skin from Der Riese. The audio mod isoptional and shouldn't bleed over to any other guns. I promise it looksbetter in-game and up close. If you want the audio mod it also goes inthe mods folder.\nAlso check out Sora's Arcade collection for an mg42 and a kar98k in asimilar style also with sfx.",
+			"Path": "https://bonetome.com/download.php?file=MjY2YzBmOTdlNjAxNTZkYyszNjUrMTQxNQ==",
+			"Website": "https://bonetome.com/h3vr/skins/364/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/PPSH - Reaper SFX.h3mod?Mods/PPSH - The Reaper.h3mod",
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/kdNfLuu.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"PPSh41"
+				],
+				"OccupiesName": [
+					"PPSh41"
+				]
+			}
+		},
+		{
+			"modID": "bruhexepearlpython",
+			"Name": "'Pristine pearl' Python revolver",
+			"RawName": "Pristine_pearl.zip",
+			"FileSizeMB": "2.77",
+			"Author": [
+				"Bruh.exe"
+			],
+			"Version": "1.0.0",
+			"Description": "A engraved revolver with a pearl grip and gold parts ",
+			"Path": "https://bonetome.com/download.php?file=OTRjZDNjMzdhOTQ3YTg1OCszNjUrMTQxNA==",
+			"Website": "https://bonetome.com/h3vr/skins/363/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/pristine_pearl_python.h3mod",
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/BKLYvZQ.jpeg",
+			"SingularModData": {
+				"OccupiesID": [
+					"Python"
+				],
+				"OccupiesName": [
+					"Python"
+				]
+			}
+		},
+		{
+			"modID": "bruhexenerfagram2000",
+			"Name": "'Meat Strike' Blaster Agram2000",
+			"RawName": "MeatStrikeblaster.zip",
+			"FileSizeMB": "2.20",
+			"Author": [
+				"Bruh.exe"
+			],
+			"Version": "2.0.0",
+			"Description": "A Real weapon skinned to look like a harmless toy",
+			"Path": "https://bonetome.com/download.php?file=MmM5ZTQwZDE3OTIxMTIyMyszNjUrMTQwOA==",
+			"Website": "https://bonetome.com/h3vr/skins/358/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/Meat_blaster_Agram2000.h3mod",
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/mUp4Q47.jpeg",
+			"SingularModData": {
+				"OccupiesID": [
+					"Agram2000"
+				],
+				"OccupiesName": [
+					"Agram2000"
+				]
+			}
+		},
+		{
+			"modID": "bruhexecombinear2",
+			"Name": "Combine issued AR2",
+			"RawName": "CombineissuedAR2.zip",
+			"FileSizeMB": "5.71",
+			"Author": [
+				"Bruh.exe"
+			],
+			"Version": "2.0.0",
+			"Description": "This AR2 skin is my first on this site, hope you like it :)",
+			"Path": "https://bonetome.com/download.php?file=YTY4MjkyY2Q4OGNkZGM4MCszNjUrMTQwNw==",
+			"Website": "https://bonetome.com/h3vr/skins/357/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/Combine_issued_AR2.h3mod",
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/QKxBGCX.jpg",
+			"SingularModData": {
+				"OccupiesID": [
+					"AR2"
+				],
+				"OccupiesName": [
+					"AR-2"
+				]
+			}
+		},
+		{
+			"modID": "wendigoblackopspython",
+			"Name": "Black Ops 1 Python",
+			"RawName": "BlackOpsPython.zip",
+			"FileSizeMB": "3.79",
+			"Author": [
+				"Wendigo"
+			],
+			"Version": "1.0.0",
+			"Description": "Decided to make the Iconic Black Ops 1 Python into a skin because I've always loved the look of it and those irons.",
+			"Path": "https://bonetome.com/download.php?file=NWY3ZjY4ODA2MTgzNTM1NyszNjUrMTM5OQ==",
+			"Website": "https://bonetome.com/h3vr/skins/353/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/Black Ops Python.h3mod",
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/1fBuaCa.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"Python"
+				],
+				"OccupiesName": [
+					"Python"
+				]
+			}
+		},
+		{
+			"modID": "wendigoimproveddeserteagle44",
+			"Name": "Improved Desert Eagle .44",
+			"RawName": "BlackDeagle.44.zip",
+			"FileSizeMB": "3.63",
+			"Author": [
+				"Wendigo"
+			],
+			"Version": "1.0.0",
+			"Description": "I really did not like the default look of the .44 Desert Eagle so I had an idea to remake it with sleek black steel and a scorched barrel for some added detail, a bright red safety and Glock style sights.",
+			"Path": "https://bonetome.com/download.php?file=MjU0YzYwYmI2OGI1ZWQyZCszNjUrMTM5OA==",
+			"Website": "https://bonetome.com/h3vr/skins/352/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/Black Deagle .44.h3mod",
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/bg6kkgu.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"DesertEagle44"
+				],
+				"OccupiesName": [
+					"Desert Eagle .44"
+				]
+			}
+		},
+		{
+			"modID": "gamermulticammk18",
+			"Name": "Multicam Mk18",
+			"RawName": "BlackDeagle.44.zip",
+			"FileSizeMB": "7.13",
+			"Author": [
+				"GAMERx125"
+			],
+			"Version": "1.0.0",
+			"Description": "Multicam camo (with some tan details) on the Mk18 Assault Rifle.",
+			"Path": "https://bonetome.com/download.php?file=NzI4MDEyNmJlZjBhZTBiZSszNjUrMTM5MA==",
+			"Website": "https://bonetome.com/h3vr/skins/347/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/Multicam Mk18.h3mod",
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/prigyrk.jpg",
+			"SingularModData": {
+				"OccupiesID": [
+					"Mk18"
+				],
+				"OccupiesName": [
+					"Mk18"
+				]
+			}
+		},
+		{
+			"modID": "gamertigerstripemac10",
+			"Name": "Tiger Stripe Mac-10",
+			"RawName": "TigerStripeMac10.zip",
+			"FileSizeMB": "4.08",
+			"Author": [
+				"GAMERx125"
+			],
+			"Version": "1.0.0",
+			"Description": "Multicam camo (with some tan details) on the Mk18 Assault Rifle.",
+			"Path": "https://bonetome.com/download.php?file=NzI4MDEyNmJlZjBhZTBiZSszNjUrMTM5MA==",
+			"Website": "https://bonetome.com/h3vr/skins/347/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/Multicam Mk18.h3mod",
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/prigyrk.jpg",
+			"SingularModData": {
+				"OccupiesID": [
+					"Mk18"
+				],
+				"OccupiesName": [
+					"Mk18"
+				]
+			}
+		},
+		{
+			"modID": "gamernavymp7",
+			"Name": "Navy MP7",
+			"RawName": "NavyMP7.zip",
+			"FileSizeMB": "8.25",
+			"Author": [
+				"GAMERx125"
+			],
+			"Version": "1.0.0",
+			"Description": "Navy digital camo for MP7",
+			"Path": "https://bonetome.com/download.php?file=M2I5ZGQxNTIwNDA3MjBlMiszNjUrMTM3OQ==",
+			"Website": "https://bonetome.com/h3vr/skins/341/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/NavyMP7.h3mod",
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/5J4SFXc.jpeg",
+			"SingularModData": {
+				"OccupiesID": [
+					"MP7"
+				],
+				"OccupiesName": [
+					"MP7"
+				]
+			}
+		},
+		{
+			"modID": "gamerucpm4a1",
+			"Name": "UCP M4A1 Lefthook",
+			"RawName": "UCPM4A1Lefty.zip",
+			"FileSizeMB": "7.57",
+			"Author": [
+				"GAMERx125"
+			],
+			"Version": "1.0.0",
+			"Description": "UCP (Universal Camouflage Pattern) M4A1 Lefthook\nWanted to put a camo on one of the base-game ARs, and wanted to use a \"of the time\" camo, as well\nHere's the result, enjoy!",
+			"Path": "https://bonetome.com/download.php?file=NmEwMmZlZjFkOWYzMjdmNiszNjUrMTM3OA==",
+			"Website": "https://bonetome.com/h3vr/skins/340/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/UCPM4A1Lefty.h3mod",
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/jZ3ydHA.jpeg",
+			"SingularModData": {
+				"OccupiesID": [
+					"M4A1v2Leftie"
+				],
+				"OccupiesName": [
+					"M4A1 Leftie"
+				]
+			}
+		},
+		{
+			"modID": "suerte13M93RnM93RA9FP",
+			"Name": "M93R and M93RA9 Freezing Point",
+			"RawName": "M93RFreezingPoint.7z",
+			"FileSizeMB": "22.00",
+			"Author": [
+				"GAMERx125"
+			],
+			"Version": "1.0.0",
+			"Description": "Month and a half to do this. Am I not the Zonic of skin making?\nTried to recreate Apex Legends RE-45 Freezing Point.",
+			"Path": "https://bonetome.com/download.php?file=ZGI4ZjlmODBlOTg0MTYwMiszNjUrMTM1Nw==",
+			"Website": "https://bonetome.com/h3vr/skins/329/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/M93R Freezing Point.h3mod",
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/OEfLxNJ.jpg",
+			"SingularModData": {
+				"OccupiesID": [
+					"M93R",
+					"M93RA9"
+				],
+				"OccupiesName": [
+					"M93R",
+					"M93RA9"
+				]
 			}
 		}
 	]
