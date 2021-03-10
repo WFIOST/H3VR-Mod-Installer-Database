@@ -14,7 +14,7 @@
 			"Arguments": "unzipToDir?Mods/",
 			"DelInfo": "Mods/Classic Tec-9.h3mod",
 			"Dependencies": [ "sideloader" ],
-			"ImgLoc": "",
+			"ImgLoc": "https://i.imgur.com/WxB922d.png",
 			"SingularModData": {
 				"OccupiesID": [ "Tec9" ],
 				"OccupiesName": [ "Tec-9" ]
