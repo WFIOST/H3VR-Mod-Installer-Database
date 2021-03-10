@@ -1,0 +1,24 @@
+{
+	"modlistname": "Skin Mods",
+	"modlistid": "skinmods",
+	"modlist": [
+		{
+			"modID": "wendigoblacktec9",
+			"Name": "Black Tec-9",
+			"RawName": "ClassicTec-9.zip",
+			"Author": [ "Wendigo" ],
+			"Version": "1.0.0",
+			"Description": "Get rid of that awful orange tape and revert it back to the classic Grey and black Tec-9 look",
+			"Path": "https://bonetome.com/download.php?file=OTc2MTkxODc5N2MwN2Y5NSszNjUrMTQyMA==",
+			"Website": "https://bonetome.com/h3vr/skins/368/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/Classic Tec-9.h3mod",
+			"Dependencies": [ "sideloader" ],
+			"ImgLoc": "",
+			"SingularModData": {
+				"OccupiesID": [ "Tec9" ],
+				"OccupiesName": [ "Tec-9" ]
+			}
+		}
+	]
+}

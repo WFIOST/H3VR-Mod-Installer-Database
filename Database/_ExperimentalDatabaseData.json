@@ -13,7 +13,8 @@
         "dependencies.json",
         "customitems.json",
         "mapmods.json",
-        "experimental.json"
+				"experimental.json",
+				"skinmods.json"
       ]
     }
   ]
