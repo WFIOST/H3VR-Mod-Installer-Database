@@ -499,7 +499,8 @@
 			"Website": "https://bonetome.com/h3vr/weapons/371/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/StrafeGun/",
-			"Dependencies": [ "lsiic" ]
+			"Dependencies": [ "lsiic" ],
+			"HideMod": true
 		},
 		{
 			"modID": "gunrackphys",
@@ -590,6 +591,20 @@
 			"Website": "https://bonetome.com/h3vr/weapons/336/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/mwo",
+			"Dependencies": [ "lsiic" ]
+		},
+		{
+			"modID": "jayydenmwr",
+			"Name": "Modern Warfighter Rails",
+			"RawName": "mwr.rar",
+			"Author": [ "Jayyden" ],
+			"FileSizeMB": "93.40",
+			"Version": "1.0.0",
+			"Description": "Adds an assortment of MLOK rails and risers that allow for further customization of weapons.\n\nContains:\n- UTG Risers (.5 inch /.75 inch/ 1 inch heights in 3-slot and 13 slot lengths)\n- MLOK Rails (FDE/OD/Black colors in 3-slot, 5-slot, 7-slot, 9-slot, 11-slot, and cantilever-type rails)\n\nWant to support me and help me afford more models to implement, or otherwise feel like you have too much money burning a hole in your wallet? I now have a Ko-fi open for donations!\nhttps://ko-fi.com/jayyden",
+			"Path": "https://bonetome.com/download.php?file=NmU0ZDBhZjAzYWZlMzk4NCsyMTYxKzEzNzM=",
+			"Website": "https://bonetome.com/h3vr/weapons/336/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/mwr",
 			"Dependencies": [ "lsiic" ]
 		},
 		{
@@ -739,6 +754,34 @@
 			"Website": "https://bonetome.com/h3vr/weapons/365/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/Silverballers/",
+			"Dependencies": [ "lsiic" ]
+		},
+		{
+			"modID": "ftwarmsbrenten",
+			"Name": "FTW Arms Bren 10",
+			"RawName": "Bren10.zip",
+			"FileSizeMB": "12.91",
+			"Author": [ "AndrewFTW" ],
+			"Version": "1.0.0",
+			"Description": "Ever want to reenact Miami vice? while now you can, with the FTW Arms Bren 10. Included are the Bren 10, the Bren 10 45 ACP conversion, and the 'Bren' 10.",
+			"Path": "https://bonetome.com/download.php?file=NjI4YzBhY2FlNjAwN2UwOCszNjUrMTQzNA==",
+			"Website": "https://bonetome.com/h3vr/weapons/372/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/Bren10/",
+			"Dependencies": [ "lsiic" ]
+		},
+		{
+			"modID": "ftwarmsmnpshield",
+			"Name": "FTW Arms M&P Shield",
+			"RawName": "M&PShield.zip",
+			"FileSizeMB": "10.98",
+			"Author": [ "AndrewFTW" ],
+			"Version": "1.0.0",
+			"Description": "One of the most popular carry guns has made its way to H3VR!\nInstall by dragging extracting you your virtual objects folder.",
+			"Path": "https://bonetome.com/download.php?file=MDY2NDYyMzhkOTcxOGM1NiszNjUrMTQzNQ==",
+			"Website": "https://bonetome.com/h3vr/weapons/373/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/M&PShield/",
 			"Dependencies": [ "lsiic" ]
 		}
 
