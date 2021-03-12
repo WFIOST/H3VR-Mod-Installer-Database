@@ -1,19 +1,25 @@
 {
-  "modlistname": "Super Secret Database",
-  "modlistid": "experimental",
-  "modlist": [
+	"modlistname": "Super Secret Database",
+	"modlistid": "experimental",
+	"modlist": [
 		{
 			"modID": "basedmod",
 			"Name": "Wurst Mod no.2",
 			"RawName": "WurstMod.deli",
-			"Author": [ "Nolenz", "nrgill28" ],
+			"Author": [
+				"Nolenz",
+				"nrgill28"
+			],
 			"Version": "2.0.2.0",
 			"Description": "Loads map mods for h3vr.",
 			"Path": "https://github.com/Nolenz/WurstMod/releases/download/v2.0.2.0/WurstMod.deli%",
 			"Website": "https://github.com/Nolenz/WurstMod/",
 			"Arguments": "moveToFolder?WurstMod.deli?Mods/?WurstMod.deli",
 			"DelInfo": "Mods/WurstMod.deli",
-			"Dependencies": [ "bepinex", "deli" ]
+			"Dependencies": [
+				"bepinex",
+				"deli"
+			]
 		},
 		{
 			"modID": "sora101venarcadeseries",
@@ -28,7 +34,30 @@
 			"Path": "https://bonetome.com/download.php?file=MjNkMTZjMDVlNjczZTM2NCszNjUrMTM1Mw==",
 			"Website": "https://bonetome.com/h3vr/skins/326/",
 			"Arguments": "unzipToDir?Mods/?moveAllFromFolderOfType?Mods/Hotmods/?h3mod?Mods/",
-			"DelInfo": "Mods/8400_nitro.h3mod?Mods/aps_ps2.h3mod?Mods/arcade_sfx_compoundpistol.hotmod?\nMods/arcade_sfx_crash.hotmod?Mods/arcade_sfx_cv.hotmod?Mods/arcade_sfx_derreise.h3mod?Mods/arcade_sfx_ps.hotmod?Mods/arcade_sfx_smash.hotmod?Mods/cmx4_smash.h3mod?Mods/cpis_arcade.h3mod?Mods/g36_carbon.h3mod?Mods/kar98_arma.h3mod?Mods/mg42_barracuda?Mods/mts255_bbb.h3mod?Mods/scorpevo_lmspecii.h3mod?\nMods/spas12_bs.h3mod?Mods/ssg_doom.h3mod?Mods/tar21_ps1.h3mod?Mods/toz_crash.h3mod?Mods/ump45_gt.h3mod?Mods/vz64_slaught.h3mod",
+			"DelInfo": "Mods/8400_nitro.h3mod?Mods/aps_ps2.h3mod?Mods/arcade_sfx_compoundpistol.hotmod?\nMods/arcade_sfx_crash.hotmod?Mods/arcade_sfx_cv.hotmod?Mods/arcade_sfx_derreise.h3mod?Mods/arcade_sfx_ps.hotmod?Mods/arcade_sfx_smash.hotmod?Mods/cmx4_smash.h3mod?Mods/cpis_arcade.h3mod?Mods/g36_carbon.h3mod?Mods/kar98_arma.h3mod?Mods/mg42_barracuda.h3mod?Mods/mts255_bbb.h3mod?Mods/scorpevo_lmspecii.h3mod?Mods/spas12_bs.h3mod?Mods/ssg_doom.h3mod?Mods/tar21_ps1.h3mod?Mods/toz_crash.h3mod?Mods/ump45_gt.h3mod?Mods/vz64_slaught.h3mod",
+			"DelInfoArray": [
+				"Mods/8400_nitro.h3mod",
+				"Mods/aps_ps2.h3mod",
+				"Mods/arcade_sfx_compoundpistol.hotmod",
+				"Mods/arcade_sfx_crash.hotmod",
+				"Mods/arcade_sfx_cv.hotmod",
+				"Mods/arcade_sfx_derreise.h3mod",
+				"Mods/arcade_sfx_ps.hotmod",
+				"Mods/arcade_sfx_smash.hotmod",
+				"Mods/cmx4_smash.h3mod",
+				"Mods/cpis_arcade.h3mod",
+				"Mods/g36_carbon.h3mod",
+				"Mods/kar98_arma.h3mod",
+				"Mods/mg42_barracuda.h3mod",
+				"Mods/mts255_bbb.h3mod",
+				"Mods/scorpevo_lmspecii.h3mod",
+				"Mods/spas12_bs.h3mod",
+				"Mods/ssg_doom.h3mod",
+				"Mods/tar21_ps1.h3mod",
+				"Mods/toz_crash.h3mod",
+				"Mods/ump45_gt.h3mod",
+				"Mods/vz64_slaught.h3mod"
+			],
 			"Dependencies": [
 				"sideloader"
 			],
@@ -58,5 +87,5 @@
 				]
 			}
 		}
-  ]
+	]
 }
