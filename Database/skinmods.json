@@ -424,26 +424,103 @@
 			"ImgLoc": "https://i.imgur.com/pAF9WOA.png",
 			"SingularModData": {
 				"OccupiesID": [
+					"Tactical8400Shorty",
+					"mchnpistol_APS",
+					"CompoundPistol",
+					"MX4",
+					"G36",
+					"K98k",
+					"MG42",
 					"MTs255",
 					"SPAS12",
 					"gunShotGunSSG",
+					"Tar21",
+					"Toz106",
 					"UMP45",
 					"Evo3",
-					"G36",
-					"Tar21",
-					"mchnpistol_APS",
-					"CompoundPistol"
+					"VZ64Skorpion"
 				],
 				"OccupiesName": [
-					"MTs 255",
-					"SPAS 12",
-					"Super Shotgun",
-					"UMP 45",
-					"Evo 3",
+					"Tactical 8400",
+					"APS Machinepistol",
+					"Compound Pistol",
+					"MX4",
 					"G36",
-					"Tar 21",
-					"APS Machine Pistol",
-					"Compound Pistol"
+					"Kar98k",
+					"MG42",
+					"MTs255",
+					"SPAS12",
+					"Super Shotgun",
+					"Tar21",
+					"Toz-106",
+					"UMP-45",
+					"Evo 3",
+					"Skorpion"
+				]
+			}
+		},
+		{
+			"modID": "sora101venFieldSeries2",
+			"Name": "Sora101Ven's 'Field Series II' (Whiteout Edition!)",
+			"RawName": "FieldSeriesII.zip",
+			"FileSizeMB": "297.32",
+			"Author": [
+				"Sora101Ven"
+			],
+			"Version": "1.0.0",
+			"Description": "The return of what appeared to be a fan favorite, the Field Series. Now with REAL POLYMER!\nJokes aside, if you have played MW 2019, there are skins that utilize black and white polymer in stylish ways, this set is made to capture that aesthetic for H3VR.\nSkin Season IV Album - https://imgur.com/a/Rrfn5xR",
+			"Path": "https://bonetome.com/download.php?file=MWUxYzk4OTk5NTM0ZDkzNCszNjUrMTM1Mg==",
+			"Website": "https://bonetome.com/h3vr/skins/325/",
+			"Arguments": "unzipToDir?Mods/?moveAllFromFolderOfType?Mods/Hotmods/?h3mod?Mods/",
+			"DelInfoArray": [
+				"Mods/asp_blanc.h3mod",
+				"Mods/ax50_wl.h3mod",
+				"Mods/g3sg1_fs.hotmod",
+				"Mods/galil_schwarz.h3mod",
+				"Mods/jackhammer_avalanche.h3mod",
+				"Mods/lewis_rex.h3mod",
+				"Mods/M4A1lefthook_wn.h3mod",
+				"Mods/m60_quill.h3mod",
+				"Mods/m1911modern_mf.h3mod",
+				"Mods/mp5sd_antibody.h3mod",
+				"Mods/mp7_windex.hotmod",
+				"Mods/sg552_frost.h3mod",
+				"Mods/stonerar_placebo.h3mod"
+			],
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/nQdru3J.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"ASP",
+					"AX50",
+					"G3SG1",
+					"GalilSAR",
+					"Jackhammer",
+					"potatoesLewisGun",
+					"M4A1v2Leftie",
+					"M60",
+					"M1911Modern",
+					"MP5SD",
+					"Mp7a1",
+					"Commando552",
+					"Stoner63AR"
+				],
+				"OccupiesName": [
+					"ASP",
+					"AX-50",
+					"G3SG1",
+					"Galil",
+					"Pancor Jackhammer",
+					"Lewis Gun",
+					"M4A1 Leftie",
+					"M60",
+					"M1911 Modern",
+					"MP5SD",
+					"Mp7",
+					"Commando 552",
+					"Stoner 63"
 				]
 			}
 		}
