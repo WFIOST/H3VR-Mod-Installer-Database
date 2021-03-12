@@ -72,7 +72,8 @@
       "Name": "TnH Supermarket - Day",
       "RawName": "Supermarket_day.zip",
       "Author": ["optomarcel"],
-      "Version": "1.0.0",
+			"Version": "1.2.0",
+			"FileSizeMB":  "358.34",
       "Description": "My very first map, set in a supermarket in broad daylight.\n\nComes in 2 versions, funky and normal. Funky contains some royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\n\nFeatures 10 supply and 6 hold points.\n\nLet me know if you have any issues/ideas.\n\nThanks and have fun playing",
       "Path": "https://bonetome.com/download.php?file=NDFiZDYxY2U3NGI5ZjRiMiszNjUrMTIzOQ==",
       "Website": "https://bonetome.com/h3vr/map/276/",
@@ -80,19 +81,20 @@
       "Delinfo": "Mods/TNH_supermarket_day.deli?Mods/TNH_supermarket_day_funky.deli",
       "Dependencies": ["wurstmod"]
     },
-    {
-      "modID": "marcelsupermarketnight",
-      "Name": "TnH Supermarket - Night",
-      "RawName": "Supermarket_night.zip",
-      "Author": ["optomarcel"],
-      "Version": "1.1.0",
-      "Description": "My very first map, set in a supermarket in broad daylight.\n\nComes in 2 versions, funky and normal. Funky contains some royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\n\nFeatures 10 supply and 6 hold points.\n\nLet me know if you have any issues/ideas.\n\nThanks and have fun playing",
-      "Path": "https://bonetome.com/download.php?file=N2MzNmVhMjFhMzA0NzI4NSszNjUrMTIzOA==",
-      "Website": "https://bonetome.com/h3vr/map/275/",
-      "Arguments": "unzipToDir?Mods/",
-      "Delinfo": "Mods/TNH_supermarket_night.deli?Mods/TNH_supermarket_night_funky.deli",
-      "Dependencies": ["wurstmod"]
-    },
+		{
+			"modID": "marcelsupermarketnight",
+			"Name": "TnH Supermarket - Night",
+			"RawName": "Supermarket_night.zip",
+			"Author": [ "optomarcel" ],
+			"Version": "1.2.0",
+			"FileSizeMB": "337.08",
+			"Description": "The night version of my supermarket. There are 2 versions of the map, funky and normal.\nFunky contains royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\nContains 9 supply and 6 hold points.",
+			"Path": "https://bonetome.com/download.php?file=N2MzNmVhMjFhMzA0NzI4NSszNjUrMTIzOA==",
+			"Website": "https://bonetome.com/h3vr/map/275/",
+			"Arguments": "unzipToDir?Mods/",
+			"Delinfo": "Mods/TNH_supermarket_night.deli?Mods/TNH_supermarket_night_funky.deli",
+			"Dependencies": [ "wurstmod" ]
+		},
     {
       "modID": "customs",
       "Name": "Customs",
