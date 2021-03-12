@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.2.0</version>
-    <url>https://github.com/Frityet/H3VRModInstaller/releases/download/v1.2.0/ModInstaller.zip</url>
-    <changelog>https://github.com/Frityet/H3VRModInstaller/releases/tag/v1.2.0</changelog>
+    <version>1.2.1</version>
+    <url>https://github.com/Frityet/H3VRModInstaller/releases/download/v1.2.1/ModInstaller.zip</url>
+    <changelog>https://github.com/Frityet/H3VRModInstaller/releases/tag/v1.2.1</changelog>
     <mandatory>false</mandatory>
 </item>
