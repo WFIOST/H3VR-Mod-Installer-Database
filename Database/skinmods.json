@@ -1,7 +1,75 @@
 {
-	"modlistname": "Skin Mods",
-	"modlistid": "skinmods",
 	"modlist": [
+		{
+			"modID": "bruhexedefectivepack",
+			"Name": "Defective Pack",
+			"RawName": "Defective_pack.zip",
+			"Author": [
+				"Bruh.exe"
+			],
+			"Version": "1.0.0",
+			"Description": "Skins made to look like crash test dummies. (the spas may look too shiny)",
+			"Path": "https://bonetome.com/download.php?file=NDk5MTZmOWYwYWE4OTVjNSszNjUrMTQ0Nw==",
+			"Arguments": "unzipToDir?Mods/",
+			"Dependencies": [
+				"sideloader"
+			],
+			"FileSizeMB": "27.86",
+			"Website": "https://bonetome.com/h3vr/skins/381/",
+			"DelInfoArray": [
+				"Mods/Defective_CZ75.h3mod",
+				"Mods/Defective_Spas.h3mod"
+			],
+			"ImgLoc": "https://i.imgur.com/2MZ1erJ.jpeg",
+			"SingularModData": {
+				"OccupiesID": [
+					"CZ75Shadow",
+					"SPAS12"
+				],
+				"OccupiesName": [
+					"CZ75",
+					"SPAS-12"
+				]
+			}
+		},
+		{
+			"modID": "bruhexepix3ledpack",
+			"Name": "Pix3led pack",
+			"RawName": "Pix3led_pack.zip",
+			"Author": [
+				"Bruh.exe"
+			],
+			"Version": "1.0.0",
+			"Description": "skins made to look pixelated and retro",
+			"Path": "https://bonetome.com/download.php?file=YTVkODc4MTdkMGY3MDU4ZSszNjUrMTQ0Ng==",
+			"Arguments": "unzipToDir?Mods/",
+			"Dependencies": [
+				"sideloader"
+			],
+			"FileSizeMB": "8.52",
+			"Website": "https://bonetome.com/h3vr/skins/380/",
+			"DelInfoArray": [
+				"Mods/Pix3led_Aug_A1.h3mod",
+				"Mods/Pix3led_M1Garand.h3mod",
+				"Mods/Pix3led_Mp7.h3mod",
+				"Mods/Pix3led_UMP45.h3mod"
+			],
+			"ImgLoc": "https://i.imgur.com/gAX5RFR.jpeg",
+			"SingularModData": {
+				"OccupiesID": [
+					"AugA1",
+					"M1Garand",
+					"Mp7a1",
+					"UMP45"
+				],
+				"OccupiesName": [
+					"Aug A1",
+					"M1 Garand",
+					"MP-7",
+					"UMP-45"
+				]
+			}
+		},
 		{
 			"modID": "wendigoblacktec9",
 			"Name": "Black Tec-9",
@@ -523,6 +591,73 @@
 					"Stoner 63"
 				]
 			}
+		},
+		{
+			"modID": "sora101venStreetSeries3",
+			"Name": "Sora101Ven's 'Field Series II' (Whiteout Edition!)",
+			"RawName": "StreetSeriesIII.zip",
+			"FileSizeMB": "187.90",
+			"Author": [
+				"Sora101Ven"
+			],
+			"Version": "1.0.0",
+			"Description": "No keys required for this loot box!\nThe discovery of a neat CSGO skin to H3VR skin trick has lead to this moment! I tried to make it challenging by pairing set skins with guns that never had that skin to begin with. I think there are some real classics in this pack.\nSkin Season IV Album - https://imgur.com/a/Rrfn5xR\nAny videos will be made in March. Screenshots are available inside the ZIP folder.\nRequirements - Bepinex, Sideloader (V0.33 or higher for audio sfx), XUnity Resource Redirector",
+			"Path": "https://bonetome.com/download.php?file=MTU0MjYyZjMxNzM2N2Q5OSszNjUrMTM1MQ==",
+			"Website": "https://bonetome.com/h3vr/skins/324/",
+			"Arguments": "unzipToDir?Mods/?moveAllFromFolderOfType?Mods/Hotmods/?h3mod?Mods/",
+			"DelInfoArray": [
+				"Mods/akm_vulcan.h3mod",
+				"Mods/awp_neo.h3mod",
+				"Mods/cz75_racer.h3mod",
+				"Mods/famas_eye.h3mod",
+				"Mods/m16a1_wttj.h3mod",
+				"Mods/m93r_cobra.h3mod",
+				"Mods/m249_nebula.h3mod",
+				"Mods/m1014_flame.h3mod",
+				"Mods/mac11_rider.h3mod",
+				"Mods/mp203_roller.hotmod",
+				"Mods/sako_dragon.h3mod",
+				"Mods/stonerlmg_mjo.h3mod",
+				"Mods/vector_assimov.h3mod"
+			],
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/lDFne8j.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"AKM",
+					"AWM",
+					"CZ75Shadow",
+					"FamasF1",
+					"M16A1",
+					"M93R",
+					"M249",
+					"M1014",
+					"Mac11",
+					"MP203",
+					"Sako85",
+					"Stoner63LMG",
+					"Vector45Carbine"
+				],
+				"OccupiesName": [
+					"AK-47",
+					"AWM",
+					"CZ75",
+					"Famas",
+					"M16A1",
+					"M93R",
+					"M249",
+					"M1014",
+					"Mac-11",
+					"MP 203",
+					"Sako 85",
+					"Stoner 63 LMG",
+					"Vector 45 Carbine"
+				]
+			}
 		}
-	]
+	],
+	"modlistname": "Skin Mods",
+	"modlistid": "skinmods"
 }
