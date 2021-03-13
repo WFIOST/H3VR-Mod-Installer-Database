@@ -794,11 +794,12 @@
 			"modID": "mwo",
 			"Name": "Modern Warfighter Optics",
 			"RawName": "MWO.rar",
+			"FileSizeMB": "322.90",
 			"Author": [
 				"Jayyden"
 			],
-			"Version": "1.0.4",
-			"Description": "A collection of modern collimator optics meant for contemporary weapon systems in various sizes, shapes, and colors.",
+			"Version": "1.0.5",
+			"Description": "A collection of modern collimator optics meant for contemporary weapon systems in various sizes, shapes, and colors.\nContains the following attachments:\n- Aimpoint CompM5 (Offset, Low, and High mounts)\n- Aimpoint ACO (Straight, Cantilever, and Low mounts)\n- Aimpoint T2 (Offset, Low, and High mounts)\n- Aimpoint CompM4s\n- Aimpoint ACRO (Low and High mounts)\n- Eotech EXPS3 (Green and Red reticles)\n- EoTech G33 Magnifier\n- SIG Romeo1 (Offset, Low, and High mounts)\n- SIG Romeo3 (Low and High mounts)\n- SIG Romeo4T (Low and High mounts in Black and FDE)\n- DOCTER SightIII (Offset, Low, and High mounts)\n- Trijicon MRO\n- Trijicon RMR (Offset, Low, and High mounts)\n- Trijicon SRO (Offset, Low, and High mounts)\n- Trijicon ACOG TA02\n- Vortex Venom\n- Vortex StrikefireII\n- Vortex Crossfire\n- Vortex UH-1 Huey Gen III\n- Leupold DeltaPoint (Offset, Low, and High mounts)",
 			"Path": "https://bonetome.com/download.php?file=NmU0ZDBhZjAzYWZlMzk4NCsyMTYxKzEzNzM=",
 			"Website": "https://bonetome.com/h3vr/weapons/336/",
 			"Arguments": "unzipToDir?VirtualObjects/",
@@ -814,8 +815,8 @@
 			"Author": [
 				"Jayyden"
 			],
-			"FileSizeMB": "93.40",
-			"Version": "1.0.0",
+			"FileSizeMB": "120.61",
+			"Version": "1.2.0",
 			"Description": "Adds an assortment of MLOK rails and risers that allow for further customization of weapons.\n\nContains:\n- UTG Risers (.5 inch /.75 inch/ 1 inch heights in 3-slot and 13 slot lengths)\n- MLOK Rails (FDE/OD/Black colors in 3-slot, 5-slot, 7-slot, 9-slot, 11-slot, and cantilever-type rails)\n\nWant to support me and help me afford more models to implement, or otherwise feel like you have too much money burning a hole in your wallet? I now have a Ko-fi open for donations!\nhttps://ko-fi.com/jayyden",
 			"Path": "https://bonetome.com/download.php?file=NmU0ZDBhZjAzYWZlMzk4NCsyMTYxKzEzNzM=",
 			"Website": "https://bonetome.com/h3vr/weapons/336/",
@@ -1070,6 +1071,60 @@
 			"Website": "https://bonetome.com/h3vr/weapons/140/",
 			"Arguments": "unzipToDir?VirtualObjects/AX50/",
 			"DelInfo": "VirtualObjects/AX50/",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "jayydenP226",
+			"Name": "SIG SAUER P226 Series",
+			"RawName": "mk25handguns.rar",
+			"FileSizeMB": "60.17",
+			"Author": [
+				"Jayyden"
+			],
+			"Version": "1.0.0",
+			"Description": "Introduces a line of SIG SAUER handguns for you to play with - with optic-ready slides.\n\nContains:\n- SIG P226 (.40S&W and 9x19mm)\n- SIG P226T (.40S&W and 9x19mm)\n- SIG MK25 (.40S&W and 9x19mm)\n- SIG MK25T (.40S&W and 9x19mm)\n- Extended Magazines for .40S&W and 9x19mm SIG P226 series handguns\n\nKNOWN ISSUES:\n9x19mm extended magazine only holds 15 rounds - uncertain what could be causing it, looking to fix ASAP.\nThanks to:\n- Nikpo (Texture editing for the MK25 series)\n- Infinity Ward (Sounds from Modern Warfare 2019)\nWant to support me and help me afford more models to implement, or otherwise feel like you have too much money burning a hole in your wallet? I now have a Ko-fi open for donations!\nhttps://ko-fi.com/jayyden",
+			"Path": "https://bonetome.com/download.php?file=MzJjZmU0MDViNTBkNWI2MyszNjUrMTQ0Mw==",
+			"Website": "https://bonetome.com/h3vr/weapons/377/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/mk25handguns",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "jayydenMWRfurry",
+			"Name": "Modern Warfighter Rails - Furry Garbage",
+			"RawName": "mwrf.rar",
+			"FileSizeMB": "0.4",
+			"Author": [
+				"Jayyden"
+			],
+			"Version": "1.0.0",
+			"Description": "Because someone wanted a BD rail cover, lmfao.\n\nContains:\n- BD Rail Cover\n- Sergal Rail Cover\nWant to support me and help me afford more models to implement, or otherwise feel like you have too much money burning a hole in your wallet? I now have a Ko-fi open for donations!\nhttps://ko-fi.com/jayyden",
+			"Path": "https://bonetome.com/download.php?file=OGY0Zjk3YmJiM2Q0NWQ1MCszNjUrMTQ0NA==",
+			"Website": "https://bonetome.com/h3vr/weapons/378/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/mwrf",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "ftwarmsan94",
+			"Name": "FTW Arms AN-94",
+			"RawName": "AN-94.zip",
+			"FileSizeMB": "7.43",
+			"Author": [
+				"Andrew_FTW"
+			],
+			"Version": "1.0.0",
+			"Description": "Time for the technical and engineering marvel that is the Avtomat Nikonova 94, formally known as the AN-94. Chambered in 5.45 x 39, this guns defining feature is its hyperburst. With a burst fire rate of 1800 rpm, this guns burst beats out the vector with a measly 1200 rpm. The full auto fire rate is a very controllable 600 RPM, making it usable at medium ranges.",
+			"Path": "https://bonetome.com/download.php?file=NjU3MGVlM2EzZWU2NzQ4YSszNjUrMTQ0OQ==",
+			"Website": "https://bonetome.com/h3vr/weapons/382/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/AN-94/",
 			"Dependencies": [
 				"lsiic"
 			]
