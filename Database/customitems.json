@@ -671,20 +671,19 @@
 			"modID": "strafeprimaries",
 			"Name": "STRAFE'S PRIMARIES",
 			"RawName": "StrafeGun.rar",
-			"FileSizeMB": "7.19",
+			"FileSizeMB": "12.69",
 			"Author": [
 				"Gunlovers"
 			],
 			"Version": "1.0.0",
-			"Description": "WELCOME BACK TO 1996, THE PRIMARIES OF STRAFE ARE DONE AND READY TO BE USED BY YOUR COLD MECHANICAL HANDS. \nBLAZE THROUGH THE HORDES WITH THE SHOTGUN. NEVER NEED TO PULL THE HANDLE, NEVER STOP FIRING.\nSPRAY AND PRAY WITH THE SMG, A CLASSIC GUN WITH 40 ROUNDS OF PURE KILLING POWER.\nSNIPE FROM A DISTANCE WITH THE RAILGUN. IT'S BULKY DESIGN FAVORS LONGER RANGE ENGAGEMENTS. \nEACH GUN WAS PAINSTAKINGLY MODDED IN AS ACCURATELY AS POSSIBLE TO GIVE KILLERS THE BEST EXPERIENCE FOR THEIR TIME.\nORDER NOW AND RECIEVE A FREE THANK YOU FROM THE DEVELOPER IF YOU MENTION HIM ON THE HOMEBREW OR NORMAL DISCORD.",
-			"Path": "https://bonetome.com/download.php?file=OTZiZDYzMjRkMjBhMzAxMCszNjUrMTQzMw==",
-			"Website": "https://bonetome.com/h3vr/weapons/371/",
+			"Description": "WELCOME BACK TO 1996, THE BLOODIEST ROGUELITE'S PRIMARY FIREARMS HAVE RETURNED IN VR. PAINTSTAKINGLY MADE TO BE ACCURATE AND THE BEST KILLING POWER AROUND.\nTHE SHOTGUN, THE GOOD OLD CLASSIC, FIRES 12 GAUGE AND HOLDS 20 ROUND DRUM, ITS SMALL FRAME IS VERY HANDY FOR CQC ENVIRONMENTS. IT ALSO COMES WITH A HOLOSIGHT FOR MAXIMUM AIMING POWER.\nTHE MACHINEGUN, CULT CLASSIC, HIGH RATE OF FIRE, FIRING 10MMAUTO. 40 ROUND STICK MAG WITH ADDED AMMO COUNTER BUILT INTO THE GUN. YOU KNOW THIS GUN WELL ENOUGH TO NOT NEED EXPLANATION.\nTHE RAILGUN, A LONG DISTANCE FRIEND. FIRES .35 MOSES AT EITHER A 5 ROUND BATTERY OR A 20 ROUND BATTERY, ITS HUGE BULLPUP FRAME MAKES IT AWKWARD TO USE IN CQC ENVIRONMENTS, SO TAKE NOTE OF YOUR SURROUNDINGS BEFORE DIVING INTO THE GOREFEST.\nTHESE GUNS WILL CREATE SO MUCH BLOODSHED EVEN YOUR PC WILL BLEED. ORDER NOW ",
+			"Path": "https://bonetome.com/download.php?file=ZDM2NmUzMmZmNDU2MWViYSszNjUrMTQ1NA==",
+			"Website": "https://bonetome.com/h3vr/weapons/385/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/StrafeGun/",
 			"Dependencies": [
 				"lsiic"
-			],
-			"HideMod": true
+			]
 		},
 		{
 			"modID": "gunrackphys",
@@ -1115,11 +1114,11 @@
 			"modID": "ftwarmsan94",
 			"Name": "FTW Arms AN-94",
 			"RawName": "AN-94.zip",
-			"FileSizeMB": "7.43",
+			"FileSizeMB": "7.42",
 			"Author": [
 				"Andrew_FTW"
 			],
-			"Version": "1.0.0",
+			"Version": "1.1.0",
 			"Description": "Time for the technical and engineering marvel that is the Avtomat Nikonova 94, formally known as the AN-94. Chambered in 5.45 x 39, this guns defining feature is its hyperburst. With a burst fire rate of 1800 rpm, this guns burst beats out the vector with a measly 1200 rpm. The full auto fire rate is a very controllable 600 RPM, making it usable at medium ranges.",
 			"Path": "https://bonetome.com/download.php?file=NjU3MGVlM2EzZWU2NzQ4YSszNjUrMTQ0OQ==",
 			"Website": "https://bonetome.com/h3vr/weapons/382/",
