@@ -656,6 +656,77 @@
 					"Vector 45 Carbine"
 				]
 			}
+		},
+		{
+			"modID": "sora101venRoyalSeries4",
+			"Name": "Sora101Ven's \"Royal Series IV\" (Wealth n' Despair)",
+			"RawName": "RoyalSeriesIV.zip",
+			"FileSizeMB": "342.21",
+			"Author": [
+				"Sora101Ven"
+			],
+			"Version": "1.0.0",
+			"Description": "Have you gotten sick of gold yet? Did you have to kill a 1000 enemies to unlock it? No? Then what's the point?\nOnce again, Bill Elis has stricken me with wonderful art, and its reflected with the skins here. Wonderful is totally an opinion though, you may be frightened or appalled by what you'll find in this set.\nSkin Season IV Album - https://imgur.com/a/Rrfn5xR\nAny videos will be made in March. Screenshots are available inside the ZIP folder.",
+			"Path": "https://bonetome.com/download.php?file=NjMyNzQ3MWRlZTJiNTg4OSszNjUrMTM1MA==",
+			"Website": "https://bonetome.com/h3vr/skins/323/",
+			"Arguments": "unzipToDir?Mods/?moveAllFromFolderOfType?Mods/Hotmods/?h3mod?Mods/",
+			"DelInfoArray": [
+				"Mods/a180_sender.h3mod",
+				"Mods/ak74n_duchess.h3mod",
+				"Mods/annihilator_marked.h3mod",
+				"Mods/deag50_gate.h3mod",
+				"Mods/em2_effer.h3mod",
+				"Mods/federov_carcass.h3mod",
+				"Mods/hellreigal_rose.h3mod",
+				"Mods/lewis_wiseguyv3.h3mod",
+				"Mods/mag7_duke.h3mod",
+				"Mods/mpk_disgrace.h3mod",
+				"Mods/peder_gemini.h3mod",
+				"Mods/s12_hardwire.h3mod",
+				"Mods/shelby_conquest.h3mod",
+				"Mods/tgewehr_lisall.h3mod",
+				"Mods/valvss_retribution.h3mod"
+			],
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/xNsUiRm.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"American180",
+					"AK74N",
+					"potatoesAnnihilator",
+					"DesertEagle50",
+					"EM2",
+					"RifBRFedorovAvtomat",
+					"SMGHellRiegel",
+					"potatoesLewisGun",
+					"Mag7",
+					"MPK",
+					"RifCarPedersonDevice",
+					"Saiga12k",
+					"potatoesSelbstlader",
+					"TankGewehr",
+					"VSSVintorez"
+				],
+				"OccupiesName": [
+					"American 180",
+					"AK-74",
+					"Annihilator",
+					"Desert Eagle 50AE",
+					"EM-2",
+					"Fedorov Avtomat",
+					"Hellriegel",
+					"Lewis Gun",
+					"Mag-7",
+					"MPK",
+					"Pederson Device",
+					"Saiga 12",
+					"Selbstlader",
+					"Tank Gewehr",
+					"VSS Vintorez"
+				]
+			}
 		}
 	],
 	"modlistname": "Skin Mods",
