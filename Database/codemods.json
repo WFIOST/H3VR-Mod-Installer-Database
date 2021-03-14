@@ -41,18 +41,31 @@
       "DelInfo": "Mods/BetterHands.deli",
       "Dependencies": ["bepinex", "deli"]
     },
-    {
-      "modID": "better1911",
-      "Name": "Better 1911",
-      "RawName": "Better1911.deli",
-      "Author": ["M’aiq the Dude"],
-      "Version": "1.2.0",
-      "Description": "Mod for H3VR to remove the red dot and add numerous cosmetic enhancements to the M1911 Tactical.All features listed below are optional and configured via mods/configs/better1911.cfg\n\n    Remove the red dot\n    Fix low capacity magazine positioning\n    Disable glow sights\n    Recolor front/rear glow sights\n    Modify roughness, normal strength, specularity, and color of the frame, slide, and grips\n    Match magazine material to either the custom frame or slide material",
-      "Path": "https://github.com/Maiq-The-Dude/Better1911/releases/download/1.2.0/",
-      "Website": "https://github.com/Maiq-The-Dude/Better1911",
-      "Arguments": "moveToFolder?Better1911.deli?Mods/?Better1911.deli",
-      "DelInfo": "Mods/Better1911.deli",
-      "Dependencies": ["bepinex", "deli"]
-    }
+		{
+			"modID": "better1911",
+			"Name": "Better 1911",
+			"RawName": "Better1911.deli",
+			"Author": [ "M’aiq the Dude" ],
+			"Version": "1.2.0",
+			"Description": "Mod for H3VR to remove the red dot and add numerous cosmetic enhancements to the M1911 Tactical.All features listed below are optional and configured via mods/configs/better1911.cfg\n\n    Remove the red dot\n    Fix low capacity magazine positioning\n    Disable glow sights\n    Recolor front/rear glow sights\n    Modify roughness, normal strength, specularity, and color of the frame, slide, and grips\n    Match magazine material to either the custom frame or slide material",
+			"Path": "https://github.com/Maiq-The-Dude/Better1911/releases/download/1.2.0/",
+			"Website": "https://github.com/Maiq-The-Dude/Better1911",
+			"Arguments": "moveToFolder?Better1911.deli?Mods/?Better1911.deli",
+			"DelInfo": "Mods/Better1911.deli",
+			"Dependencies": [ "bepinex", "deli" ]
+		},
+		{
+			"modID": "wristimate",
+			"Name": "Wristimate",
+			"RawName": "Wristimate.deli",
+			"Author": [ "Ashhat" ],
+			"Version": "1.0.1",
+			"Description": "Wristimate is an H3VR mod that displays imprecise information about magazines on the wrist of your hand. This occurs on the wrist you are holding the magazine with, and only happens when you look at your wrist. It currently supports displaying the percentage of remaining rounds, as well as the caliber and class of the next round to be fed.",
+			"Path": "https://github.com/ash-hat/Wristimate/releases/download/v1.0.1/",
+			"Website": "https://github.com/ash-hat/Wristimate",
+			"Arguments": "moveToFolder?Wristimate.deli?Mods/?Wristimate.deli",
+			"DelInfo": "Mods/Wristimate.deli",
+			"Dependencies": [ "bepinex", "deli" ]
+		}
   ]
 }
