@@ -1128,6 +1128,24 @@
 			"Dependencies": [
 				"lsiic"
 			]
+		},
+		{
+			"modID": "Pheonixcraft99ArcticWarfareWeapons",
+			"Name": "Arctic Warfare Weapons",
+			"RawName": "ArcticWarfare.zip",
+			"FileSizeMB": "15.86",
+			"Author": [
+				"Pheonixcraft99"
+			],
+			"Version": "1.1.2",
+			"Description": "\nEver wanted more Arctic Warfare weapons in-game? No? Well I do!\nThis mod includes the following weapons:\n\n- AWP (Black, White, and Green)\n- AWF (White and Green)\n- AWSM-F and AWM-F (Green)\n- AWS (White and Black)\n- AWC (Includes Suppressor, White and Black)\n- AW (White and Green)\n\n(Marked under Arctic Warfare in Bolt Action Rifles)\n\n- AWC -\nThe Arctic Warfare Covert features a folding stock paired with an extremely short barrel compared to other AW models. You can attach a unique suppressor that covers the barrel of the rifle in seconds for quick and quiet kills. Chambered in .308 Winchester.\n\n- AWSM-F and AWM-F -\nThe AWSM (Arctic Warfare Super Magnum) and AWM (Arctic Warfare Magnum) are chambered in .308 Winchester and .338 Lupta Magnum accordingly, with 5rnd magazines. They both feature a Folding Stock.\n\n- AWP -\nThe AWP is a shorter-barreled rifle that lacks the Muzzle Break most other AW models are made with. The AWP is most popular for its inclusion on videogames, however it is often included inaccurately - unlike this mod. Chambered in .308 Winchester.\n\n- AW and AWF -\nThe first modern rifles, the Arctic Warfare and Arctic Warfare Folding serve as the 'Middle Grounds' for super long range and long range combat, with an average barrel length and chambered for .308 Winchester rounds. The AWF is a folding stock variant of the AW.\n\n- AWS -\nThe Arctic Warfare Silenced is a version of the AWP with a much longer barrel and integral suppressor providing top-quality sound masking. Chambered for .308 Winchester.",
+			"Path": "https://bonetome.com/download.php?file=ZjI2ZGE4MTk4NTAyMDFkOCszNjUrMTQzMA==",
+			"Website": "https://bonetome.com/h3vr/weapons/369/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/awp",
+			"Dependencies": [
+				"lsiic"
+			]
 		}
 	]
 }
