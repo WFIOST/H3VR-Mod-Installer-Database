@@ -1126,7 +1126,8 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/AN-94/",
 			"Dependencies": [
-				"lsiic"
+				"lsiic",
+				"h3vrutils"
 			]
 		},
 		{
