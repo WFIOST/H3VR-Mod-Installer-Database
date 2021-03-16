@@ -94,7 +94,8 @@
 			"Website": "https://github.com/devyndamonster/TakeAndHoldTweaker/",
 			"Arguments": "",
 			"DelInfo": "TNH_Tweaker/?Mods/TakeAndHoldTweaker.zip",
-			"Dependencies": [ "bepinex", "deli" ]
+			"Dependencies": [ "bepinex", "deli" ],
+			"IncompatableMods": [ "Pheonixcraft99ArcticWarfareWeapons" ]
 		},
 		{
 			"modID": "sideloader",
