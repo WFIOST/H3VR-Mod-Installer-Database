@@ -38,7 +38,13 @@
 			"Path": "https://github.com/Deli-Counter/Deli/releases/download/v0.2.5/",
 			"Website": "https://github.com/Deli-Counter/Deli/",
 			"Arguments": "",
-			"DelInfo": "Mods/Deli.Core.deli?Mods/Deli.Monomod.deli?BepInEx/patchers/Deli/ADepIn.dll?Deli.Monomod.deli?BepInEx/patchers/Deli/Deli.dll?BepInEx/plugins/Deli/Deli.Runtime.dll",
+			"DelInfoArray": [
+				"BepInEx/patchers/Deli/Deli.dll",
+				"BepInEx/patchers/Deli/ADepIn.dll",
+				"BepInEx/plugins/Deli/Deli.Runtime.dll",
+				"Mods/Deli.Core.deli",
+				"Mods/Deli.Monomod.deli"
+			],
 			"Dependencies": [ "bepinex" ],
 			"IncompatableMods": [ "deli_experimental" ]
 		},
