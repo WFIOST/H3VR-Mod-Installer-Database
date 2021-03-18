@@ -1,5 +1,34 @@
 {
+	"modlistname": "Skin Mods",
+	"modlistid": "skinmods",
 	"modlist": [
+		{
+			"modID": "gamerDollaDollaBillzYallg17",
+			"Name": "\"Dolla Dolla Billz Y'all\" G17",
+			"RawName": "G17DollaDollaBillzYall.zip",
+			"Author": [
+				"GAMERx125"
+			],
+			"Version": "1.0.0",
+			"Description": "Based on the widely-beloved version of the Hi-Point, this G17 sports abunch of $100 bills layered over each other so you can show the sosigsyou're ballin'\n(Uh, you're welcome?)",
+			"Path": "https://bonetome.com/download.php?file=Y2QxYjFlMmJmMGYyM2RkMyszNjUrMTQ1NQ==",
+			"Website": "https://bonetome.com/h3vr/skins/386/",
+			"Arguments": "unzipToDir?Mods/",
+			"Dependencies": [
+				"sideloader"
+			],
+			"FileSizeMB": "2.87",
+			"ImgLoc": "https://i.imgur.com/6hsC9xO.jpg",
+			"SingularModData": {
+				"OccupiesID": [
+					"G17"
+				],
+				"OccupiesName": [
+					"Glock 17"
+				]
+			},
+			"DelInfo": "Mods/G17DollaDollaBillzYall.h3mod"
+		},
 		{
 			"modID": "bruhexedefectivepack",
 			"Name": "Defective Pack",
@@ -10,12 +39,12 @@
 			"Version": "1.0.0",
 			"Description": "Skins made to look like crash test dummies. (the spas may look too shiny)",
 			"Path": "https://bonetome.com/download.php?file=NDk5MTZmOWYwYWE4OTVjNSszNjUrMTQ0Nw==",
+			"Website": "https://bonetome.com/h3vr/skins/381/",
 			"Arguments": "unzipToDir?Mods/",
 			"Dependencies": [
 				"sideloader"
 			],
 			"FileSizeMB": "27.86",
-			"Website": "https://bonetome.com/h3vr/skins/381/",
 			"DelInfoArray": [
 				"Mods/Defective_CZ75.h3mod",
 				"Mods/Defective_Spas.h3mod"
@@ -42,18 +71,12 @@
 			"Version": "1.0.0",
 			"Description": "skins made to look pixelated and retro",
 			"Path": "https://bonetome.com/download.php?file=YTVkODc4MTdkMGY3MDU4ZSszNjUrMTQ0Ng==",
+			"Website": "https://bonetome.com/h3vr/skins/380/",
 			"Arguments": "unzipToDir?Mods/",
 			"Dependencies": [
 				"sideloader"
 			],
 			"FileSizeMB": "8.52",
-			"Website": "https://bonetome.com/h3vr/skins/380/",
-			"DelInfoArray": [
-				"Mods/Pix3led_Aug_A1.h3mod",
-				"Mods/Pix3led_M1Garand.h3mod",
-				"Mods/Pix3led_Mp7.h3mod",
-				"Mods/Pix3led_UMP45.h3mod"
-			],
 			"ImgLoc": "https://i.imgur.com/gAX5RFR.jpeg",
 			"SingularModData": {
 				"OccupiesID": [
@@ -68,7 +91,13 @@
 					"MP-7",
 					"UMP-45"
 				]
-			}
+			},
+			"DelInfoArray": [
+				"Mods/Pix3led_Aug_A1.h3mod",
+				"Mods/Pix3led_M1Garand.h3mod",
+				"Mods/Pix3led_Mp7.h3mod",
+				"Mods/Pix3led_UMP45.h3mod"
+			]
 		},
 		{
 			"modID": "wendigoblacktec9",
@@ -78,7 +107,6 @@
 				"Wendigo"
 			],
 			"Version": "1.0.0",
-			"FileSizeMB": "3.70",
 			"Description": "Get rid of that awful orange tape and revert it back to the classic Grey and black Tec-9 look",
 			"Path": "https://bonetome.com/download.php?file=OTc2MTkxODc5N2MwN2Y5NSszNjUrMTQyMA==",
 			"Website": "https://bonetome.com/h3vr/skins/368/",
@@ -87,6 +115,7 @@
 			"Dependencies": [
 				"sideloader"
 			],
+			"FileSizeMB": "3.70",
 			"ImgLoc": "https://i.imgur.com/WxB922d.png",
 			"SingularModData": {
 				"OccupiesID": [
@@ -101,7 +130,6 @@
 			"modID": "wendigoak74nv2",
 			"Name": "Wendigo AK-74n v2",
 			"RawName": "WendigoAK-74Nv2.zip",
-			"FileSizeMB": "3.70",
 			"Author": [
 				"Wendigo"
 			],
@@ -114,6 +142,7 @@
 			"Dependencies": [
 				"sideloader"
 			],
+			"FileSizeMB": "3.70",
 			"ImgLoc": "https://i.imgur.com/j7EHrbR.png",
 			"SingularModData": {
 				"OccupiesID": [
@@ -128,7 +157,6 @@
 			"modID": "wendigoimprovedar10",
 			"Name": "Improved AR-10",
 			"RawName": "AR-10Wendigo.zip",
-			"FileSizeMB": "3.92",
 			"Author": [
 				"Wendigo"
 			],
@@ -141,6 +169,7 @@
 			"Dependencies": [
 				"sideloader"
 			],
+			"FileSizeMB": "3.92",
 			"ImgLoc": "https://i.imgur.com/kdNfLuu.png",
 			"SingularModData": {
 				"OccupiesID": [
@@ -155,7 +184,6 @@
 			"modID": "kapitolistppsh",
 			"Name": "PPSH - The Reaper + Optional SFX",
 			"RawName": "PPSH-TheReaper+SFX.zip",
-			"FileSizeMB": "31.80",
 			"Author": [
 				"Kapitolist"
 			],
@@ -168,6 +196,7 @@
 			"Dependencies": [
 				"sideloader"
 			],
+			"FileSizeMB": "31.80",
 			"ImgLoc": "https://i.imgur.com/bcQURAw.png",
 			"SingularModData": {
 				"OccupiesID": [
@@ -182,7 +211,6 @@
 			"modID": "bruhexepearlpython",
 			"Name": "'Pristine pearl' Python revolver",
 			"RawName": "Pristine_pearl.zip",
-			"FileSizeMB": "2.77",
 			"Author": [
 				"Bruh.exe"
 			],
@@ -195,6 +223,7 @@
 			"Dependencies": [
 				"sideloader"
 			],
+			"FileSizeMB": "2.77",
 			"ImgLoc": "https://i.imgur.com/BKLYvZQ.jpeg",
 			"SingularModData": {
 				"OccupiesID": [
@@ -263,7 +292,6 @@
 			"modID": "wendigoblackopspython",
 			"Name": "Black Ops 1 Python",
 			"RawName": "BlackOpsPython.zip",
-			"FileSizeMB": "3.79",
 			"Author": [
 				"Wendigo"
 			],
@@ -276,6 +304,7 @@
 			"Dependencies": [
 				"sideloader"
 			],
+			"FileSizeMB": "3.79",
 			"ImgLoc": "https://i.imgur.com/1fBuaCa.png",
 			"SingularModData": {
 				"OccupiesID": [
@@ -290,7 +319,6 @@
 			"modID": "wendigoimproveddeserteagle44",
 			"Name": "Improved Desert Eagle .44",
 			"RawName": "BlackDeagle.44.zip",
-			"FileSizeMB": "3.63",
 			"Author": [
 				"Wendigo"
 			],
@@ -299,10 +327,11 @@
 			"Path": "https://bonetome.com/download.php?file=MjU0YzYwYmI2OGI1ZWQyZCszNjUrMTM5OA==",
 			"Website": "https://bonetome.com/h3vr/skins/352/",
 			"Arguments": "unzipToDir?Mods/",
-			"DelInfo": "Mods/Black Deagle .44.h3mod",
 			"Dependencies": [
 				"sideloader"
 			],
+			"FileSizeMB": "3.63",
+			"DelInfo": "Mods/Black Deagle .44.h3mod",
 			"ImgLoc": "https://i.imgur.com/bg6kkgu.png",
 			"SingularModData": {
 				"OccupiesID": [
@@ -317,7 +346,6 @@
 			"modID": "gamermulticammk18",
 			"Name": "Multicam Mk18",
 			"RawName": "BlackDeagle.44.zip",
-			"FileSizeMB": "7.13",
 			"Author": [
 				"GAMERx125"
 			],
@@ -330,6 +358,7 @@
 			"Dependencies": [
 				"sideloader"
 			],
+			"FileSizeMB": "7.13",
 			"ImgLoc": "https://i.imgur.com/prigyrk.jpg",
 			"SingularModData": {
 				"OccupiesID": [
@@ -344,7 +373,6 @@
 			"modID": "gamertigerstripemac10",
 			"Name": "Tiger Stripe Mac-10",
 			"RawName": "TigerStripeMac10.zip",
-			"FileSizeMB": "4.08",
 			"Author": [
 				"GAMERx125"
 			],
@@ -357,6 +385,7 @@
 			"Dependencies": [
 				"sideloader"
 			],
+			"FileSizeMB": "4.08",
 			"ImgLoc": "https://i.imgur.com/GP8Yih9.jpeg",
 			"SingularModData": {
 				"OccupiesID": [
@@ -371,7 +400,6 @@
 			"modID": "gamernavymp7",
 			"Name": "Navy MP7",
 			"RawName": "NavyMP7.zip",
-			"FileSizeMB": "8.25",
 			"Author": [
 				"GAMERx125"
 			],
@@ -380,10 +408,11 @@
 			"Path": "https://bonetome.com/download.php?file=M2I5ZGQxNTIwNDA3MjBlMiszNjUrMTM3OQ==",
 			"Website": "https://bonetome.com/h3vr/skins/341/",
 			"Arguments": "unzipToDir?Mods/",
-			"DelInfo": "Mods/NavyMP7.h3mod",
 			"Dependencies": [
 				"sideloader"
 			],
+			"DelInfo": "Mods/NavyMP7.h3mod",
+			"FileSizeMB": "8.25",
 			"ImgLoc": "https://i.imgur.com/5J4SFXc.jpeg",
 			"SingularModData": {
 				"OccupiesID": [
@@ -398,7 +427,6 @@
 			"modID": "gamerucpm4a1",
 			"Name": "UCP M4A1 Lefthook",
 			"RawName": "UCPM4A1Lefty.zip",
-			"FileSizeMB": "7.57",
 			"Author": [
 				"GAMERx125"
 			],
@@ -411,6 +439,7 @@
 			"Dependencies": [
 				"sideloader"
 			],
+			"FileSizeMB": "7.57",
 			"ImgLoc": "https://i.imgur.com/jZ3ydHA.jpeg",
 			"SingularModData": {
 				"OccupiesID": [
@@ -425,16 +454,15 @@
 			"modID": "suerte13M93RnM93RA9FP",
 			"Name": "M93R and M93RA9 Freezing Point",
 			"RawName": "M93RFreezingPoint.7z",
-			"FileSizeMB": "22.00",
 			"Author": [
 				"Suerte13"
 			],
 			"Version": "1.0.0",
+			"FileSizeMB": "22.00",
 			"Description": "Month and a half to do this. Am I not the Zonic of skin making?\nTried to recreate Apex Legends RE-45 Freezing Point.",
 			"Path": "https://bonetome.com/download.php?file=ZGI4ZjlmODBlOTg0MTYwMiszNjUrMTM1Nw==",
 			"Website": "https://bonetome.com/h3vr/skins/329/",
 			"Arguments": "unzipToDir?Mods/",
-			"DelInfo": "Mods/M93R Freezing Point.h3mod",
 			"Dependencies": [
 				"sideloader"
 			],
@@ -448,13 +476,13 @@
 					"M93R",
 					"M93RA9"
 				]
-			}
+			},
+			"DelInfo": "Mods/M93R Freezing Point.h3mod"
 		},
 		{
 			"modID": "sora101venarcadeseries",
 			"Name": "Sora101Ven's Arcade Series (Skins with SFX!)",
 			"RawName": "ArcadeSeries.zip",
-			"FileSizeMB": "219.96",
 			"Author": [
 				"Sora101Ven"
 			],
@@ -463,6 +491,10 @@
 			"Path": "https://bonetome.com/download.php?file=MjNkMTZjMDVlNjczZTM2NCszNjUrMTM1Mw==",
 			"Website": "https://bonetome.com/h3vr/skins/326/",
 			"Arguments": "unzipToDir?Mods/?moveAllFromFolderOfType?Mods/Hotmods/?h3mod?Mods/",
+			"Dependencies": [
+				"sideloader"
+			],
+			"FileSizeMB": "219.96",
 			"DelInfoArray": [
 				"Mods/8400_nitro.h3mod",
 				"Mods/aps_ps2.h3mod",
@@ -485,9 +517,6 @@
 				"Mods/toz_crash.h3mod",
 				"Mods/ump45_gt.h3mod",
 				"Mods/vz64_slaught.h3mod"
-			],
-			"Dependencies": [
-				"sideloader"
 			],
 			"ImgLoc": "https://i.imgur.com/pAF9WOA.png",
 			"SingularModData": {
@@ -531,7 +560,6 @@
 			"modID": "sora101venFieldSeries2",
 			"Name": "Sora101Ven's 'Field Series II' (Whiteout Edition!)",
 			"RawName": "FieldSeriesII.zip",
-			"FileSizeMB": "297.32",
 			"Author": [
 				"Sora101Ven"
 			],
@@ -540,6 +568,10 @@
 			"Path": "https://bonetome.com/download.php?file=MWUxYzk4OTk5NTM0ZDkzNCszNjUrMTM1Mg==",
 			"Website": "https://bonetome.com/h3vr/skins/325/",
 			"Arguments": "unzipToDir?Mods/?moveAllFromFolderOfType?Mods/Hotmods/?h3mod?Mods/",
+			"Dependencies": [
+				"sideloader"
+			],
+			"FileSizeMB": "297.32",
 			"DelInfoArray": [
 				"Mods/asp_blanc.h3mod",
 				"Mods/ax50_wl.h3mod",
@@ -554,9 +586,6 @@
 				"Mods/mp7_windex.hotmod",
 				"Mods/sg552_frost.h3mod",
 				"Mods/stonerar_placebo.h3mod"
-			],
-			"Dependencies": [
-				"sideloader"
 			],
 			"ImgLoc": "https://i.imgur.com/nQdru3J.png",
 			"SingularModData": {
@@ -596,7 +625,6 @@
 			"modID": "sora101venStreetSeries3",
 			"Name": "Sora101Ven's 'Field Series II' (Whiteout Edition!)",
 			"RawName": "StreetSeriesIII.zip",
-			"FileSizeMB": "187.90",
 			"Author": [
 				"Sora101Ven"
 			],
@@ -605,6 +633,10 @@
 			"Path": "https://bonetome.com/download.php?file=MTU0MjYyZjMxNzM2N2Q5OSszNjUrMTM1MQ==",
 			"Website": "https://bonetome.com/h3vr/skins/324/",
 			"Arguments": "unzipToDir?Mods/?moveAllFromFolderOfType?Mods/Hotmods/?h3mod?Mods/",
+			"Dependencies": [
+				"sideloader"
+			],
+			"FileSizeMB": "187.90",
 			"DelInfoArray": [
 				"Mods/akm_vulcan.h3mod",
 				"Mods/awp_neo.h3mod",
@@ -619,9 +651,6 @@
 				"Mods/sako_dragon.h3mod",
 				"Mods/stonerlmg_mjo.h3mod",
 				"Mods/vector_assimov.h3mod"
-			],
-			"Dependencies": [
-				"sideloader"
 			],
 			"ImgLoc": "https://i.imgur.com/lDFne8j.png",
 			"SingularModData": {
@@ -727,8 +756,180 @@
 					"VSS Vintorez"
 				]
 			}
+		},
+		{
+			"modID": "kapitolistSchofieldmodel3governor",
+			"Name": "Schofield Model 3 - The Governor",
+			"RawName": "Schofield-TheGovernor.zip",
+			"FileSizeMB": "15.05",
+			"Author": [
+				"Kapitolist"
+			],
+			"Version": "1.0.0",
+			"Description": "Black and gold Schofield inspired by one of Sora's skins",
+			"Path": "https://bonetome.com/download.php?file=N2Q2ZmZjNDM3ZWU0N2E2YSszNjUrMTM0NQ==",
+			"Website": "https://bonetome.com/h3vr/skins/320/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfoArray": [
+				"Mods/Schofield - The Governor.h3mod"
+			],
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/bgBklmO.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"SchofieldModel3"
+				],
+				"OccupiesName": [
+					"Schofield"
+				]
+			}
+		},
+		{
+			"modID": "wendigoAK12Prototype",
+			"Name": "Wooden AK-12 Prototype",
+			"RawName": "WendigoAK-12Proto.zip",
+			"FileSizeMB": "2.73",
+			"Author": [
+				"Wendigo"
+			],
+			"Version": "1.0.0",
+			"Description": "What better way to make a custom skin for an evolution in progress than to revert it back to the classing better material.",
+			"Path": "https://bonetome.com/download.php?file=ZWY3ZDgxZTkyOGNjMjU1YSszNjUrMTM0NA==",
+			"Website": "https://bonetome.com/h3vr/skins/319/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfoArray": [
+				"Mods/Wendigo AK-12 Proto.h3mod"
+			],
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/H90wlAw.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"AK12"
+				],
+				"OccupiesName": [
+					"AK-12"
+				]
+			}
+		},
+		{
+			"modID": "wendigoBluePython",
+			"Name": "Blue Python",
+			"RawName": "KraitPython.zip",
+			"FileSizeMB": "3.52",
+			"Author": [
+				"Wendigo"
+			],
+			"Version": "1.0.0",
+			"Description": "Hardened, burnt, blue metal on a Python, or should I say Blue racer? Krait? ah whatever you get the idea, A blue snake.",
+			"Path": "https://bonetome.com/download.php?file=YjE3MGFkODdiNGNkZjZmNSszNjUrMTM0Mw==",
+			"Website": "https://bonetome.com/h3vr/skins/318/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfoArray": [
+				"Mods/Krait Python.h3mod"
+			],
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/A5DFeY3.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"Python"
+				],
+				"OccupiesName": [
+					"Python"
+				]
+			}
+		},
+		{
+			"modID": "wendigoMW2DesertEagle",
+			"Name": "Modern Warfare 2 Desert Eagle",
+			"RawName": "ModernWarfare2DesertEagle.50AE.zip",
+			"FileSizeMB": "2.57",
+			"Author": [
+				"Wendigo"
+			],
+			"Version": "1.0.0",
+			"Description": "This is a skin for the .50 AE, was playing through the campaign againand figured this is too much of a classic to not be made into H3VR.",
+			"Path": "https://bonetome.com/download.php?file=NzNlNjkzYjg4MTgyYWJiYyszNjUrMTM0Mg==",
+			"Website": "https://bonetome.com/h3vr/skins/317/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfoArray": [
+				"Mods/Modern Warfare 2 Desert Eagle .50 AE.h3mod"
+			],
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/UoB0oR2.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"DesertEagle50"
+				],
+				"OccupiesName": [
+					"Desert Eagle .50AE"
+				]
+			}
+		},
+		{
+			"modID": "wendigoTanNBlackP350",
+			"Name": "Tan & Black P350",
+			"RawName": "WendigotanP250.zip",
+			"FileSizeMB": "3.70",
+			"Author": [
+				"Wendigo"
+			],
+			"Version": "1.0.0",
+			"Description": "Had an idea to make a tan P250 for a while but hadn't gotten the modeluntil now, it was originally going to be pretty basic however I decidedto allow myself to be more creative and with inspiration from ModernWarfare 2 I ended up with this.",
+			"Path": "https://bonetome.com/download.php?file=MGQxYjRiMzg4NjBjNzZmOSszNjUrMTM0MQ==",
+			"Website": "https://bonetome.com/h3vr/skins/316/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfoArray": [
+				"Mods/Wendigo tan P250.h3mod"
+			],
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/Hfg459m.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"P250"
+				],
+				"OccupiesName": [
+					"P250"
+				]
+			}
+		},
+		{
+			"modID": "wendigoImprovedSkorpion",
+			"Name": "improved Skorpion",
+			"RawName": "Wendigoäkorpion.zip",
+			"FileSizeMB": "2.31",
+			"Author": [
+				"Wendigo"
+			],
+			"Version": "1.0.0",
+			"Description": "I wasn't impressed wtih the plastic looking steel and the very ugly woodgrip so I took it into my own hands to improve upon the model, Themetal is much cleaner and darker steel with chrome highlights on theirons and bolt, while the grip is a polished dark oak color.",
+			"Path": "https://bonetome.com/download.php?file=YzMzZDcyYzEzMWYwMjgzMSszNjUrMTM0MA==",
+			"Website": "https://bonetome.com/h3vr/skins/315/",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfoArray": [
+				"Mods/Wendigo äkorpion.h3mod"
+			],
+			"Dependencies": [
+				"sideloader"
+			],
+			"ImgLoc": "https://i.imgur.com/80JHHgS.png",
+			"SingularModData": {
+				"OccupiesID": [
+					"VZ64Skorpion"
+				],
+				"OccupiesName": [
+					"Skorpion"
+				]
+			}
 		}
-	],
-	"modlistname": "Skin Mods",
-	"modlistid": "skinmods"
+	]
 }
