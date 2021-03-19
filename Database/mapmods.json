@@ -14,7 +14,7 @@
       "Arguments": "moveToFolder?ShootyHouse.zip?Mods/?ShootyHouse.zip",
       "Delinfo": "Mods/ShootyHouse.zip",
       "Dependencies": ["wurstmod"]
-    },
+    },  
     {
       "modID": "promeatheus",
       "Name": "Promeatheus",
