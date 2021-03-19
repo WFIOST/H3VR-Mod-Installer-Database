@@ -14,11 +14,11 @@
 			"Path": "https://bonetome.com/download.php?file=NGFmYTMxOWRjNmEwMTdhMSszNjUrNzUw",
 			"Website": "https://bonetome.com/h3vr/weapons/142/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/Potatoes' Custom Guns",
 			"Dependencies": [
 				"lsiic",
 				"h3vrutils"
-			]
+			],
+			"DelInfo": "VirtualObjects/Potatoes' Custom Guns"
 		},
 		{
 			"modID": "meatsmags",
@@ -32,10 +32,10 @@
 			"Path": "https://bonetome.com/download.php?file=MzZmNmEzNDZmNzJhNDdiMiszNjUrODkw",
 			"Website": "https://bonetome.com/h3vr/weapons/170/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/Magazines",
 			"Dependencies": [
 				"lsiic"
-			]
+			],
+			"DelInfo": "VirtualObjects/Magazines"
 		},
 		{
 			"modID": "modular",
@@ -49,10 +49,10 @@
 			"Path": "https://bonetome.com/download.php?file=MjgxMDkxOThkYTE0Mjg4MCszNjUrODUw",
 			"Website": "https://bonetome.com/h3vr/weapons/159/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/modular",
 			"Dependencies": [
 				"lsiic"
-			]
+			],
+			"DelInfo": "VirtualObjects/modular"
 		},
 		{
 			"modID": "meatsmodularparts",
@@ -226,10 +226,10 @@
 			"Path": "https://bonetome.com/download.php?file=OGViNjM0MGVlOTUwMGYzNyszNjUrOTMw",
 			"Website": "https://bonetome.com/h3vr/weapons/176/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/Rigs/",
 			"Dependencies": [
 				"lsiic"
-			]
+			],
+			"DelInfo": "VirtualObjects/Rigs/"
 		},
 		{
 			"modID": "meatsash12",
@@ -319,11 +319,11 @@
 			"Path": "https://bonetome.com/download.php?file=YTk5MTg0NTBjNzRlZmMwZSszNjUrMTQxMA==",
 			"Website": "https://bonetome.com/h3vr/weapons/359/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/roadsidemags",
 			"Dependencies": [
 				"lsiic",
 				"h3vrutils"
-			]
+			],
+			"DelInfo": "VirtualObjects/roadsidemags"
 		},
 		{
 			"modID": "45turn",
@@ -337,11 +337,11 @@
 			"Path": "https://bonetome.com/download.php?file=ZTQxZjg1NDAxZDY0NDhjNiszNjUrNzA3",
 			"Website": "https://bonetome.com/h3vr/weapons/124/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/45_turn?VirtualObjects/45_turn.manifest",
 			"Dependencies": [
 				"lsiic",
 				"modular"
-			]
+			],
+			"DelInfo": "VirtualObjects/45_turn?VirtualObjects/45_turn.manifest"
 		},
 		{
 			"modID": "SCRRifle",
@@ -355,10 +355,10 @@
 			"Path": "https://bonetome.com/download.php?file=NzRkM2NkMWIxYTNkZGNmZisrNjM2",
 			"Website": "https://bonetome.com/h3vr/weapons/99/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/scrrifle?VirtualObjects/scrrifle.manifest",
 			"Dependencies": [
 				"lsiic"
-			]
+			],
+			"DelInfo": "VirtualObjects/scrrifle?VirtualObjects/scrrifle.manifest"
 		},
 		{
 			"modID": "f2000",
@@ -372,10 +372,10 @@
 			"Path": "https://bonetome.com/download.php?file=OGE1ZWNjNGM0MzNlYjVhNCszNjUrNjk5",
 			"Website": "https://bonetome.com/h3vr/weapons/118/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/f2000t",
 			"Dependencies": [
 				"lsiic"
-			]
+			],
+			"DelInfo": "VirtualObjects/f2000t"
 		},
 		{
 			"modID": "ebr",
@@ -389,10 +389,10 @@
 			"Path": "https://bonetome.com/download.php?file=YzM2MTcyN2ZlYTRjNWRhNiszNjUrODg4",
 			"Website": "https://bonetome.com/h3vr/weapons/169/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/mk14 ebr",
 			"Dependencies": [
 				"lsiic"
-			]
+			],
+			"DelInfo": "VirtualObjects/mk14 ebr"
 		},
 		{
 			"modID": "ACF",
@@ -407,10 +407,10 @@
 			"Path": "https://bonetome.com/download.php?file=M2MyODRlMWU4NWI5ZjE3MCsxMzY3KzExMDk=",
 			"Website": "https://bonetome.com/h3vr/weapons/242/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/FTW Arms Foregrips/",
 			"Dependencies": [
 				"lsiic"
-			]
+			],
+			"DelInfo": "VirtualObjects/FTW Arms Foregrips/"
 		},
 		{
 			"modID": "fnx",
@@ -424,10 +424,10 @@
 			"Path": "https://bonetome.com/download.php?file=YWQwOTIxYzhiNTExNGRkYSsxNTk5KzExNjM=",
 			"Website": "https://bonetome.com/h3vr/weapons/265/",
 			"Arguments": "unzipToDir?mods/",
-			"DelInfo": "mods/FNX45.h3mod",
 			"Dependencies": [
 				"sideloader"
-			]
+			],
+			"DelInfo": "mods/FNX45.h3mod"
 		},
 		{
 			"modID": "notwolfiesmuzzles",
@@ -442,10 +442,10 @@
 			"Path": "https://bonetome.com/download.php?file=YTU3YTU4NjcyODc3MjYwNSszNjUrMTIzNQ==",
 			"Website": "https://bonetome.com/h3vr/weapons/273/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/muzzles",
 			"Dependencies": [
 				"lsiic"
-			]
+			],
+			"DelInfo": "VirtualObjects/muzzles"
 		},
 		{
 			"modID": "ftwarmsvpo215",
@@ -459,10 +459,10 @@
 			"Path": "https://bonetome.com/download.php?file=MWQ2ZmRlZWU1Yjk0ZTNmMCszNjUrMTI0OQ==",
 			"Website": "https://bonetome.com/h3vr/weapons/279/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/VPO-215",
 			"Dependencies": [
 				"lsiic"
-			]
+			],
+			"DelInfo": "VirtualObjects/VPO-215"
 		},
 		{
 			"modID": "carkiddaps",
@@ -476,10 +476,10 @@
 			"Path": "https://bonetome.com/download.php?file=MGE3YmZiZTJlZjNhZTJhYiszNjUrMTI2MQ==",
 			"Website": "https://bonetome.com/h3vr/weapons/281/",
 			"Arguments": "unzipToDir?Mods/",
-			"DelInfo": "Mods/StechkinAPS.hotmod",
 			"Dependencies": [
 				"sideloader"
-			]
+			],
+			"DelInfo": "Mods/StechkinAPS.hotmod"
 		},
 		{
 			"modID": "ftwarmssupershotgun",
@@ -493,10 +493,10 @@
 			"Path": "https://bonetome.com/download.php?file=MTBmNGQ1ZmZkYmVjODI0NCszNjUrMTI2Mw==",
 			"Website": "https://bonetome.com/h3vr/weapons/282/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/SuperShotgun",
 			"Dependencies": [
 				"lsiic"
-			]
+			],
+			"DelInfo": "VirtualObjects/SuperShotgun"
 		},
 		{
 			"modID": "ftwarmsammoboxes",
@@ -1144,6 +1144,96 @@
 			"Website": "https://bonetome.com/h3vr/weapons/369/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/awp",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "golubm3predator",
+			"Name": "M3 Predator",
+			"RawName": "M3predator.zip",
+			"FileSizeMB": "12.17",
+			"Author": [
+				"SovietPigeon"
+			],
+			"Version": "1.0.0",
+			"Description": "The M3 Predator from the Mass Effect trilogy (we don't talk aboutAndromeda), now in Virtual Reality. Mildly janky but 100% accurate tothe games. Sorry about the shit textures.",
+			"Path": "https://bonetome.com/download.php?file=ZTRiYzIwOTFkNTcyMDVmZSszNjUrMTQ2MQ==",
+			"Website": "https://bonetome.com/h3vr/weapons/389/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/m3",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "pheonixcraft99P2062",
+			"Name": "P2062",
+			"RawName": "P2062.zip",
+			"FileSizeMB": "4.07",
+			"Author": [
+				"Phoenixcraft99"
+			],
+			"Version": "1.0.0",
+			"Description": "The P2062 is an updated version of the P226 used specifically for elite police forces in the year 2062.\n\nLORE\n\nThe P2062 is a one-of-a-kind pistol that fires .38 Special Cartridgesusing an advanced electromagnetic acceleration system, technicallymaking it a hybrid coil gun. Currently only one pistol has survivedbeing destroyed out of the 30 originally produced, and is still in usetoday. Due to its unusual ammunition it is extremely expensive to keepthe weapon operable, as every magazine is loaded with a battery thatpowers the magnetic acceleration in the P2062's barrel.\n\nIf you can identify where I based this gun off of you're a god.",
+			"Path": "https://bonetome.com/download.php?file=Y2I5NGE5MGZiY2U4MTZlNSszNjUrMTQ1Nw==",
+			"Website": "https://bonetome.com/h3vr/weapons/387/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/p2062",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "artyomTrenchKnife",
+			"Name": "Artyom's Trench Knife",
+			"RawName": "ArtyomKnife.zip",
+			"FileSizeMB": "4.07",
+			"Author": [
+				"RedLinePigeon"
+			],
+			"Version": "1.0.0",
+			"Description": "This thing is surprisingly large... yes I did rescale it.have fun with this one, more to come.",
+			"Path": "https://bonetome.com/download.php?file=OTE5ZTllMjJmOTljZjgyMCszNjUrMTQ2Mg==",
+			"Website": "https://bonetome.com/h3vr/weapons/390/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/ArtyomKnife/metro2033weapons",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "gamernayrSkeletonKnife",
+			"Name": "Skeleton Knife",
+			"RawName": "skel_dagger.zip",
+			"FileSizeMB": "1.05",
+			"Author": [
+				"gamernayr"
+			],
+			"Version": "1.0.0",
+			"Description": "Skeleton knife (vanilla) from CS:GO. Spawn-lockable, so throw as many as you like!\n\nLocated under Melee>Throwable.",
+			"Path": "https://bonetome.com/download.php?file=M2Y4NTQ3NTBmZDczYjY1MCszNjUrMTQ2Mw==",
+			"Website": "https://bonetome.com/h3vr/weapons/391/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/skel_dagger",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "gamernayrDestinyHunterKnife",
+			"Name": "Destiny Hunter Knife",
+			"RawName": "hknifeagain.zip",
+			"FileSizeMB": "0.5",
+			"Author": [
+				"gamernayr"
+			],
+			"Version": "1.0.0",
+			"Description": "Straight from the destiny arsenal, the hunter's knife! This model isjust as large as you'd think it is, and in true destiny fashion, reallygood at throwing.",
+			"Path": "https://bonetome.com/download.php?file=YWM2NjQwOGJiMDM5NDY5ZiszNjUrMTQ2Nw==",
+			"Website": "https://bonetome.com/h3vr/weapons/392/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/skel_dagger",
 			"Dependencies": [
 				"lsiic"
 			]
