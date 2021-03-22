@@ -1237,6 +1237,24 @@
 			"Dependencies": [
 				"lsiic"
 			]
+		},
+		{
+			"modID": "gamernayrSeventhSeraphServiceRevolver",
+			"Name": "Seventh Seraph Service Revoler (Destiny 2)",
+			"RawName": "s3r.zip",
+			"FileSizeMB": "7.26",
+			"Author": [
+				"gamernayr"
+			],
+			"Version": "1.0.0",
+			"Description": "First gun I've made so it was a good learning experience.\nLots of work to do still on it, including getting the sights working.For now, there's an invisible rail on top and I highly recommend you useit.\nIt accepts .357 magnum and if you want to use a speedloader there is oneunder the Unica6. It might look like the bullets won't line up with theloader but thanks to Anton that's not a problem. The chambers aresupposed to look wonky, no need for concern\nLet me know if you find anything!",
+			"Path": "https://bonetome.com/download.php?file=YTg2OWEwNTc1ZGM0N2IxNCszNjUrMTQ3Mg==",
+			"Website": "https://bonetome.com/h3vr/weapons/395/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/s3r",
+			"Dependencies": [
+				"lsiic"
+			]
 		}
 	]
 }
