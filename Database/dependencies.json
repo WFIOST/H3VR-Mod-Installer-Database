@@ -112,7 +112,7 @@
 			"Path": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.6.0/",
 			"Website": "https://github.com/devyndamonster/TakeAndHoldTweaker/",
 			"InstallArgumentsArray": [ "extractto", ""],
-			"DelInfo": "TNH_Tweaker/?Mods/TakeAndHoldTweaker.zip",
+			"DelInfo": "TNH_Tweaker/?Deli/mods/TakeAndHoldTweaker.deli",
 			"Dependencies": [ "bepinex", "deli_experimental" ],
 			"IncompatableMods": [ "Pheonixcraft99ArcticWarfareWeapons", "tnhtweaker"]
 		},
