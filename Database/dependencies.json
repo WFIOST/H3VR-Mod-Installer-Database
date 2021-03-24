@@ -98,9 +98,9 @@
 			"Path": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.5.0/",
 			"Website": "https://github.com/devyndamonster/TakeAndHoldTweaker/",
 			"Arguments": "",
-			"DelInfo": "TNH_Tweaker/?Mods/TakeAndHoldTweaker.zip",
+			"DelInfo": "Mods/TakeAndHoldTweaker.zip?TNH_Tweaker/",
 			"Dependencies": [ "bepinex", "deli" ],
-			"IncompatableMods": [ "Pheonixcraft99ArcticWarfareWeapons", "tnhtweaker_deli30"]
+			"IncompatableMods": [ "Pheonixcraft99ArcticWarfareWeapons", "tnhtweaker_deli30" ]
 		},
 		{
 			"modID": "tnhtweaker_deli30",
@@ -111,10 +111,10 @@
 			"Description": "An H3VR plugin for modifying Take & Hold! Has support for custom characters, as well as global tweaks to spice things up. Uses Deli 0.3.0, which is incompatable with Deli 0.2.5 mods.",
 			"Path": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.6.0/",
 			"Website": "https://github.com/devyndamonster/TakeAndHoldTweaker/",
-			"InstallArgumentsArray": [ "extractto", ""],
-			"DelInfo": "TNH_Tweaker/?Deli/mods/TakeAndHoldTweaker.deli",
+			"InstallArgumentsArray": [ "extractto", "" ],
+			"DelInfo": "Deli/mods/TakeAndHoldTweaker.deli?TNH_Tweaker/",
 			"Dependencies": [ "bepinex", "deli_experimental" ],
-			"IncompatableMods": [ "Pheonixcraft99ArcticWarfareWeapons", "tnhtweaker"]
+			"IncompatableMods": [ "Pheonixcraft99ArcticWarfareWeapons", "tnhtweaker" ]
 		},
 		{
 			"modID": "sideloader",
