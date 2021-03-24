@@ -2,19 +2,19 @@
   "modlistname": "Character Mods",
   "modlistid": "charactermods",
   "modlist": [
-    {
-      "modID": "comradekolbosa",
-      "Name": "Comrade Kolbosa",
-      "RawName": "ComradeKolbasa.zip",
-      "Author": ["devyndamonster"],
-      "Version": "1.4.0",
-      "Description": "A character which can only use Russian and Czech weaponry.",
-      "Path": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.4.0/",
-      "Website": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/tag/v1.4.0",
-      "Arguments": "moveToFolder?ComradeKolbasa.zip?Mods/?ComradeKolbasa.zip",
-      "DelInfo": "Mods/ComradeKolbasa.zip",
-      "Dependencies": ["tnhtweaker"]
-    },
+		{
+			"modID": "comradekolbosa",
+			"Name": "Comrade Kolbosa",
+			"RawName": "ComradeKolbasa.zip",
+			"Author": [ "devyndamonster" ],
+			"Version": "1.4.1",
+			"Description": "A character which can only use Russian and Czech weaponry.",
+			"Path": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.4.0/",
+			"Website": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/tag/v1.4.0",
+			"Arguments": "unzipToDir?Mods/",
+			"DelInfo": "Mods/ComradeKolbasa.deli",
+			"Dependencies": [ "tnhtweaker_deli30" ]
+		},
     {
       "modID": "pmcpete",
       "Name": "PMC Pete",
