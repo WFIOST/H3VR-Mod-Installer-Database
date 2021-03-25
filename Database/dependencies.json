@@ -100,7 +100,7 @@
 			"Arguments": "",
 			"DelInfo": "Mods/TakeAndHoldTweaker.zip?TNH_Tweaker/",
 			"Dependencies": [ "bepinex", "deli" ],
-			"IncompatableMods": [ "Pheonixcraft99ArcticWarfareWeapons", "tnhtweaker_deli30" ]
+			"IncompatableMods": [ "tnhtweaker_deli30" ]
 		},
 		{
 			"modID": "tnhtweaker_deli30",
@@ -114,7 +114,7 @@
 			"InstallArgumentsArray": [ "extractto", "" ],
 			"DelInfo": "Deli/mods/TakeAndHoldTweaker.deli?TNH_Tweaker/",
 			"Dependencies": [ "bepinex", "deli_experimental" ],
-			"IncompatableMods": [ "Pheonixcraft99ArcticWarfareWeapons", "tnhtweaker" ]
+			"IncompatableMods": [ "tnhtweaker" ]
 		},
 		{
 			"modID": "sideloader",
