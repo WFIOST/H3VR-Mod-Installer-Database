@@ -6,185 +6,260 @@
       "modID": "shootyhouse",
       "Name": "Shooty House",
       "RawName": "ShootyHouse.zip",
-      "Author": ["SirPotatoes", "nrgill28"],
+      "Author": [
+        "SirPotatoes",
+        "nrgill28"
+      ],
       "Version": "1.1.0",
       "Description": "Shoot house! Clear the rooms as fast as possible and go for a high score!\nInstallation: Download the zip file and place in your mods/ folder. Do not extract\nDependencies: Deli v0.2.5 or greater and WurstMod v2.0.2.0 or greater\nCompare your scores against others' on this spreadsheet!\nhttps://docs.google.com/spreadsheets/d/1uJ5WMFAxVDIHDB3rCt0gvPeVDmo5yK6BZwkjE0WcQew/edit?usp=sharing\nNOTE: If the item spawner is missing, just reload the level from the wrist menu.",
       "Path": "https://bonetome.com/download.php?file=MmI5NzlkOTRkZTI3MzUyYyszNjUrOTQw",
       "Website": "https://bonetome.com/h3vr/map/181/",
       "Arguments": "moveToFolder?ShootyHouse.zip?Mods/?ShootyHouse.zip",
       "Delinfo": "Mods/ShootyHouse.zip",
-      "Dependencies": ["wurstmod"]
+      "Dependencies": [
+        "wurstmod"
+      ]
     },
     {
       "modID": "promeatheus",
       "Name": "Promeatheus",
       "RawName": "Promeatheus.zip",
-      "Author": ["NunSuperior"],
+      "Author": [
+        "NunSuperior"
+      ],
       "Version": "1.4.4",
       "Description": "Promeatheus is a sci-fi themed Take and Hold map. It is an indoor map that features a mix of short and long hallways, small and medium sized holds/supply points, and shiny floors.\n\nPerformance:\nI recommend turning off HDR and Bloom. I tuned the lighting to look good with HDR off. Also the map still looks good even on the Low setting.\n\nStory(?):\nWhy is the Weinerland-Umami Corporation guarding this abandoned science vessel? Your mission is to investigate the Promeatheus and recover any valuable information you can.",
       "Path": "https://bonetome.com/download.php?file=YmQ1ZWFmZjgzZWU3NzVmMisrOTk4",
       "Website": "https://bonetome.com/h3vr/map/198/",
       "Arguments": "unzipToDir??moveToFolder?Promeatheus.deli?Mods/?Promeatheus.deli",
       "Delinfo": "Mods/Promeatheus.deli",
-      "Dependencies": ["wurstmod"]
+      "Dependencies": [
+        "wurstmod"
+      ]
     },
     {
       "modID": "wurstwar",
       "Name": "Wurst War 2",
       "RawName": "Wurst_War_II_1.2.1.zip",
-      "Author": ["ThatonePanMan"],
+      "Author": [
+        "ThatonePanMan"
+      ],
       "Version": "1.2.1",
       "Description": "THIS MAP IS ABANDONED. I'm sorry, but this map runs like shit and I cannot find an easy way to fix it. I'll probably end up recreating the map in a less performance intensive way.\nA World War II themed TNH map, best experienced with music OFF and played with Grumbly GI Grayson.\nAlso includes a generic version for exploration and sandbox stuff.\nMay or may not also contain a lemon.\nLow Poly assets made by Synty.",
       "Path": "https://bonetome.com/download.php?file=MDg4OTYxMmY2M2FiMDY1MSszNjUrNTY0",
       "Website": "https://bonetome.com/h3vr/map/87/",
       "Arguments": "unzipToDir??moveToFolder?Wurst War II Generic?CustomLevels/Generic/?Wurst War II Generic?moveToFolder?Wurst War II TNH?CustomLevels/TakeAndHold/?Wurst War II TNH",
       "Delinfo": "CustomLevels/Generic/Wurst War II Generic?CustomLevels/TakeAndHold/Wurst War II TNH",
-      "Dependencies": ["wurstmod"]
+      "Dependencies": [
+        "wurstmod"
+      ]
     },
-		{
-			"modID": "sanctuary",
-			"Name": "Sanctuary",
-			"RawName": "SanctuaryPack.zip",
-			"Author": [ "Mücke", "Synty Studios" ],
-			"Version": "1.3.2",
-			"Description": "A little town overrun with Outlaws.\n- pretty challenging, makes \"Cowboys\" into \"Cattlemen\"\n- you can move freely in Holds\n- has no barriers but natural cover\n- 8 Holds, 6 Supplypoints",
-			"Path": "https://bonetome.com/download.php?file=N2VjNTE4NGVjMGE0MzdiYis0NDErMTAyMw==",
-			"Website": "https://bonetome.com/h3vr/map/202/",
-			"InstallArgumentsArray": [ "extractto", "CustomLevels/TakeAndHold/" ],
-			"Delinfo": "CustomLevels/TakeAndHold/Sanctuary Pack/",
-			"Dependencies": [ "wurstmod" ]
-		},
+    {
+      "modID": "sanctuary",
+      "Name": "Sanctuary",
+      "RawName": "SanctuaryPack.zip",
+      "Author": [
+        "Mücke",
+        "Synty Studios"
+      ],
+      "Version": "1.3.2",
+      "Description": "A little town overrun with Outlaws.\n- pretty challenging, makes \"Cowboys\" into \"Cattlemen\"\n- you can move freely in Holds\n- has no barriers but natural cover\n- 8 Holds, 6 Supplypoints",
+      "Path": "https://bonetome.com/download.php?file=N2VjNTE4NGVjMGE0MzdiYis0NDErMTAyMw==",
+      "Website": "https://bonetome.com/h3vr/map/202/",
+      "InstallArgumentsArray": [
+        "extractto",
+        "CustomLevels/TakeAndHold/"
+      ],
+      "Delinfo": "CustomLevels/TakeAndHold/Sanctuary Pack/",
+      "Dependencies": [
+        "wurstmod"
+      ]
+    },
     {
       "modID": "fortbratwurst",
       "Name": "Fort Bratwurst",
       "RawName": "Generic-FortBratwurst.zip",
-      "Author": ["Andrew_FTW"],
+      "Author": [
+        "Andrew_FTW"
+      ],
       "Version": "2.0.0",
       "Description": "For my first Unity project, Ive built Fort Bratwurst, inspired by the drawing from u/GaPSMAV, with a few fun additions by me.",
       "Path": "https://bonetome.com/download.php?file=MzgwZGJiMmUwNDc3OGI5ZiszNjUrMTAxNQ==",
       "Website": "https://bonetome.com/h3vr/map/201/",
       "Arguments": "unzipToDir??moveToFolder?Generic-FortBratwurst?CustomLevels/Generic/?Generic-FortBratwurst",
       "Delinfo": "CustomLevels/Generic/Generic-FortBratwurst",
-      "Dependencies": ["wurstmod"]
+      "Dependencies": [
+        "wurstmod"
+      ]
     },
     {
       "modID": "marcelsupermarketday",
       "Name": "TnH Supermarket - Day",
       "RawName": "Supermarket_day.zip",
-      "Author": ["optomarcel"],
-			"Version": "1.2.0",
-			"FileSizeMB":  "358.34",
+      "Author": [
+        "optomarcel"
+      ],
+      "Version": "1.2.0",
+      "FileSizeMB": "358.34",
       "Description": "My very first map, set in a supermarket in broad daylight.\n\nComes in 2 versions, funky and normal. Funky contains some royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\n\nFeatures 10 supply and 6 hold points.\n\nLet me know if you have any issues/ideas.\n\nThanks and have fun playing",
       "Path": "https://bonetome.com/download.php?file=NDFiZDYxY2U3NGI5ZjRiMiszNjUrMTIzOQ==",
       "Website": "https://bonetome.com/h3vr/map/276/",
       "Arguments": "unzipToDir?Mods/",
       "Delinfo": "Mods/TNH_supermarket_day.deli?Mods/TNH_supermarket_day_funky.deli",
-      "Dependencies": ["wurstmod"]
+      "Dependencies": [
+        "wurstmod"
+      ]
     },
-		{
-			"modID": "marcelsupermarketnight",
-			"Name": "TnH Supermarket - Night",
-			"RawName": "Supermarket_night.zip",
-			"Author": [ "optomarcel" ],
-			"Version": "1.2.0",
-			"FileSizeMB": "337.08",
-			"Description": "The night version of my supermarket. There are 2 versions of the map, funky and normal.\nFunky contains royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\nContains 9 supply and 6 hold points.",
-			"Path": "https://bonetome.com/download.php?file=N2MzNmVhMjFhMzA0NzI4NSszNjUrMTIzOA==",
-			"Website": "https://bonetome.com/h3vr/map/275/",
-			"Arguments": "unzipToDir?Mods/",
-			"Delinfo": "Mods/TNH_supermarket_night.deli?Mods/TNH_supermarket_night_funky.deli",
-			"Dependencies": [ "wurstmod" ]
-		},
+    {
+      "modID": "marcelsupermarketnight",
+      "Name": "TnH Supermarket - Night",
+      "RawName": "Supermarket_night.zip",
+      "Author": [
+        "optomarcel"
+      ],
+      "Version": "1.2.0",
+      "FileSizeMB": "337.08",
+      "Description": "The night version of my supermarket. There are 2 versions of the map, funky and normal.\nFunky contains royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\nContains 9 supply and 6 hold points.",
+      "Path": "https://bonetome.com/download.php?file=N2MzNmVhMjFhMzA0NzI4NSszNjUrMTIzOA==",
+      "Website": "https://bonetome.com/h3vr/map/275/",
+      "Arguments": "unzipToDir?Mods/",
+      "Delinfo": "Mods/TNH_supermarket_night.deli?Mods/TNH_supermarket_night_funky.deli",
+      "Dependencies": [
+        "wurstmod"
+      ]
+    },
     {
       "modID": "customs",
       "Name": "Customs",
       "RawName": "Customs_0.3.8_extract_me.zip",
-      "Author": ["NickMillion"],
+      "Author": [
+        "NickMillion"
+      ],
       "Version": "0.3.8",
       "Description": "0.3.8 is basically untested, let me know what's broken by pinging me on the H3VR modding discord.\nI was recommended to also upload the map here, so here it is!\nA slice of Customs from New Gas to Boilers coming out to roughly 300 square meters in size with 16 holds and 16 supply points!\nThe Random Order version of the map may have a bit of running, so I'd recommend using a character that has either increased patrols or increased supply points.",
       "Path": "https://bonetome.com/download.php?file=NmYzOTNiOTkyOGM3NTBmNSszNjUrMTE2MQ==",
       "Website": "https://bonetome.com/h3vr/map/263/",
       "Arguments": "unzipToDir?Mods/",
       "Delinfo": "Mods/Customs_0.3.8",
-      "Dependencies": ["wurstmod"]
+      "Dependencies": [
+        "wurstmod"
+      ]
     },
-		{
-			"modID": "islandcompund",
-			"Name": "Island Compound",
-			"RawName": "IslandCompound.zip",
-			"Author": [ "Devyndamonster" ],
-			"Version": "1.5.1",
-			"Description": "Fight hotdogs on an island compound!\n- 16 Hold points\n- 19 Supply points\n\nThis is a custom map for Take & Hold by Devyndamonster, the layout encourages a lot of more outdoors, longer range engagements, though there are still plenty of areas for close-quarters combat which is where most holds occur.",
-			"Path": "https://bonetome.com/download.php?file=MmQ4OGI5MGZlZmRmYTA5ZSsrMTMyNw==",
-			"Website": "https://bonetome.com/h3vr/map/305/",
-			"Arguments": "unzipToDir?CustomLevels/TakeAndHold",
-			"Delinfo": "CustomLevels/TakeAndHold/IslandCompound/",
-			"Dependencies": [ "wurstmod" ]
-		},
+    {
+      "modID": "islandcompund",
+      "Name": "Island Compound",
+      "RawName": "IslandCompound.zip",
+      "Author": [
+        "Devyndamonster"
+      ],
+      "Version": "1.5.1",
+      "Description": "Fight hotdogs on an island compound!\n- 16 Hold points\n- 19 Supply points\n\nThis is a custom map for Take & Hold by Devyndamonster, the layout encourages a lot of more outdoors, longer range engagements, though there are still plenty of areas for close-quarters combat which is where most holds occur.",
+      "Path": "https://bonetome.com/download.php?file=MmQ4OGI5MGZlZmRmYTA5ZSsrMTMyNw==",
+      "Website": "https://bonetome.com/h3vr/map/305/",
+      "Arguments": "unzipToDir?CustomLevels/TakeAndHold",
+      "Delinfo": "CustomLevels/TakeAndHold/IslandCompound/",
+      "Dependencies": [
+        "wurstmod"
+      ]
+    },
     {
       "modID": "greenscreen",
       "Name": "Greenscreen Map",
       "RawName": "Generic-ItemPosing.7z",
-      "Author": ["TylerS76"],
+      "Author": [
+        "TylerS76"
+      ],
       "Version": "1.0.1",
       "Description": "Greenscreen map for item posing and thumbnails.\nRequires WurstMod.\nMessage me on discord for questions and concerns: TylerS76#2974.",
       "Path": "https://bonetome.com/download.php?file=YjVmNzY4MTUyMGE0NmYzOSszNjUrNjQw",
       "Website": "https://bonetome.com/h3vr/map/103/",
       "Arguments": "unzipToDir?CustomLevels/Generic/",
       "Delinfo": "CustomLevels/Generic/Generic-Item Posing/",
-      "Dependencies": ["wurstmod"]
+      "Dependencies": [
+        "wurstmod"
+      ]
     },
     {
       "modID": "freehold",
       "Name": "Freehold",
       "RawName": "TNH-FreeHold.rar",
-      "Author": ["Tug", "Tiktok famous"],
+      "Author": [
+        "Tug",
+        "Tiktok famous"
+      ],
       "Version": "1.0.0",
       "Description": "Don't look down...\nOriginal map created by Tug, (https://steamcommunity.com/id/tuggleboat) adapted to H3VR by tiktokfamous.\nA Take and Hold map set atop a high-rise, features 4 hold points and 6 supply points.",
       "Path": "https://bonetome.com/download.php?file=NDFlOTQ1MzBiZDE5NjE3Mys0NDErMTI3MA==",
       "Website": "https://bonetome.com/h3vr/map/285/",
       "Arguments": "unzipToDir?CustomLevels/TakeAndHold",
       "Delinfo": "CustomLevels/TakeAndHold/TNH-FreeHold/",
-      "Dependencies": ["wurstmod"]
+      "Dependencies": [
+        "wurstmod"
+      ]
     },
     {
       "modID": "tantive4",
       "Name": "Tantive IV",
       "RawName": "TNH-Tantive4test.zip",
-      "Author": ["TorBomb"],
+      "Author": [
+        "TorBomb"
+      ],
       "Version": "1.0.0",
       "Description": "The TANTIVE IV map from the OG SWBF2. Its not a pretty map, but its funto play. I don't know much about unity, so if anyone wants to help mewith this, just message me through the H3VR homebrew discord.",
       "Path": "https://bonetome.com/download.php?file=YzgwMmJiZDZmMzc5NjUzOCs0NDErMTM2NA==",
       "Website": "https://bonetome.com/h3vr/map/332/",
       "Arguments": "unzipToDir?CustomLevels/TakeAndHold",
       "Delinfo": "CustomLevels/TakeAndHold/TNH-Tantive 4 test/",
-      "Dependencies": ["wurstmod"]
+      "Dependencies": [
+        "wurstmod"
+      ]
     },
     {
       "modID": "interconnect",
       "Name": "Interconnect",
       "RawName": "interconnect.zip",
-      "Author": ["jesus~christ0"],
+      "Author": [
+        "jesus~christ0"
+      ],
       "Version": "3.9.0",
       "Description": "WIP this my first map everything is subject to change \n 8 supply 5 holds \n takes place in some desert compound \n thanks to the h3vr modding discord for helping me along the way ",
       "Path": "https://bonetome.com/download.php?file=NjEyOWE4MWNlNTI3NTRiMCs0NDErMTM4OQ==",
       "Website": "https://bonetome.com/h3vr/map/346/",
       "Arguments": "unzipToDir?CustomLevels/TakeAndHold",
       "Delinfo": "CustomLevels/TakeAndHold/interconnect (relasese 10)/",
-      "Dependencies": ["wurstmod"]
+      "Dependencies": [
+        "wurstmod"
+      ]
     },
     {
       "modID": "robloxheadquarters",
       "Name": "Roblox Headquarters",
       "RawName": "Generic-RobloxHQ.zip",
-      "Author": ["starkris51"],
+      "Author": [
+        "starkris51"
+      ],
       "Version": "1.0.0",
       "Description": "This is the classic 2006 roblox mapThis map is generic and there isn't much to do in it. This is my first time making a mapIf you have wurstmod installed put it on Custom maps>Generic",
       "Path": "https://bonetome.com/download.php?file=ODViZWYyYjM1OWQ5YWM3Yys0NDErMTMwMA==",
       "Website": "https://bonetome.com/h3vr/map/298/",
       "Arguments": "unzipToDir?CustomLevels/Generic",
       "Delinfo": "CustomLevels/Generic/Generic-Roblox HQ/",
-      "Dependencies": ["wurstmod"]
+      "Dependencies": [
+        "wurstmod"
+      ]
+    },
+    {
+      "modID"       : "franktory",
+      "Name"        : "Franktory",
+      "RawName"     : "Factory_deli02.deli",
+      "Author"      : [ "starkris51" ],
+      "Version"     : "1.0.0",
+      "Description" : "H3VR Custom Map recreation of the \"Factory\" map from Escape from Tarkov",
+      "Path"        : "https://github.com/acstark92/Franktory/releases/download/1.0/",
+      "Website"     : "https://github.com/acstark92/Franktory",
+      "Arguments"   : "moveToFolder?Mods/",
+      "Delinfo"     : "Mods/Factory_deli02.deli",
+      "Dependencies": [ "wurstmod" ]
     }
   ]
 }
