@@ -140,7 +140,7 @@
 			"Website": "https://github.com/BlockBuilder57/LSIIC/",
 			"Arguments": "addFolder?VirtualObjects/?unzipToDir?",
 			"DelInfo": "BepInEx/monomod/LSIIC/?Mods/LSIIC.h3mod",
-			"Dependencies": [ "bepinex", "deli" ]
+			"Dependencies": [ "bepinex" ]
 		},
 		{
 			"modID": "h3vrutils",
