@@ -45,8 +45,7 @@
 				"Mods/Deli.Core.deli",
 				"Mods/Deli.Monomod.deli"
 			],
-			"Dependencies": [ "bepinex" ],
-			"IncompatableMods": [ "deli_experimental" ]
+			"Dependencies": [ "bepinex" ]
 		},
 		{
 			"modID": "deli_experimental",
@@ -59,8 +58,7 @@
 			"Website": "https://github.com/Deli-Counter/Deli/",
 			"Arguments": "",
 			"DelInfo": "BepInEx/patchers/Deli/Deli.Newtonsoft.Json.dll?BepInEx/patchers/Deli/Deli.Patcher.dll?BepInEx/plugins/Deli/Deli.Setup.dll",
-			"Dependencies": [ "bepinex" ],
-			"IncompatableMods": [ "deli" ]
+			"Dependencies": [ "bepinex" ]
 		},
 		{
 			"modID": "monomod",
