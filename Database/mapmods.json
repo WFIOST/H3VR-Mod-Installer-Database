@@ -255,9 +255,9 @@
       "Author"      : [ "starkris51" ],
       "Version"     : "1.1.0",
       "Description" : "H3VR Custom Map recreation of the \"Factory\" map from Escape from Tarkov",
-      "Path"        : "https://github.com/acstark92/Franktory/releases/download/1.0/",
+      "Path"        : "https://github.com/acstark92/Franktory/releases/download/1.1/",
       "Website"     : "https://github.com/acstark92/Franktory",
-      "Arguments"   : "moveToFolder?Mods/",
+      "Arguments"   : "moveToFolder?Factory_deli02.deli?Mods/?Factory_deli02.deli",
       "Delinfo"     : "Mods/Factory_deli02.deli",
       "Dependencies": [ "wurstmod" ]
     }
