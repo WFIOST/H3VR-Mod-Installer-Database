@@ -49,12 +49,12 @@
 		},
 		{
 			"modID": "deli_experimental",
-			"Name": "Deli v0.3.0",
-			"RawName": "Deli-v0.3.0.zip",
+			"Name": "Deli v0.3.1",
+			"RawName": "Deli-v0.3.1.zip",
 			"Author": [ "nrgill28", "AshHat" ],
-			"Version": "0.3.0",
-			"Description": "v0.3.0 of Deli. This is a separate mod as it makes ALL deli 0.2.5 mods outdated. As no mods support this yet, use 0.2.5.",
-			"Path": "https://github.com/Deli-Collective/Deli/releases/download/v0.3.0/",
+			"Version": "0.3.1",
+			"Description": "v0.3.0 of Deli. This is a separate mod as it makes ALL deli 0.2.5 mods outdated.",
+			"Path": "https://github.com/Deli-Collective/Deli/releases/download/v0.3.1/",
 			"Website": "https://github.com/Deli-Counter/Deli/",
 			"Arguments": "",
 			"DelInfo": "BepInEx/patchers/Deli/Deli.Newtonsoft.Json.dll?BepInEx/patchers/Deli/Deli.Patcher.dll?BepInEx/plugins/Deli/Deli.Setup.dll",
@@ -75,7 +75,7 @@
 		},
 		{
 			"modID": "wurstmod",
-			"Name": "Wurst Mod",
+			"Name": "Wurst Mod - Legacy",
 			"RawName": "WurstMod.deli",
 			"Author": [ "Nolenz", "nrgill28" ],
 			"Version": "2.0.2.0",
@@ -84,7 +84,22 @@
 			"Website": "https://github.com/Nolenz/WurstMod/",
 			"Arguments": "moveToFolder?WurstMod.deli?Mods/?WurstMod.deli",
 			"DelInfo": "Mods/WurstMod.deli",
-			"Dependencies": [ "bepinex", "deli" ]
+			"Dependencies": [ "bepinex", "deli" ],
+			"IncompatableMods": [ "wurstmod_deli30" ]
+		},
+		{
+			"modID": "wurstmod_deli30",
+			"Name": "Wurst Mod",
+			"RawName": "WurstMod.deli",
+			"Author": [ "Nolenz", "nrgill28" ],
+			"Version": "2.0.3",
+			"Description": "Loads map mods for h3vr.",
+			"Path": "https://github.com/Nolenz/WurstMod/releases/download/v2.0.3",
+			"Website": "https://github.com/Nolenz/WurstMod/",
+			"Arguments": "moveToFolder?WurstMod.deli?Deli/Mods/?WurstMod.deli",
+			"DelInfo": "Deli/Mods/WurstMod.deli",
+			"Dependencies": [ "bepinex", "deli" ],
+			"IncompatableMods": [ "wurstmod" ]
 		},
 		{
 			"modID": "tnhtweaker",

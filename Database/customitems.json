@@ -1316,11 +1316,11 @@
 			"modID": "ftwarmsRustSAR",
 			"Name": "Rust SAR",
 			"RawName": "RustSAR.zip",
-			"FileSizeMB": "25.53",
+			"FileSizeMB": "26.44",
 			"Author": [
 				"Andrew_FTW"
 			],
-			"Version": "1.0.0",
+			"Version": "2.0.0",
 			"Description": "Be the bane of your neighborhood sosigs with the all-purpose andreliable Semi-Auto Rifle from Rust. You can save your components,because this puppy comes pre-crafted and chambered in 7.62x39m, ready todown anyone, naked or geared, that crosses your path.\nIncluded are two versions: the original SAR, in all of it's rusty glory,and a super illegal Full Auto conversion (because who needs an AK or anLR anyway?).\nAlso included are two mag options, the standard 16-rounder and anextended 30-rounder for less reloads and more headshots, and theHandmade Sight, should you need fitting companion for this tool of sosigdestruction!",
 			"Path": "https://bonetome.com/download.php?file=MmQ5ZDJhMWRiYjE3ZTJjYSszNjUrMTQ5Nw==",
 			"Website": "https://bonetome.com/h3vr/weapons/407/",
@@ -1350,7 +1350,7 @@
 		},
 		{
 			"modID": "foxarmsstm9",
-			"Name": "ModulSTM (AR9)",
+			"Name": "ModulAR9",
 			"RawName": "STM9.zip",
 			"FileSizeMB": "81.11",
 			"Author": [
@@ -1361,7 +1361,7 @@
 			"Path": "https://bonetome.com/download.php?file=MjkyYTM1OTcwZTVkZWU5ZiszNjUrMTUwMg==",
 			"Website": "https://bonetome.com/h3vr/weapons/408/",
 			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/stm9",
+			"DelInfo": "VirtualObjects/modulstm",
 			"Dependencies": [
 				"lsiic"
 			]
