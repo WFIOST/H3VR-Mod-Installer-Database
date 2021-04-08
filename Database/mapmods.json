@@ -214,6 +214,23 @@
         "wurstmod"
       ]
     },
+	    {
+      "modID": "interconnect rebuild",
+      "Name": "Interconnect rebuild",
+      "RawName": "interconnect bonetome de-1.zip",
+      "Author": [
+        "jesus~christ0"
+      ],
+      "Version": "4.0,0",
+      "Description": "rebuild version of the new interconnect 6 holds 12 supply may get bug patches",
+      "Path": "https://bonetome.com/download.php?file=NzM0MzlkMDZkNTI0Yjg1NisyNDAxKzE1MjE=",
+      "Website": "https://bonetome.com/h3vr/map/414/",
+      "Arguments": "unzipToDir?CustomLevels/TakeAndHold",
+      "Delinfo": "CustomLevels/TakeAndHold/interconnect (relasese 10)/",
+      "Dependencies": [
+        "wurstmod"
+      ]
+    },
     {
       "modID": "interconnect",
       "Name": "Interconnect",
