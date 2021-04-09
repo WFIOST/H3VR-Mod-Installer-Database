@@ -214,19 +214,20 @@
         "wurstmod"
       ]
     },
+	  
     {
-      "modID": "interconnect",
-      "Name": "Interconnect",
-      "RawName": "interconnect.zip",
+      "modID": "interconnect rebuild",
+      "Name": "Interconnect rebuld",
+      "RawName": "interconnectbonetomede-1.zip",
       "Author": [
         "jesus~christ0"
       ],
-      "Version": "3.9.0",
-      "Description": "WIP this my first map everything is subject to change \n 8 supply 5 holds \n takes place in some desert compound \n thanks to the h3vr modding discord for helping me along the way ",
-      "Path": "https://bonetome.com/download.php?file=NjEyOWE4MWNlNTI3NTRiMCs0NDErMTM4OQ==",
-      "Website": "https://bonetome.com/h3vr/map/346/",
+      "Version": "4.0.0",
+      "Description": "rebuild version of the new interconnect 6 holds 12 supply may get bug patches",
+      "Path": "https://bonetome.com/download.php?file=NzM0MzlkMDZkNTI0Yjg1NisyNDAxKzE1MjE=",
+      "Website": "https://bonetome.com/h3vr/map/414/",
       "Arguments": "unzipToDir?CustomLevels/TakeAndHold",
-      "Delinfo": "CustomLevels/TakeAndHold/interconnect (relasese 10)/",
+      "Delinfo": "CustomLevels/TakeAndHold/interconnect bonetome de-1.zip/",
       "Dependencies": [
         "wurstmod"
       ]
