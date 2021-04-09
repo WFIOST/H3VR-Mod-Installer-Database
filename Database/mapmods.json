@@ -75,59 +75,59 @@
         "wurstmod"
       ]
     },
-    {
-      "modID": "fortbratwurst",
-      "Name": "Fort Bratwurst",
-      "RawName": "Generic-FortBratwurst.zip",
-      "Author": [
-        "Andrew_FTW"
-      ],
-      "Version": "2.0.0",
-      "Description": "For my first Unity project, Ive built Fort Bratwurst, inspired by the drawing from u/GaPSMAV, with a few fun additions by me.",
-      "Path": "https://bonetome.com/download.php?file=MzgwZGJiMmUwNDc3OGI5ZiszNjUrMTAxNQ==",
-      "Website": "https://bonetome.com/h3vr/map/201/",
-      "Arguments": "unzipToDir??moveToFolder?Generic-FortBratwurst?CustomLevels/Generic/?Generic-FortBratwurst",
-      "Delinfo": "CustomLevels/Generic/Generic-FortBratwurst",
-      "Dependencies": [
-        "wurstmod"
-      ]
-    },
-    {
-      "modID": "marcelsupermarketday",
-      "Name": "TnH Supermarket - Day",
-      "RawName": "Supermarket_day.zip",
-      "Author": [
-        "optomarcel"
-      ],
-      "Version": "1.2.0",
-      "FileSizeMB": "358.34",
-      "Description": "My very first map, set in a supermarket in broad daylight.\n\nComes in 2 versions, funky and normal. Funky contains some royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\n\nFeatures 10 supply and 6 hold points.\n\nLet me know if you have any issues/ideas.\n\nThanks and have fun playing",
-      "Path": "https://bonetome.com/download.php?file=NDFiZDYxY2U3NGI5ZjRiMiszNjUrMTIzOQ==",
-      "Website": "https://bonetome.com/h3vr/map/276/",
-      "Arguments": "unzipToDir?Mods/",
-      "Delinfo": "Mods/TNH_supermarket_day.deli?Mods/TNH_supermarket_day_funky.deli",
-      "Dependencies": [
-        "wurstmod"
-      ]
-    },
-    {
-      "modID": "marcelsupermarketnight",
-      "Name": "TnH Supermarket - Night",
-      "RawName": "Supermarket_night.zip",
-      "Author": [
-        "optomarcel"
-      ],
-      "Version": "1.2.0",
-      "FileSizeMB": "337.08",
-      "Description": "The night version of my supermarket. There are 2 versions of the map, funky and normal.\nFunky contains royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\nContains 9 supply and 6 hold points.",
-      "Path": "https://bonetome.com/download.php?file=N2MzNmVhMjFhMzA0NzI4NSszNjUrMTIzOA==",
-      "Website": "https://bonetome.com/h3vr/map/275/",
-      "Arguments": "unzipToDir?Mods/",
-      "Delinfo": "Mods/TNH_supermarket_night.deli?Mods/TNH_supermarket_night_funky.deli",
-      "Dependencies": [
-        "wurstmod"
-      ]
-    },
+		{
+			"modID": "fortbratwurst",
+			"Name": "Fort Bratwurst",
+			"RawName": "Generic-FortBratwurst.zip",
+			"Author": [
+				"Andrew_FTW"
+			],
+			"Version": "2.2.0",
+			"Description": "For my first Unity project, Ive built Fort Bratwurst, inspired by the drawing from u/GaPSMAV, with a few fun additions by me.",
+			"Path": "https://bonetome.com/download.php?file=MzgwZGJiMmUwNDc3OGI5ZiszNjUrMTAxNQ==",
+			"Website": "https://bonetome.com/h3vr/map/201/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"Delinfo": "Deli/Mods/Generic-FortBratwurst/",
+			"Dependencies": [
+				"wurstmod_deli30"
+			]
+		},
+		{
+			"modID": "marcelsupermarketday",
+			"Name": "TnH Supermarket - Day",
+			"RawName": "Supermarket_day.zip",
+			"Author": [
+				"optomarcel"
+			],
+			"Version": "1.4.0",
+			"FileSizeMB": "358.34",
+			"Description": "My very first map, set in a supermarket in broad daylight.\n\nComes in 2 versions, funky and normal. Funky contains some royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\n\nFeatures 10 supply and 6 hold points.\n\nLet me know if you have any issues/ideas.\n\nThanks and have fun playing",
+			"Path": "https://bonetome.com/download.php?file=NDFiZDYxY2U3NGI5ZjRiMiszNjUrMTIzOQ==",
+			"Website": "https://bonetome.com/h3vr/map/276/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"Delinfo": "Deli/Mods/TNH_supermarket_day.deli?Deli/Mods/TNH_supermarket_day_funky.deli",
+			"Dependencies": [
+				"wurstmod_deli30"
+			]
+		},
+		{
+			"modID": "marcelsupermarketnight",
+			"Name": "TnH Supermarket - Night",
+			"RawName": "Supermarket_night.zip",
+			"Author": [
+				"optomarcel"
+			],
+			"Version": "1.4.0",
+			"FileSizeMB": "337.08",
+			"Description": "The night version of my supermarket. There are 2 versions of the map, funky and normal.\nFunky contains royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\nContains 9 supply and 6 hold points.",
+			"Path": "https://bonetome.com/download.php?file=N2MzNmVhMjFhMzA0NzI4NSszNjUrMTIzOA==",
+			"Website": "https://bonetome.com/h3vr/map/275/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"Delinfo": "Deli/Mods/TNH_supermarket_night.deli?Deli/Mods/TNH_supermarket_night_funky.deli",
+			"Dependencies": [
+				"wurstmod_deli30"
+			]
+		},
     {
       "modID": "customs",
       "Name": "Customs",
@@ -267,13 +267,13 @@
 			"RawName": "HotelHotlink_unzipMe.zip",
 			"Author": [ "SirPotatos" ],
 			"FileSizeMB": "213.95",
-			"Version": "1.0.0",
+			"Version": "1.1.0",
 			"Description": "Welcome to Hotel Hotlink!\nThis is a TNH map with 10 holds set in a luxury resort that has been taken over by sinister merc-weiners!\nAnd for the first time ever, breakable glass is in H3! You can shoot or melee to break the hotel's windows to open new routes of engagement. Additionally, realistic material properties have been set for everything (ie. you are able to shoot through wood/drywall/etc. depending on the caliber you're using).\nUnzip and drop the .deli file into your H3VR/Mods folder.\nRequires Wurstmod v2.0.2 and Deli v0.2.5.\nPlease give me any feedback and bug reports on either the H3VR or Homebrew discords (SirPotatos). Or leave a comment below!",
 			"Path": "https://bonetome.com/download.php?file=YWY2NTIwYWNhZjljOTg3ZSszNjUrMTUxNg==",
 			"Website": "https://bonetome.com/h3vr/map/412/",
-			"Arguments": "unzipToDir?Mods/",
-			"Delinfo": "Mods/HotelHotlink.deli",
-			"Dependencies": [ "wurstmod" ]
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"Delinfo": "Deli/Mods/HotelHotlink.deli",
+			"Dependencies": [ "wurstmod_deli30" ]
 		},
 		{
 			"modID": "whitehouse",
@@ -281,13 +281,13 @@
 			"RawName": "White_House_extract_into_mods.zip",
 			"Author": [ "optomarcel" ],
 			"FileSizeMB": "74.18",
-			"Version": "1.0.0",
+			"Version": "1.1.0",
 			"Description": "TNH White House Map\n\nAll credits go to cubic.games\n\n12 Supply and 7 Holds points\n\nInstallation:\nDrop the .deli file inside of the zip into your mods folder\n\nDependencies:\nDeli 0.2\nWurstmod 2.0.2.0\n\nHope you enjoy and let me know if you notice anything weird",
 			"Path": "https://bonetome.com/download.php?file=YTVlMWQzZDQ3Yzg0ZmRjMyszNjUrMTUwNg==",
 			"Website": "https://bonetome.com/h3vr/map/410/",
-			"Arguments": "unzipToDir?Mods/",
-			"Delinfo": "Mods/TNH_White_House.deli",
-			"Dependencies": [ "wurstmod" ]
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"Delinfo": "Deli/Mods/TNH_White_House.deli",
+			"Dependencies": [ "wurstmod_deli30" ]
 		}
   ]
 }
