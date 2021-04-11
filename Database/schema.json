@@ -1,0 +1,456 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "modlistname": {
+      "type": "string"
+    },
+    "modlistid": {
+      "type": "string"
+    },
+    "modlist": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Modlist"
+      }
+    }
+  },
+  "definitions": {
+    "Author": {
+      "type": "string"
+    },
+    "Dependencie": {
+      "type": "string"
+    },
+    "SingularModData": {
+      "type": "object",
+      "properties": {
+        "OccupiesID": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Anonymous120"
+          }
+        },
+        "OccupiesName": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Anonymous121"
+          }
+        }
+      }
+    },
+    "OccupiesID": {
+      "type": "string"
+    },
+    "OccupiesName": {
+      "type": "string"
+    },
+    "Anonymous6": {
+      "type": "string"
+    },
+    "Anonymous7": {
+      "type": "string"
+    },
+    "DelInfoArray": {
+      "type": "string"
+    },
+    "Anonymous9": {
+      "type": "string"
+    },
+    "Anonymous10": {
+      "type": "string"
+    },
+    "Anonymous11": {
+      "type": "string"
+    },
+    "Anonymous12": {
+      "type": "string"
+    },
+    "Anonymous13": {
+      "type": "string"
+    },
+    "Anonymous14": {
+      "type": "string"
+    },
+    "Anonymous15": {
+      "type": "string"
+    },
+    "Anonymous16": {
+      "type": "string"
+    },
+    "Anonymous17": {
+      "type": "string"
+    },
+    "Anonymous18": {
+      "type": "string"
+    },
+    "Anonymous19": {
+      "type": "string"
+    },
+    "Anonymous20": {
+      "type": "string"
+    },
+    "Anonymous21": {
+      "type": "string"
+    },
+    "Anonymous22": {
+      "type": "string"
+    },
+    "Anonymous23": {
+      "type": "string"
+    },
+    "Anonymous24": {
+      "type": "string"
+    },
+    "Anonymous25": {
+      "type": "string"
+    },
+    "Anonymous26": {
+      "type": "string"
+    },
+    "Anonymous27": {
+      "type": "string"
+    },
+    "Anonymous28": {
+      "type": "string"
+    },
+    "Anonymous29": {
+      "type": "string"
+    },
+    "Anonymous30": {
+      "type": "string"
+    },
+    "Anonymous31": {
+      "type": "string"
+    },
+    "Anonymous32": {
+      "type": "string"
+    },
+    "Anonymous33": {
+      "type": "string"
+    },
+    "Anonymous34": {
+      "type": "string"
+    },
+    "Anonymous35": {
+      "type": "string"
+    },
+    "Anonymous36": {
+      "type": "string"
+    },
+    "Anonymous37": {
+      "type": "string"
+    },
+    "Anonymous38": {
+      "type": "string"
+    },
+    "Anonymous39": {
+      "type": "string"
+    },
+    "Anonymous40": {
+      "type": "string"
+    },
+    "Anonymous41": {
+      "type": "string"
+    },
+    "Anonymous42": {
+      "type": "string"
+    },
+    "Anonymous43": {
+      "type": "string"
+    },
+    "Anonymous44": {
+      "type": "string"
+    },
+    "Anonymous45": {
+      "type": "string"
+    },
+    "Anonymous46": {
+      "type": "string"
+    },
+    "Anonymous47": {
+      "type": "string"
+    },
+    "Anonymous48": {
+      "type": "string"
+    },
+    "Anonymous49": {
+      "type": "string"
+    },
+    "Anonymous50": {
+      "type": "string"
+    },
+    "Anonymous51": {
+      "type": "string"
+    },
+    "Anonymous52": {
+      "type": "string"
+    },
+    "Anonymous53": {
+      "type": "string"
+    },
+    "Anonymous54": {
+      "type": "string"
+    },
+    "Anonymous55": {
+      "type": "string"
+    },
+    "Anonymous56": {
+      "type": "string"
+    },
+    "Anonymous57": {
+      "type": "string"
+    },
+    "Anonymous58": {
+      "type": "string"
+    },
+    "Anonymous59": {
+      "type": "string"
+    },
+    "Anonymous60": {
+      "type": "string"
+    },
+    "Anonymous61": {
+      "type": "string"
+    },
+    "Anonymous62": {
+      "type": "string"
+    },
+    "Anonymous63": {
+      "type": "string"
+    },
+    "Anonymous64": {
+      "type": "string"
+    },
+    "Anonymous65": {
+      "type": "string"
+    },
+    "Anonymous66": {
+      "type": "string"
+    },
+    "Anonymous67": {
+      "type": "string"
+    },
+    "Anonymous68": {
+      "type": "string"
+    },
+    "Anonymous69": {
+      "type": "string"
+    },
+    "Anonymous70": {
+      "type": "string"
+    },
+    "Anonymous71": {
+      "type": "string"
+    },
+    "Anonymous72": {
+      "type": "string"
+    },
+    "Anonymous73": {
+      "type": "string"
+    },
+    "Anonymous74": {
+      "type": "string"
+    },
+    "Anonymous75": {
+      "type": "string"
+    },
+    "Anonymous76": {
+      "type": "string"
+    },
+    "Anonymous77": {
+      "type": "string"
+    },
+    "Anonymous78": {
+      "type": "string"
+    },
+    "Anonymous79": {
+      "type": "string"
+    },
+    "Anonymous80": {
+      "type": "string"
+    },
+    "Anonymous81": {
+      "type": "string"
+    },
+    "Anonymous82": {
+      "type": "string"
+    },
+    "Anonymous83": {
+      "type": "string"
+    },
+    "Anonymous84": {
+      "type": "string"
+    },
+    "Anonymous85": {
+      "type": "string"
+    },
+    "Anonymous86": {
+      "type": "string"
+    },
+    "Anonymous87": {
+      "type": "string"
+    },
+    "Anonymous88": {
+      "type": "string"
+    },
+    "Anonymous89": {
+      "type": "string"
+    },
+    "Anonymous90": {
+      "type": "string"
+    },
+    "Anonymous91": {
+      "type": "string"
+    },
+    "Anonymous92": {
+      "type": "string"
+    },
+    "Anonymous93": {
+      "type": "string"
+    },
+    "Anonymous94": {
+      "type": "string"
+    },
+    "Anonymous95": {
+      "type": "string"
+    },
+    "Anonymous96": {
+      "type": "string"
+    },
+    "Anonymous97": {
+      "type": "string"
+    },
+    "Anonymous98": {
+      "type": "string"
+    },
+    "Anonymous99": {
+      "type": "string"
+    },
+    "Anonymous100": {
+      "type": "string"
+    },
+    "Anonymous101": {
+      "type": "string"
+    },
+    "Anonymous102": {
+      "type": "string"
+    },
+    "Anonymous103": {
+      "type": "string"
+    },
+    "Anonymous104": {
+      "type": "string"
+    },
+    "Anonymous105": {
+      "type": "string"
+    },
+    "Anonymous106": {
+      "type": "string"
+    },
+    "Anonymous107": {
+      "type": "string"
+    },
+    "Anonymous108": {
+      "type": "string"
+    },
+    "Anonymous109": {
+      "type": "string"
+    },
+    "Anonymous110": {
+      "type": "string"
+    },
+    "Anonymous111": {
+      "type": "string"
+    },
+    "Anonymous112": {
+      "type": "string"
+    },
+    "Anonymous113": {
+      "type": "string"
+    },
+    "Anonymous114": {
+      "type": "string"
+    },
+    "Anonymous115": {
+      "type": "string"
+    },
+    "Anonymous116": {
+      "type": "string"
+    },
+    "Anonymous117": {
+      "type": "string"
+    },
+    "Anonymous118": {
+      "type": "string"
+    },
+    "Anonymous119": {
+      "type": "string"
+    },
+    "Anonymous120": {
+      "type": "string"
+    },
+    "Anonymous121": {
+      "type": "string"
+    },
+    "Modlist": {
+      "type": "object",
+      "properties": {
+        "modID": {
+          "type": "string"
+        },
+        "Name": {
+          "type": "string"
+        },
+        "RawName": {
+          "type": "string"
+        },
+        "Author": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Author"
+          }
+        },
+        "Version": {
+          "type": "string"
+        },
+        "Description": {
+          "type": "string"
+        },
+        "Path": {
+          "type": "string"
+        },
+        "Website": {
+          "type": "string"
+        },
+        "Arguments": {
+          "type": "string"
+        },
+        "Dependencies": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Dependencie"
+          }
+        },
+        "FileSizeMB": {
+          "type": "string"
+        },
+        "ImgLoc": {
+          "type": "string"
+        },
+        "SingularModData": {
+          "$ref": "#/definitions/SingularModData"
+        },
+        "DelInfo": {
+          "type": "string"
+        },
+        "DelInfoArray": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/DelInfoArray"
+          }
+        }
+      }
+    }
+  }
+}
