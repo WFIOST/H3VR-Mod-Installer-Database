@@ -117,13 +117,13 @@
       "Name": "Meatt Fortress Fredd",
       "RawName": "MeattFortressFredd.zip",
       "Author": ["Trittyburd"],
-      "Version": "1.0.0",
+      "Version": "1.1.1",
       "Description": "Fight the Meatt Co. personnel with Meatt Co. weaponry! ",
       "Path": "https://bonetome.com/download.php?file=YWVlOWNhODNiNzc2ODg2YSszNjUrMTAxMw==",
       "Website": "https://bonetome.com/h3vr/characters/200/",
-      "Arguments": "moveToFolder?MeattFortressFredd.zip?Mods/?MeattFortressFredd.zip",
-      "DelInfo": "Mods/MeattFortressFredd.zip",
-      "Dependencies": ["tnhtweaker"]
+      "Arguments": "extract?Deli/Mods/",
+      "DelInfo": "Deli/Mods/MeattFortressFredd.deli",
+      "Dependencies": ["tnhtweaker_deli30"]
     },
     {
       "modID": "pistolpercy",
@@ -149,7 +149,7 @@
       "Website": "https://bonetome.com/h3vr/characters/192/",
       "Arguments": "unzipToDir?VirtualObjects/",
       "DelInfo": "VirtualObjects/German Uniforms",
-      "Dependencies": ["tnhtweaker", "lsiic"]
+      "Dependencies": ["lsiic"]
     },
     {
       "modID": "scavsigvoicelines",

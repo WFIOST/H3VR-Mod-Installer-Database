@@ -1298,18 +1298,19 @@
 			"modID": "gamernayrSR1MPGyurza",
 			"Name": "SR1MP Gyurza",
 			"RawName": "sr1mp.zip",
-			"FileSizeMB": "12.51",
+			"FileSizeMB": "12.73",
 			"Author": [
 				"gamernayr"
 			],
-			"Version": "1.0.0",
+			"Version": "1.1.0",
 			"Description": "SR1MP Gyurza, graciously ported from tarkov.\nIncludes the two mounts (1 rail, and 4 rail), the silencer, and the adapter for the silencer.\nTo mount the silencer, there is an invisible rail meant for the adapter on the other side of the bottom rail.\nDue to ammo limitations, the gun is chambered in 9x23 instead of 9x21.\nSmall bug with the magazine pose after ejecting it, but it shouldn't hinder any operation.\nFind the gun and all of it's attachments under Pistols>Automatic.",
 			"Path": "https://bonetome.com/download.php?file=MGFiNjViMDkyODZkYzA4YSszNjUrMTQ5Ng==",
 			"Website": "https://bonetome.com/h3vr/weapons/406/",
-			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/sr1mp",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/SR1MP.deli",
 			"Dependencies": [
-				"lsiic"
+				"deli_experimental",
+				"otherloader"
 			]
 		},
 		{
