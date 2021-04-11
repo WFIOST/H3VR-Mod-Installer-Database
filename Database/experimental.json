@@ -20,6 +20,25 @@
 				"bepinex",
 				"deli"
 			]
+		},
+		{
+			"modID": "otherloader",
+			"Name": "Other Loader",
+			"RawName": "OtherLoader.deli",
+			"Author": [
+				"Devyndamonster"
+			],
+			"Version": "0.1.1",
+			"Description": "OTHERLOADER",
+			"Path": "https://github.com/devyndamonster/OtherLoader/releases/download/v0.1.1/",
+			"Website": "https://github.com/devyndamonster/OtherLoader",
+			"Arguments": "moveToFolder?OtherLoader.deli?Deli/mods/?OtherLoader.deli",
+			"DelInfo": "Deli/mods/OtherLoader.deli",
+			"Dependencies":
+			[
+				"bepinex",
+				"deli"
+			]
 		}
 	]
 }
