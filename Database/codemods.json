@@ -76,7 +76,7 @@
 			"Description": "Ejectors are for the WEAK!\n\nPotatoes' Extracting Rounds (Or P.E.R if you prefer) is a very small, very simple mod. Break Action Shotguns no longer eject! They only extract. AKA, you gotta pull that sucker outta the barrel with your own hands.",
 			"Path": "https://bonetome.com/download.php?file=NTlkMGVlZmUxYzcwMDM0YyszNjUrMTUzMg==",
 			"Website": "https://bonetome.com/h3vr/mods/417/",
-			"Arguments": "extract?Deli/Mods/",
+			"Arguments": "unzipToDir?Deli/Mods/",
 			"DelInfo": "Deli/Mods/PotatoesExtractingRounds.deli",
 			"Dependencies": [ "deli_experimental" ]
 		},
@@ -89,7 +89,7 @@
 			"Description": "Ever wanted to be able to slap your bolt with your thumb like a professional?\n\nWell now you can!\n\nIf your bolt is locked back, once you hold the handguard and PRESS the joystick up, you can release the bolt.\n\nIt works on all guns with a lockable bolt, such as the G3SG1, and AUG, as well as the MP5.",
 			"Path": "https://bonetome.com/download.php?file=MGU0OGUxN2U5OWYxYjVjYiszNjUrMTUzMQ==",
 			"Website": "https://bonetome.com/h3vr/mods/416/",
-			"Arguments": "extract?BepInEx/plugins",
+			"Arguments": "unzipToDir?BepInEx/plugins",
 			"DelInfo": "BepInEx/plugins/MP5 Bolt Release.dll",
 			"Dependencies": [ "bepinex" ]
 		},
@@ -102,7 +102,7 @@
 			"Description": "A simple deli plugin that allows you to two-hand-stabilize while holding any object in your offhand. The vanilla game only allows two-hand-stabilizing while not holding anything, or holding a flashlight or magazine.",
 			"Path": "https://bonetome.com/download.php?file=N2RmOTFjZTU4ZDU1MWZlZCszNjUrMTI3MQ==",
 			"Website": "https://bonetome.com/h3vr/mods/286/",
-			"Arguments": "extract?Mods/",
+			"Arguments": "unzipToDir?Mods/",
 			"DelInfo": "Mods/Stabilizer.deli",
 			"Dependencies": [ "deli" ]
 		}
