@@ -39,7 +39,7 @@
 			"Website": "https://github.com/Maiq-The-Dude/BetterHands/",
 			"Arguments": "moveToFolder?BetterHands.deli?Deli/Mods/?BetterHands.deli",
 			"DelInfo": "Deli/Mods/BetterHands.deli",
-			"Dependencies": [ "bepinex", "deli_experimental" ]
+			"Dependencies": [ "deli_experimental" ]
 		},
 		{
 			"modID": "better1911",
@@ -52,7 +52,7 @@
 			"Website": "https://github.com/Maiq-The-Dude/Better1911",
 			"Arguments": "moveToFolder?Better1911.deli?Deli/Mods/?Better1911.deli",
 			"DelInfo": "Deli/Mods/Better1911.deli",
-			"Dependencies": [ "bepinex", "deli_experimental" ]
+			"Dependencies": [ "deli_experimental" ]
 		},
 		{
 			"modID": "wristimate",
@@ -65,7 +65,46 @@
 			"Website": "https://github.com/ash-hat/Wristimate",
 			"Arguments": "moveToFolder?Wristimate.deli?Deli/Mods/?Wristimate.deli",
 			"DelInfo": "Deli/Mods/Wristimate.deli",
-			"Dependencies": [ "bepinex", "deli_experimental" ]
+			"Dependencies": [ "deli_experimental" ]
+		},
+		{
+			"modID": "potatoesextractingrounds",
+			"Name": "Potatoes' Extracting Rounds",
+			"RawName": "PotatoesExtractingRounds.zip",
+			"Author": [ "Potatoes" ],
+			"Version": "1.0.1",
+			"Description": "Ejectors are for the WEAK!\n\nPotatoes' Extracting Rounds (Or P.E.R if you prefer) is a very small, very simple mod. Break Action Shotguns no longer eject! They only extract. AKA, you gotta pull that sucker outta the barrel with your own hands.",
+			"Path": "https://bonetome.com/download.php?file=NTlkMGVlZmUxYzcwMDM0YyszNjUrMTUzMg==",
+			"Website": "https://bonetome.com/h3vr/mods/417/",
+			"Arguments": "extract?Deli/Mods/",
+			"DelInfo": "Deli/Mods/PotatoesExtractingRounds.deli",
+			"Dependencies": [ "deli_experimental" ]
+		},
+		{
+			"modID": "mp5thumbslap",
+			"Name": "HK MP5 Thumb Slap",
+			"RawName": "MP5BoltRelease.rar",
+			"Author": [ "Smidgeon" ],
+			"Version": "1.0.0",
+			"Description": "Ever wanted to be able to slap your bolt with your thumb like a professional?\n\nWell now you can!\n\nIf your bolt is locked back, once you hold the handguard and PRESS the joystick up, you can release the bolt.\n\nIt works on all guns with a lockable bolt, such as the G3SG1, and AUG, as well as the MP5.",
+			"Path": "https://bonetome.com/download.php?file=MGU0OGUxN2U5OWYxYjVjYiszNjUrMTUzMQ==",
+			"Website": "https://bonetome.com/h3vr/mods/416/",
+			"Arguments": "extract?BepInEx/plugins",
+			"DelInfo": "BepInEx/plugins/MP5 Bolt Release.dll",
+			"Dependencies": [ "bepinex" ]
+		},
+		{
+			"modID": "stabilizer",
+			"Name": "Stabilizer",
+			"RawName": "Stabilizer.zip",
+			"Author": [ "itsmedoggo" ],
+			"Version": "1.0.0",
+			"Description": "A simple deli plugin that allows you to two-hand-stabilize while holding any object in your offhand. The vanilla game only allows two-hand-stabilizing while not holding anything, or holding a flashlight or magazine.",
+			"Path": "https://bonetome.com/download.php?file=N2RmOTFjZTU4ZDU1MWZlZCszNjUrMTI3MQ==",
+			"Website": "https://bonetome.com/h3vr/mods/286/",
+			"Arguments": "extract?Mods/",
+			"DelInfo": "Mods/Stabilizer.deli",
+			"Dependencies": [ "deli" ]
 		}
   ]
 }
