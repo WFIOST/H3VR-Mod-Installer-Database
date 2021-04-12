@@ -177,19 +177,19 @@
       "DelInfo": "Mods/BratwurstBernie.deli",
       "Dependencies": ["tnhtweaker"]
     },
-    {
-      "modID": "completelyfuckedcarl",
-      "Name": "Completely Fucked Carl",
-      "RawName": "CompletelyFuckedCarl.zip",
-      "Author": ["ilgmesh"],
-      "Version": "1.0.3",
-      "Description": "GTA SA style gang wars, static encryption only\n- Ballas, Vagos, Triads and Police, each round introduces a new gang and they're all hostile towards each other\n- GTA SA pistols mostly drop from Ballas and Vagos, most of the other SA weapons will randomly drop from the Triads and Police\n- Lots of meat to shoot\nPROBABLY works best with spawnlock enabled, but there is a free riot shield at the beginning if you're a fan of always being out of ammo.",
-      "Path": "https://bonetome.com/download.php?file=NjM1ZTNhYmQ3ZGM3OTgyYys5NjQrMTAwNQ==",
-      "Website": "https://bonetome.com/h3vr/characters/199/",
-      "Arguments": "moveToFolder?CompletelyFuckedCarl.zip?Mods/?CompletelyFuckedCarl.zip",
-      "DelInfo": "Mods/CompletelyFuckedCarl.zip",
-      "Dependencies": ["tnhtweaker"]
-    },
+		{
+			"modID": "completelyfuckedcarl",
+			"Name": "Completely Fucked Carl",
+			"RawName": "completelyfuckedcarl_unzip_me.zip",
+			"Author": [ "ilgmesh" ],
+			"Version": "1.1.4",
+			"Description": "GTA SA style gang wars, static encryption only\n- Ballas, Vagos, Triads and Police, each round introduces a new gang and they're all hostile towards each other\n- GTA SA pistols mostly drop from Ballas and Vagos, most of the other SA weapons will randomly drop from the Triads and Police\n- Lots of meat to shoot\nPROBABLY works best with spawnlock enabled, but there is a free riot shield at the beginning if you're a fan of always being out of ammo.",
+			"Path": "https://bonetome.com/download.php?file=NjM1ZTNhYmQ3ZGM3OTgyYys5NjQrMTAwNQ==",
+			"Website": "https://bonetome.com/h3vr/characters/199/",
+			"Arguments": "extract?Deli/Mods/",
+			"DelInfo": "Deli/Mods/completelyfuckedcarl.deli",
+			"Dependencies": [ "tnhtweaker_deli03" ]
+		},
 		{
 			"modID": "modularadrian",
 			"Name": "ModulAR Adrian",
