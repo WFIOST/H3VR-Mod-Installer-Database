@@ -1404,4 +1404,24 @@
 			]
 		}
 	]
-}
+},
+	{
+			"modID": "Exotic 9x19 Ammo",
+			"Name": "Exotic 9x19 Ammo",
+			"RawName": "9mmExotic.deli",
+			"FileSizeMB": "3",
+			"Author": [
+				"devyndamonster"
+	],
+			"Version": "0.1.1",
+			"Description": "A set of 10 exotic 9mm bullets!\nBullets Included:\n- Devastator\n- RIP\n- SIB\n- Tula 7N30\n- Dagny Dagger\n- AP Hollowpoint\n- Ratshot\n- SFAB\n- QuakeMaker\n- Libra Snail\nInstallation:\n- Requires OtherLoader: https://github.com/devyndamonster/OtherLoader\n- With OtherLoader installed, extract the 9mmExotic.zip into your Deli/mods folder\n - You should end up with a 9mmExotic.deli file in that folder\nBig thanks to Andrew_FTW for the models!",
+			"Path": "https://bonetome.com/download.php?file=OTNlNDA3YzJiMTkwZTg3OSsrMTUzMw==",
+			"Website": "https://bonetome.com/h3vr/weapons/418/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/9mmExotic.deli",
+			"Dependencies": [
+				"otherloader"
+			]
+		}
+	]
+},
