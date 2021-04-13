@@ -27,7 +27,7 @@
 			"Author": [
 				"NunSuperior"
 			],
-			"FileSizeMB": "100.80",
+			"FileSizeMB": "100",
       "Version": "1.4.5",
       "Description": "Promeatheus is a sci-fi themed Take and Hold map. It is an indoor map that features a mix of short and long hallways, small and medium sized holds/supply points, and shiny floors.\n\nPerformance:\nI recommend turning off HDR and Bloom. I tuned the lighting to look good with HDR off. Also the map still looks good even on the Low setting.\n\nStory(?):\nWhy is the Weinerland-Umami Corporation guarding this abandoned science vessel? Your mission is to investigate the Promeatheus and recover any valuable information you can.",
       "Path": "https://bonetome.com/download.php?file=YmQ1ZWFmZjgzZWU3NzVmMisrOTk4",
@@ -101,7 +101,7 @@
 				"optomarcel"
 			],
 			"Version": "1.4.0",
-			"FileSizeMB": "358.34",
+			"FileSizeMB": "1430",
 			"Description": "My very first map, set in a supermarket in broad daylight.\n\nComes in 2 versions, funky and normal. Funky contains some royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\n\nFeatures 10 supply and 6 hold points.\n\nLet me know if you have any issues/ideas.\n\nThanks and have fun playing",
 			"Path": "https://bonetome.com/download.php?file=NDFiZDYxY2U3NGI5ZjRiMiszNjUrMTIzOQ==",
 			"Website": "https://bonetome.com/h3vr/map/276/",
@@ -119,7 +119,7 @@
 				"optomarcel"
 			],
 			"Version": "1.4.0",
-			"FileSizeMB": "337.08",
+			"FileSizeMB": "1250",
 			"Description": "The night version of my supermarket. There are 2 versions of the map, funky and normal.\nFunky contains royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\nContains 9 supply and 6 hold points.",
 			"Path": "https://bonetome.com/download.php?file=N2MzNmVhMjFhMzA0NzI4NSszNjUrMTIzOA==",
 			"Website": "https://bonetome.com/h3vr/map/275/",
@@ -254,6 +254,7 @@
 			"Name": "Franktory",
 			"RawName": "Factory_deli02.deli",
 			"Author": [ "starkris51" ],
+			"FileSizeMB": "563",
 			"Version": "1.1.0",
 			"Description": "H3VR Custom Map recreation of the \"Factory\" map from Escape from Tarkov",
 			"Path": "https://github.com/acstark92/Franktory/releases/download/1.1/",
@@ -267,7 +268,7 @@
 			"Name": "Hotel Hotlink",
 			"RawName": "HotelHotlink_unzipMe.zip",
 			"Author": [ "SirPotatos" ],
-			"FileSizeMB": "213.95",
+			"FileSizeMB": "213",
 			"Version": "1.1.0",
 			"Description": "Welcome to Hotel Hotlink!\nThis is a TNH map with 10 holds set in a luxury resort that has been taken over by sinister merc-weiners!\nAnd for the first time ever, breakable glass is in H3! You can shoot or melee to break the hotel's windows to open new routes of engagement. Additionally, realistic material properties have been set for everything (ie. you are able to shoot through wood/drywall/etc. depending on the caliber you're using).\nUnzip and drop the .deli file into your H3VR/Mods folder.\nRequires Wurstmod v2.0.2 and Deli v0.2.5.\nPlease give me any feedback and bug reports on either the H3VR or Homebrew discords (SirPotatos). Or leave a comment below!",
 			"Path": "https://bonetome.com/download.php?file=YWY2NTIwYWNhZjljOTg3ZSszNjUrMTUxNg==",
@@ -281,7 +282,7 @@
 			"Name": "TnH White House",
 			"RawName": "White_House_extract_into_mods.zip",
 			"Author": [ "optomarcel" ],
-			"FileSizeMB": "74.18",
+			"FileSizeMB": "234",
 			"Version": "1.1.0",
 			"Description": "TNH White House Map\n\nAll credits go to cubic.games\n\n12 Supply and 7 Holds points\n\nInstallation:\nDrop the .deli file inside of the zip into your mods folder\n\nDependencies:\nDeli 0.2\nWurstmod 2.0.2.0\n\nHope you enjoy and let me know if you notice anything weird",
 			"Path": "https://bonetome.com/download.php?file=YTVlMWQzZDQ3Yzg0ZmRjMyszNjUrMTUwNg==",
