@@ -63,7 +63,7 @@
         "Mücke",
         "Synty Studios"
       ],
-      "Version": "1.3.2",
+      "Version": "1.4.0",
       "Description": "A little town overrun with Outlaws.\n- pretty challenging, makes \"Cowboys\" into \"Cattlemen\"\n- you can move freely in Holds\n- has no barriers but natural cover\n- 8 Holds, 6 Supplypoints",
       "Path": "https://bonetome.com/download.php?file=N2VjNTE4NGVjMGE0MzdiYis0NDErMTAyMw==",
       "Website": "https://bonetome.com/h3vr/map/202/",
@@ -136,12 +136,12 @@
       "Author": [
         "NickMillion"
       ],
-      "Version": "0.3.8",
-      "Description": "0.3.8 is basically untested, let me know what's broken by pinging me on the H3VR modding discord.\nI was recommended to also upload the map here, so here it is!\nA slice of Customs from New Gas to Boilers coming out to roughly 300 square meters in size with 16 holds and 16 supply points!\nThe Random Order version of the map may have a bit of running, so I'd recommend using a character that has either increased patrols or increased supply points.",
+      "Version": "0.4.0",
+      "Description": "customs but lighting is fixed, hopefully\n\ni'm lazy",
       "Path": "https://bonetome.com/download.php?file=NmYzOTNiOTkyOGM3NTBmNSszNjUrMTE2MQ==",
       "Website": "https://bonetome.com/h3vr/map/263/",
       "Arguments": "unzipToDir?Mods/",
-      "Delinfo": "Mods/Customs_0.3.8",
+      "Delinfo": "Mods/Customs_0.4.0",
       "Dependencies": [
         "wurstmod"
       ]
@@ -180,24 +180,25 @@
         "wurstmod"
       ]
     },
-    {
-      "modID": "freehold",
-      "Name": "Freehold",
-      "RawName": "TNH-FreeHold.rar",
-      "Author": [
-        "Tug",
-        "Tiktok famous"
-      ],
-      "Version": "1.0.0",
-      "Description": "Don't look down...\nOriginal map created by Tug, (https://steamcommunity.com/id/tuggleboat) adapted to H3VR by tiktokfamous.\nA Take and Hold map set atop a high-rise, features 4 hold points and 6 supply points.",
-      "Path": "https://bonetome.com/download.php?file=NDFlOTQ1MzBiZDE5NjE3Mys0NDErMTI3MA==",
-      "Website": "https://bonetome.com/h3vr/map/285/",
-      "Arguments": "unzipToDir?CustomLevels/TakeAndHold",
-      "Delinfo": "CustomLevels/TakeAndHold/TNH-FreeHold/",
-      "Dependencies": [
-        "wurstmod"
-      ]
-    },
+		{
+			"modID": "freehold",
+			"Name": "Freehold",
+			"RawName": "TNH_Freehold_2_unzip_into_deli_mods.zip",
+			"Author": [
+				"Tug",
+				"Tiktok famous"
+			],
+			"FileSizeMB":  "244",
+			"Version": "1.2.0",
+			"Description": "Don't look down...\nOriginal map created by Tug, (https://steamcommunity.com/id/tuggleboat) adapted to H3VR by tiktokfamous.\nA Take and Hold map set atop a high-rise, features 4 hold points and 6 supply points.",
+			"Path": "https://bonetome.com/download.php?file=NDFlOTQ1MzBiZDE5NjE3Mys0NDErMTI3MA==",
+			"Website": "https://bonetome.com/h3vr/map/285/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"Delinfo": "Deli/Mods/TNH_Freehold2.deli",
+			"Dependencies": [
+				"wurstmod_deli30"
+			]
+		},
     {
       "modID": "tantive4",
       "Name": "Tantive IV",
@@ -215,23 +216,24 @@
         "wurstmod"
       ]
     },
-    {
-      "modID": "interconnect",
-      "Name": "Interconnect",
-      "RawName": "interconnect.zip",
-      "Author": [
-        "jesus~christ0"
-      ],
-      "Version": "3.9.0",
-      "Description": "WIP this my first map everything is subject to change \n 8 supply 5 holds \n takes place in some desert compound \n thanks to the h3vr modding discord for helping me along the way ",
-      "Path": "https://bonetome.com/download.php?file=NjEyOWE4MWNlNTI3NTRiMCs0NDErMTM4OQ==",
-      "Website": "https://bonetome.com/h3vr/map/346/",
-      "Arguments": "unzipToDir?CustomLevels/TakeAndHold",
-      "Delinfo": "CustomLevels/TakeAndHold/interconnect (relasese 10)/",
-      "Dependencies": [
-        "wurstmod"
-      ]
-    },
+		{
+			"modID": "interconnect",
+			"Name": "Interconnect",
+			"RawName": "interconnect.zip",
+			"Author": [
+				"jesus~christ0"
+			],
+			"FileSizeMB": "55",
+			"Version": "4.0.0",
+			"Description": "this is the final version of interconnect but completely redone \n\n6 holds 12 supply \n\nmid-range to short-range combat \n\nthere may be small bug patches but there shouldn't be many (ping me in the modding discord)\n\nhave fun! (lighting is a bit weird rn I would try playing with no shadows on)\n\n(thumbnail images are temp)",
+			"Path": "https://bonetome.com/download.php?file=NzM0MzlkMDZkNTI0Yjg1NiszNjUrMTUyMQ==",
+			"Website": "https://bonetome.com/h3vr/map/414/",
+			"Arguments": "unzipToDir?CustomLevels/TakeAndHold",
+			"Delinfo": "CustomLevels/TakeAndHold/interconnect bonetome de-1",
+			"Dependencies": [
+				"wurstmod"
+			]
+		},
     {
       "modID": "robloxheadquarters",
       "Name": "Roblox Headquarters",
