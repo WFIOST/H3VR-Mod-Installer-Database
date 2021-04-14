@@ -1367,6 +1367,24 @@
 			]
 		},
 		{
+			"modID": "ftwarms1911mags",
+			"Name": "FTW Arms 1911 Mag pack",
+			"RawName": "More1911Mags.zip",
+			"FileSizeMB": "8",
+			"Author": [
+				"Andrew_FTW"
+			],
+			"Version": "1.0.0",
+			"Description": "Included in this pack are 4 extra mags to spice up your 1911 with. Both the Wilson Combat and the Powermag come in Silver and Black colours, and all contain 8 rounds, as opposed to the regular 7.",
+			"Path": "https://bonetome.com/download.php?file=ZjA1NzdlMjJmMDBjNjA4YSszNjUrMTU0Mw==",
+			"Website": "https://bonetome.com/h3vr/weapons/420/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/More 1911 Mags/",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
 			"modID": "exotic919",
 			"Name": "Exotic 9x19 Ammo",
 			"RawName": "9mmExotic.zip",

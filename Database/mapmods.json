@@ -153,14 +153,14 @@
       "Author": [
         "Devyndamonster"
       ],
-      "Version": "1.5.1",
+      "Version": "1.5.2",
       "Description": "Fight hotdogs on an island compound!\n- 16 Hold points\n- 19 Supply points\n\nThis is a custom map for Take & Hold by Devyndamonster, the layout encourages a lot of more outdoors, longer range engagements, though there are still plenty of areas for close-quarters combat which is where most holds occur.",
       "Path": "https://bonetome.com/download.php?file=MmQ4OGI5MGZlZmRmYTA5ZSsrMTMyNw==",
       "Website": "https://bonetome.com/h3vr/map/305/",
-      "Arguments": "unzipToDir?CustomLevels/TakeAndHold",
-      "Delinfo": "CustomLevels/TakeAndHold/IslandCompound/",
+      "Arguments": "unzipToDir?Deli/Mods/",
+      "Delinfo": "Deli/Mods/Island_Compound.deli",
       "Dependencies": [
-        "wurstmod"
+        "wurstmod_deli30"
       ]
     },
     {
