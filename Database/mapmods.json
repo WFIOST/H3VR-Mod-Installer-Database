@@ -129,23 +129,23 @@
 				"wurstmod_deli30"
 			]
 		},
-    {
-      "modID": "customs",
-      "Name": "Customs",
-      "RawName": "Customs_0.3.8_extract_me.zip",
-      "Author": [
-        "NickMillion"
-      ],
-      "Version": "0.4.0",
-      "Description": "customs but lighting is fixed, hopefully\n\ni'm lazy",
-      "Path": "https://bonetome.com/download.php?file=NmYzOTNiOTkyOGM3NTBmNSszNjUrMTE2MQ==",
-      "Website": "https://bonetome.com/h3vr/map/263/",
-      "Arguments": "unzipToDir?Mods/",
-      "Delinfo": "Mods/Customs_0.4.0",
-      "Dependencies": [
-        "wurstmod"
-      ]
-    },
+		{
+			"modID": "customs",
+			"Name": "Customs",
+			"RawName": "Customs_0.3.8_extract_me.zip",
+			"Author": [
+				"NickMillion"
+			],
+			"Version": "0.4.0",
+			"Description": "customs but lighting is fixed, hopefully\n\ni'm lazy",
+			"Path": "https://bonetome.com/download.php?file=MWRkMDFhNzMxZjFhMDUwNyszNjUrMTQ4Mw==",
+			"Website": "https://bonetome.com/h3vr/map/401/",
+			"Arguments": "unzipToDir?Mods/",
+			"Delinfo": "Mods/Customs_0.4.0",
+			"Dependencies": [
+				"wurstmod"
+			]
+		},
     {
       "modID": "islandcompund",
       "Name": "Island Compound",
