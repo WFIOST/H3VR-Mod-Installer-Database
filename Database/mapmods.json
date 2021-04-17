@@ -285,7 +285,7 @@
 			"Author": [ "optomarcel" ],
 			"FileSizeMB": "234",
 			"Version": "1.1.0",
-			"Description": "TNH White House Map\n\nAll credits go to cubic.games\n\n12 Supply and 7 Holds points\n\nInstallation:\nDrop the .deli file inside of the zip into your mods folder\n\nDependencies:\nDeli 0.2\nWurstmod 2.0.2.0\n\nHope you enjoy and let me know if you notice anything weird",
+			"Description": "TNH White House Map\n\nAll credits go to cubic.games\n\n12 Supply and 7 Holds points\n\nInstallation:\nDrop the .deli file inside of the zip into your mods folder\n\nDependencies:\nDeli 0.3\nWurstmod 2.0.3.0\n\nHope you enjoy and let me know if you notice anything weird",
 			"Path": "https://bonetome.com/download.php?file=YTVlMWQzZDQ3Yzg0ZmRjMyszNjUrMTUwNg==",
 			"Website": "https://bonetome.com/h3vr/map/410/",
 			"Arguments": "unzipToDir?Deli/Mods/",
