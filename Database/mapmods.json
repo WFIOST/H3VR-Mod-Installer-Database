@@ -254,14 +254,14 @@
 		{
 			"modID": "franktory",
 			"Name": "Franktory",
-			"RawName": "factory_deli02.zip",
+			"RawName": "factory_deli03.zip",
 			"Author": [ "starkris51" ],
-			"Version": "1.1.1",
+			"Version": "1.2.0",
 			"Description": "H3VR Custom Map recreation of the \"Factory\" map from Escape from Tarkov",
-			"Path": "https://github.com/acstark92/Franktory/releases/download/1.1/",
+			"Path": "https://github.com/acstark92/Franktory/releases/download/1.2/",
 			"Website": "https://github.com/acstark92/Franktory",
 			"Arguments": "unzipToDir?Mods/",
-			"Delinfo": "Mods/Factory_deli02.deli",
+			"Delinfo": "Mods/Factory_deli03.deli",
 			"Dependencies": [ "wurstmod" ]
 		},
 		{
