@@ -118,10 +118,10 @@
       "RawName": "MeattFortressFredd.zip",
       "Author": ["Trittyburd"],
       "Version": "1.2.5",
-      "Description": "Fight the Meatt Co. personnel with Meatt Co. weaponry! ",
+      "Description": "Fight the Meatt Co. personnel with Meatt Co. weaponry!",
       "Path": "https://bonetome.com/download.php?file=YWVlOWNhODNiNzc2ODg2YSszNjUrMTAxMw==",
       "Website": "https://bonetome.com/h3vr/characters/200/",
-      "Arguments": "extract?Deli/Mods/",
+      "Arguments": "unzipToDir?Deli/mods/",
       "DelInfo": "Deli/Mods/MeattFortressFredd.deli",
       "Dependencies": ["tnhtweaker_deli30"]
     },
