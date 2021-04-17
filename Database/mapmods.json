@@ -34,9 +34,9 @@
       "Website": "https://bonetome.com/h3vr/map/198/",
       "Arguments": "unzipToDir?Deli/Mods/",
       "Delinfo": "Deli/Mods/Promeatheus.deli",
-      "Dependencies": [
-        "wurstmod"
-      ]
+			"Dependencies": [
+				"wurstmod_deli30"
+			]
     },
     {
       "modID": "wurstwar",
