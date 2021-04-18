@@ -98,7 +98,7 @@
 			"Website": "https://github.com/Nolenz/WurstMod/",
 			"Arguments": "moveToFolder?WurstMod.deli?Deli/Mods/?WurstMod.deli",
 			"DelInfo": "Deli/Mods/WurstMod.deli",
-			"Dependencies": [ "bepinex", "deli" ],
+			"Dependencies": [ "bepinex", "deli_experimental" ],
 			"IncompatableMods": [ "wurstmod" ]
 		},
 		{
