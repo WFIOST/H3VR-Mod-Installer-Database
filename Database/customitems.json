@@ -15,7 +15,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/142/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"h3vrutils"
 			],
 			"DelInfo": "VirtualObjects/Potatoes' Custom Guns"
@@ -33,7 +33,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/170/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			],
 			"DelInfo": "VirtualObjects/Magazines"
 		},
@@ -50,7 +50,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/159/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			],
 			"DelInfo": "VirtualObjects/modular"
 		},
@@ -62,13 +62,13 @@
 				"Meat_Banono"
 			],
 			"Version": "1.1.1",
-			"Description": "Welcome to Meat's Massive ModulAR Pack! This meaty pack expands on Kamikaze Fox's ModulAR platform with countless additional items; Receivers, Handguards, Stocks, Pistolgrips, this has it all. Please install Kamikaze's ModulAR for the base content like barrels.\nReceivers and Pistolgrips can be found under Pistol - Lever Action Handgun\nHandguards and grips are found under Attachments - Foregrips\nStocks are found under Attachments - Stocks\nTo install: follow all requirements for otherloader and Sideloader, then drag the zip into your virtualobjects folder. If you don't have one, create one.\nHandy tips: Pistol grips are best detached by grabbing slightly in front of the bottom of the grip when attached.\nHandguards are best attached after barrels, and are easiest to attach in a quickbelt slot like your shoulder.",
+			"Description": "Welcome to Meat's Massive ModulAR Pack! This meaty pack expands on Kamikaze Fox's ModulAR platform with countless additional items; Receivers, Handguards, Stocks, Pistolgrips, this has it all. Please install Kamikaze's ModulAR for the base content like barrels.\nReceivers and Pistolgrips can be found under Pistol - Lever Action Handgun\nHandguards and grips are found under Attachments - Foregrips\nStocks are found under Attachments - Stocks\nTo install: follow all requirements for LSIIC and Sideloader, then drag the zip into your virtualobjects folder. If you don't have one, create one.\nHandy tips: Pistol grips are best detached by grabbing slightly in front of the bottom of the grip when attached.\nHandguards are best attached after barrels, and are easiest to attach in a quickbelt slot like your shoulder.",
 			"Path": "https://bonetome.com/download.php?file=NDU1MzQwZmVkOTA4YmYzYyszNjUrODQ3",
 			"Website": "https://bonetome.com/h3vr/weapons/157/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/ARParts",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"modular"
 			]
 		},
@@ -87,7 +87,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/ModulAR2.0",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"meatsmodularparts"
 			]
 		},
@@ -105,7 +105,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/ModulMPX",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -123,7 +123,7 @@
 			"DelInfo": "VirtualObjects/SidechARger",
 			"Dependencies": [
 				"meatsmodularparts",
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -140,7 +140,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/ModulSR",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"meatsmodularparts"
 			]
 		},
@@ -162,7 +162,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/ModulAK(VanillaMag)/",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"h3vrutils"
 			],
 			"IncompatableMods": [
@@ -187,7 +187,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/ModulAK(MagLatch)/",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"h3vrutils"
 			],
 			"IncompatableMods": [
@@ -210,7 +210,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/modul870",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"h3vrutils"
 			]
 		},
@@ -227,7 +227,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/176/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			],
 			"DelInfo": "VirtualObjects/Rigs/"
 		},
@@ -245,7 +245,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/Meat'sASh12",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -262,7 +262,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/memes",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -279,7 +279,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/218/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"h3vrutils"
 			],
 			"DelInfo": "VirtualObjects/asp"
@@ -301,7 +301,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/mvp",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"h3vrutils"
 			]
 		},
@@ -320,7 +320,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/359/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"h3vrutils"
 			],
 			"DelInfo": "VirtualObjects/roadsidemags"
@@ -338,7 +338,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/124/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"modular"
 			],
 			"DelInfo": "VirtualObjects/45_turn?VirtualObjects/45_turn.manifest"
@@ -356,7 +356,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/99/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			],
 			"DelInfo": "VirtualObjects/scrrifle?VirtualObjects/scrrifle.manifest"
 		},
@@ -373,7 +373,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/118/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			],
 			"DelInfo": "VirtualObjects/f2000t"
 		},
@@ -390,7 +390,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/169/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			],
 			"DelInfo": "VirtualObjects/mk14 ebr"
 		},
@@ -408,7 +408,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/242/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			],
 			"DelInfo": "VirtualObjects/FTW Arms Foregrips/"
 		},
@@ -443,7 +443,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/273/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			],
 			"DelInfo": "VirtualObjects/muzzles"
 		},
@@ -460,7 +460,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/279/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			],
 			"DelInfo": "VirtualObjects/VPO-215"
 		},
@@ -494,7 +494,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/282/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			],
 			"DelInfo": "VirtualObjects/SuperShotgun"
 		},
@@ -512,7 +512,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/AmmoBoxes/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -529,7 +529,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/mwll",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -546,7 +546,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/gunshields",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -563,7 +563,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/hk416_pack",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -580,7 +580,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/mdr",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -597,7 +597,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/ar57",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -614,7 +614,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/tar21",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -631,7 +631,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/g28",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -648,7 +648,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/m110",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -665,7 +665,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/StrafeGun/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -683,7 +683,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/StrafeGun/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -700,7 +700,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/gunrackphys",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -717,7 +717,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/gunrack",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -734,7 +734,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/hook",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"monomod"
 			]
 		},
@@ -752,7 +752,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/G92Mupdate1.2.5/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -769,7 +769,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/ccipepperbox",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"meatsshotguns"
 			]
 		},
@@ -787,7 +787,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/dumpomatic",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -809,7 +809,7 @@
 				"VirtualObjects/mwro"
 			],
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -827,7 +827,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/mwr",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -844,7 +844,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/thekeyring",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -861,7 +861,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/shotsword",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -932,7 +932,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/m1014irons",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -950,7 +950,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/FTW Arms Spawnable Targets/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -968,7 +968,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/meatmincer",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -986,7 +986,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/Halo Energy Sword/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1004,7 +1004,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/Meter Stick/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1022,7 +1022,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/Silverballers/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1040,7 +1040,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/Bren10/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1058,7 +1058,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/M&PShield/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1076,7 +1076,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/AX50/",
 			"DelInfo": "VirtualObjects/AX50/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1094,7 +1094,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/mk25handguns",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1112,7 +1112,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/mwrf",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1130,7 +1130,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/AN-94/",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"h3vrutils"
 			]
 		},
@@ -1149,7 +1149,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/awp",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/m3",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1185,7 +1185,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/p2062",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1203,7 +1203,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/ArtyomKnife/metro2033weapons",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1221,7 +1221,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/skel_dagger",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1238,7 +1238,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/skel_dagger",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1256,7 +1256,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/s3r",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1274,7 +1274,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/3dArms",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1293,7 +1293,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/FTW Arms Seventh Seraph/",
 			"Dependencies": [
-				"otherloader",
+				"lsiic",
 				"h3vrutils"
 			]
 		},
@@ -1331,7 +1331,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/RustSAR/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1349,7 +1349,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/MWM4A1/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/modulstm",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
@@ -1385,7 +1385,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/More 1911 Mags/",
 			"Dependencies": [
-				"otherloader"
+				"lsiic"
 			]
 		},
 		{
