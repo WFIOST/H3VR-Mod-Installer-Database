@@ -160,13 +160,13 @@
 			"Name": "OtherLoader",
 			"RawName": "OtherLoader.deli",
 			"Author": [ "devyndamonster" ],
-			"Version": "0.1.3",
+			"Version": "0.1.5",
 			"Description": "OtherLoader is an asset loader for H3VR, which functions similarly to other loaders like LSIIC.",
-			"Path": "https://github.com/devyndamonster/OtherLoader/releases/download/v0.1.3/",
+			"Path": "https://github.com/devyndamonster/OtherLoader/releases/download/v0.1.5/",
 			"Website": "https://github.com/devyndamonster/OtherLoader",
 			"Arguments": "moveToFolder?OtherLoader.deli?Deli/Mods/?OtherLoader.deli",
 			"DelInfo": "Deli/Mods/OtherLoader.deli",
-			"Dependencies": [ "bepinex", "deli_experimental" ]
+			"Dependencies": [ "deli_experimental" ]
 		},
 		{
 			"modID": "h3vrutils",

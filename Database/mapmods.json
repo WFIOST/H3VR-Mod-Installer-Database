@@ -100,16 +100,14 @@
 			"Author": [
 				"optomarcel"
 			],
-			"Version": "1.4.0",
-			"FileSizeMB": "1430",
+			"Version": "1.5.0",
+			"FileSizeMB": "960",
 			"Description": "My very first map, set in a supermarket in broad daylight.\n\nComes in 2 versions, funky and normal. Funky contains some royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\n\nFeatures 10 supply and 6 hold points.\n\nLet me know if you have any issues/ideas.\n\nThanks and have fun playing",
 			"Path": "https://bonetome.com/download.php?file=NDFiZDYxY2U3NGI5ZjRiMiszNjUrMTIzOQ==",
 			"Website": "https://bonetome.com/h3vr/map/276/",
 			"Arguments": "unzipToDir?Deli/Mods/",
 			"Delinfo": "Deli/Mods/TNH_supermarket_day.deli?Deli/Mods/TNH_supermarket_day_funky.deli",
-			"Dependencies": [
-				"wurstmod_deli30"
-			]
+			"Dependencies": [ "wurstmod_deli30" ]
 		},
 		{
 			"modID": "marcelsupermarketnight",
@@ -118,8 +116,8 @@
 			"Author": [
 				"optomarcel"
 			],
-			"Version": "1.4.0",
-			"FileSizeMB": "1250",
+			"Version": "1.5.0",
+			"FileSizeMB": "928",
 			"Description": "The night version of my supermarket. There are 2 versions of the map, funky and normal.\nFunky contains royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\nContains 9 supply and 6 hold points.",
 			"Path": "https://bonetome.com/download.php?file=N2MzNmVhMjFhMzA0NzI4NSszNjUrMTIzOA==",
 			"Website": "https://bonetome.com/h3vr/map/275/",

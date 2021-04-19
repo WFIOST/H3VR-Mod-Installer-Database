@@ -402,7 +402,7 @@
 				"Andrew_FTW",
 				"Meat Banono"
 			],
-			"Version": "2.1",
+			"Version": "2.2",
 			"Description": "A nice collection of some new foregrips! And for those who have been modding for a while will notice, the CQR is back!\nIncludes the:\n-BCM (Black and Tan)\n-Cobra AFG\n-CQR\n-RK1\n-RK2\n-RK6\n-TD\n-Many, many more",
 			"Path": "https://bonetome.com/download.php?file=M2MyODRlMWU4NWI5ZjE3MCsxMzY3KzExMDk=",
 			"Website": "https://bonetome.com/h3vr/weapons/242/",
@@ -670,20 +670,21 @@
 		},
 		{
 			"modID": "strafeprimaries",
-			"Name": "STRAFE PRIMARIES (POLISHED GOLD EDITION)",
+			"Name": "STRAFESCRAPPER WITH POLISHED GOLD WEAPONRY",
 			"RawName": "StrafeGun.rar",
-			"FileSizeMB": "13",
+			"FileSizeMB": "25",
 			"Author": [
 				"Gunlovers"
 			],
-			"Version": "2.0.0",
-			"Description": "WELCOME BACK TO 1996, THE BLOODIEST ROGUELITE'S PRIMARY FIREARMS HAVE RETURNED IN VR. PAINTSTAKINGLY MADE TO BE ACCURATE AND THE BEST KILLING POWER AROUND.\nTHE SHOTGUN, THE GOOD OLD CLASSIC, FIRES 12 GAUGE AND HOLDS 20 ROUND DRUM, ITS SMALL FRAME IS VERY HANDY FOR CQC ENVIRONMENTS. IT ALSO COMES WITH A HOLOSIGHT FOR MAXIMUM AIMING POWER.\nTHE MACHINEGUN, CULT CLASSIC, HIGH RATE OF FIRE, FIRING 10MMAUTO. 40 ROUND STICK MAG WITH ADDED AMMO COUNTER BUILT INTO THE GUN. YOU KNOW THIS GUN WELL ENOUGH TO NOT NEED EXPLANATION.\nTHE RAILGUN, A LONG DISTANCE FRIEND. FIRES .35 MOSES AT EITHER A 5 ROUND BATTERY OR A 20 ROUND BATTERY, ITS HUGE BULLPUP FRAME MAKES IT AWKWARD TO USE IN CQC ENVIRONMENTS, SO TAKE NOTE OF YOUR SURROUNDINGS BEFORE DIVING INTO THE GOREFEST.\nTHESE GUNS WILL CREATE SO MUCH BLOODSHED EVEN YOUR PC WILL BLEED. ORDER NOW ",
-			"Path": "https://bonetome.com/download.php?file=ZDM2NmUzMmZmNDU2MWViYSszNjUrMTQ1NA==",
-			"Website": "https://bonetome.com/h3vr/weapons/385/",
-			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/StrafeGun/",
+			"Version": "6.0.15",
+			"Description": "Note: This mod is about playing aggressive and fast, it uses disposable weaponry built into the mod and is featured around strafe. It will be hard and there is a lot of enemies.\nHEY YOU, YOU EVER WANTED TO PLAY FAST AND AGGRESSIVE LIKE ITS 1998 IN TAKE AND HOLD? HAVE YOU EVER WANTED TO SLAUGHTER THINGS OVER AND OVER AGAIN IN THE NEVER ENDING BATTLE. CONSTANTLY WATCHING AS YOUR ENTRAILS PAINT THE WALLS RED AFTER A GLORIOUS LAST STAND?\nSTRAFE SCRAPPER IS A GIANT BLEEDING LOVE LETTER TO THE INDIE GAME STRAFE. IT'S LOVINGLY CRAFTED BY GUNLOVERS IN AN ATTEMPT TO ANALOGIZE THE GAME INTO TAKE AND HOLD. FEATURING 4 ZONES AND A BOSS FIGHT THAT WILL LEAVE MOST KILLERS HANGING OUT TO DRY. NOW WITH DISPOSABLE WEAPONRY THAT REALLY PACK A PUNCH! NOT TO MENTION IT WILL ENCOURAGE AGGRESSIVE PLAYING BY MAKING ENEMIES DROP WEAPONRY TO USE AND KEYCARDS THAT GIVE HEALTH!\nTHIS MOD ALSO INCLUDES THE MODIFIED PRIMARIES AND THEY ARE UNIQUELY DIFFERENT. BE ON THE LOOK OUT FOR THEM IN THE TAKE AND HOLD SHOPS! \nWarning: it is not recommended to play this on one hit and it's totally fine to bump the hp up if you're not comfortable.\nPlease consult your doctor if you're not used to Locomotion, this mod favors it heavily. Do not attempt to play cowardly, you will not be able to survive.\nAll models, enemy baseline, sounds, and general behavior of the gamemode belong to Pixel Titans (Thom Glunt) and (Stephen Ramey) And all who helped on the inital game. Please show support to them.",
+			"Path": "https://bonetome.com/download.php?file=ZTk2NmFlMjE0ZGVkN2Q1OSszNjUrMTU2MA==",
+			"Website": "https://bonetome.com/h3vr/characters/431/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/STRAFESCRAPPERUNZIP/",
 			"Dependencies": [
-				"lsiic"
+				"otherloader",
+				"tnhtweaker_deli30"
 			]
 		},
 		{
@@ -1415,7 +1416,7 @@
 				"drummerdude2003",
 				"gamernayr"
 			],
-			"Version": "1.0.0",
+			"Version": "1.2.0",
 			"Description": "Add's two different ammo types, 6mm Airsoft BB's and No. 7 1/2 Birdshot",
 			"Path": "https://bonetome.com/download.php?file=OTNlNDA3YzJiMTkwZTg3OSszNjUrMTUzMw==",
 			"Website": "https://bonetome.com/h3vr/mods/419/",
@@ -1423,6 +1424,99 @@
 			"DelInfo": "Deli/Mods/drammo.deli",
 			"Dependencies": [
 				"otherloader"
+			]
+		},
+		{
+			"modID": "foxarmsironsights",
+			"Name": "FOXARMS - Iron Sights",
+			"RawName": "ironsights.zip",
+			"FileSizeMB": "16",
+			"Author": [
+				"Wolfie"
+			],
+			"Version": "1.0.0",
+			"Description": "Info\nPumping Iron BABY!\n\nFeatures:\n- 10 new Sights\n- All foldable! \n- MP Sights in FDE and OD!\n\nIncludes:\n- Web Sight (For your.. Gun?)\n- Magpul (In OD and FDE, which folds!)\n- MP7 (For your non-mp7 needs!)\n- SIG (For your MPX, MCX!)\n- KAC and KAC Micro (Like Mini-Knights!)\n- Knight Black (Anton's Knight sight, retextured in glorious carbon.)\n- KRISS (For your Vector builds!)",
+			"Path": "https://bonetome.com/download.php?file=ZjQ3YTdkMDJmYmI1M2VlNSszNjUrMTU2MQ==",
+			"Website": "https://bonetome.com/h3vr/weapons/432/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/ironsights",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "modulSaiga12",
+			"Name": "modulSaiga12",
+			"RawName": "saiga12.zip",
+			"FileSizeMB": "41",
+			"Author": [
+				"gamernayr"
+			],
+			"Version": "1.0.0",
+			"Description": "More modularity! More shotgun! 100% more powermag!\nThis is a LIISC mod, and as such goes into H3VR>VirtualObjects\nThe Saiga 12 doesn't come with much (not really much to go off of tarkov wise), but it's fun to play around with AK parts.\nLet me know if you find anything, as this made made and tested in a day.\nIf you are looking for a full auto version (I'm not supporting this, dont bug me about bugs), get it here:\nhttps://drive.google.com/file/d/1TfNfojWV_d28jtke7wphjdwFLGSTxv7C/view?usp=sharing\nIf you have questions or comments, don't hesitate to ping me on either server @gamernayr.",
+			"Path": "https://bonetome.com/download.php?file=Njc4MDJkM2Q1ZDdlYWIzMCszNjUrMTU1OQ==",
+			"Website": "https://bonetome.com/h3vr/weapons/430/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/saiga12",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "glock19custom",
+			"Name": "Glock 19 Custom Series",
+			"RawName": "g19.rar",
+			"FileSizeMB": "65",
+			"Author": [
+				"Jayyden"
+			],
+			"Version": "1.1.0",
+			"Description": "Adds in a pair of tuned-up Glock 19 compact handguns, chambered in 9x19mm.\n\nDONATE\nWant to support me and help me afford more models to implement, or otherwise feel like you have too much money burning a hole in your wallet? I now have a Ko-fi open for donations!\nhttps://ko-fi.com/jayyden",
+			"Path": "https://bonetome.com/download.php?file=YTA4ZTJmNjhlZGYzMjk1YiszNjUrMTU1Mw==",
+			"Website": "https://bonetome.com/h3vr/weapons/427/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/g19",
+			"Dependencies": [
+				"lsiic",
+				"mwo"
+			]
+		},
+		{
+			"modID": "meatsc7a2",
+			"Name": "Meat's C7A2",
+			"RawName": "C7A2UnzipMetoDeliMods.zip",
+			"FileSizeMB": "35",
+			"Author": [
+				"Meat_Banono",
+				"Jayyden"
+			],
+			"Version": "1.0.1",
+			"Description": "For Canadian Speakers:\nForged in the Great White North held firmly in the grasp of a true chad Mountie on Mooseback, the Canadian C7A2 service rifle comes to H3 with its signature C79 Elcan scope and TRIAD front sight post to apologize for not having been in the game sooner! \n\nFor American Speakers:\nGreen M16 with green scope.\n\nThe C7A2 can be found under Assault Rifle category\n\nThe C79 Elcan can be found under Scopes category, in both standard and illuminated variants!\n\nThis mod requires H3Utils for a hyper immersive moving bolt catch and mag release! Never guess if you're empty again!\n\nMany thanks to Jayyden for the scope, and Somnambulist for generously providing the model!\nI also have a Ko-Fi, if you really feel like donating or contributing towards a stretch goal like new gun models!\nKo-fi.com/meatbanana",
+			"Path": "https://bonetome.com/download.php?file=ZjhjYzNmMDczNDQyZWY2ZiszNjUrMTU1NA==",
+			"Website": "https://bonetome.com/h3vr/weapons/428/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/C7A2.deli",
+			"Dependencies": [
+				"otherloader",
+				"h3vrutils"
+			]
+		},
+		{
+			"modID": "jayydenmarlin1895",
+			"Name": "Marlin 1895 Lever Action Rifle",
+			"RawName": "1895.rar",
+			"FileSizeMB": "15",
+			"Author": [
+				"Jayyden"
+			],
+			"Version": "1.1.0",
+			"Description": "Adds a Marlin 1895 lever-action rifle chambered in .45-70 Government, with both railed and unrailed variants.\n\nCONTENTS\n- Marlin 1895\n- Marlin 1895 Unrailed\n- Box of .45-70 Govt.\n\nCREDITS\n- Andrew_FTW (Creation of the Box of .45-70 Govt item)\n- Infinity Ward (Sounds from Modern Warfare 2019)\n\nDONATE\nWant to support me and help me afford more models to implement, or otherwise feel like you have too much money burning a hole in your wallet? I now have a Ko-fi open for donations!\nhttps://ko-fi.com/jayyden",
+			"Path": "https://bonetome.com/download.php?file=OTgzM2Y3OTkwOGEyYmRkNCszNjUrMTU1Mg==",
+			"Website": "https://bonetome.com/h3vr/weapons/426/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/1895",
+			"Dependencies": [
+				"lsiic"
 			]
 		}
 	]

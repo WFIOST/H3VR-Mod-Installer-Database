@@ -50,7 +50,7 @@
       "Description": "Sci-Fi Sofia wields futuristic weapons! All sci-fi guns (vanilla and custom) appear in her weapon pools. The weapon pools also have many real guns that have been used in science fiction works or that look futuristic. Enemy progression is currently same as Operator Ori, but will be tweaked later on.\nIf you have a cool sci-fi vault creation and want it included, send me the vault file on the H3 Homebrew Discord (preferably the json vault file that TNHTweaker generates, and with no magazine in the gun). \nThe custom weapons listed below are highly recommended. They are NOT required to play Sofia, but will add more variety to the weapon pools:\nModulAR\nMeat’s ModulAR Parts\nModulM4\nModulSR\nOutbreak Perfected\nHalo: Basic Infantry Weapons\nMk14 EBR\nTavor 21\nDesert Tech MDR\nAR-57\nF2000 Tactical",
       "Path": "https://bonetome.com/download.php?file=ZjNmZDcwNTRhZDVjYjI5YSszNjUrOTk3",
       "Website": "https://bonetome.com/h3vr/characters/197/",
-      "Arguments": "extractToDir?Deli/Mods/",
+      "Arguments": "unzipToDir?Deli/Mods/",
       "DelInfo": "Mods/SciFiSofia.deli",
       "Dependencies": ["tnhtweaker_deli30"]
     },
