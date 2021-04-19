@@ -47,14 +47,14 @@
 			],
 			"Dependencies": [ "bepinex" ]
 		},
-		{
+{
 			"modID": "deli_experimental",
-			"Name": "Deli v0.3.1",
-			"RawName": "Deli-v0.3.1.zip",
+			"Name": "Deli v0.3.2",
+			"RawName": "Deli-v0.3.2.zip",
 			"Author": [ "nrgill28", "AshHat" ],
-			"Version": "0.3.1",
+			"Version": "0.3.2",
 			"Description": "v0.3.0 of Deli. This is a separate mod as it makes ALL deli 0.2.5 mods outdated.",
-			"Path": "https://github.com/Deli-Collective/Deli/releases/download/v0.3.1/",
+			"Path": "https://github.com/Deli-Collective/Deli/releases/download/v0.3.2/Deli-v0.3.2.zip%",
 			"Website": "https://github.com/Deli-Counter/Deli/",
 			"Arguments": "",
 			"DelInfo": "BepInEx/patchers/Deli/Deli.Newtonsoft.Json.dll?BepInEx/patchers/Deli/Deli.Patcher.dll?BepInEx/plugins/Deli/Deli.Setup.dll",
@@ -98,7 +98,7 @@
 			"Website": "https://github.com/Nolenz/WurstMod/",
 			"Arguments": "moveToFolder?WurstMod.deli?Deli/Mods/?WurstMod.deli",
 			"DelInfo": "Deli/Mods/WurstMod.deli",
-			"Dependencies": [ "bepinex", "deli" ],
+			"Dependencies": [ "bepinex", "deli_experimental" ],
 			"IncompatableMods": [ "wurstmod" ]
 		},
 		{

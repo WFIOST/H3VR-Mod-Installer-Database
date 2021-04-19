@@ -105,6 +105,21 @@
 			"Arguments": "unzipToDir?Mods/",
 			"DelInfo": "Mods/Stabilizer.deli",
 			"Dependencies": [ "deli" ]
+		},
+	  	{
+			"modID": "portableitemspawner",
+			"Name": "Portable Item Spawner",
+			"RawName": "PortableItemSpawner.deli",
+			"Author": [ "Maiq" ],
+			"Version": "1.0.0",
+			"Description": "Adds a portable ItemSpawner panel that is spawned in alongside the OptionsPanel using the WristMenu",
+			"Path": "https://github.com/Maiq-The-Dude/PortableItemSpawner/releases/download/1.0.0/",
+			"Website": "https://github.com/Maiq-The-Dude/PortableItemSpawner",
+			"Arguments": "moveToFolder?PortableItemSpawner.deli?Deli/Mods/?PortableItemSpawner.deli",
+			"DelInfo": "Deli/Mods/PortableItemSpawner.deli",
+			"Dependencies": [ "deli_experimental" ]
 		}
+	  
+	  
   ]
 }
