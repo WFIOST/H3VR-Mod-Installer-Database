@@ -798,7 +798,7 @@
 			"Author": [
 				"Jayyden"
 			],
-			"Version": "2.0.0",
+			"Version": "2.1.0",
 			"Description": "A collection of modern collimator optics meant for contemporary weapon systems in various sizes, shapes, and colors.\nContains the following attachments:\n- Aimpoint CompM5 (Offset, Low, and High mounts)\n- Aimpoint ACO (Straight, Cantilever, and Low mounts)\n- Aimpoint T2 (Offset, Low, and High mounts)\n- Aimpoint CompM4s\n- Aimpoint ACRO (Low and High mounts)\n- Eotech EXPS3 (Green and Red reticles)\n- EoTech G33 Magnifier\n- SIG Romeo1 (Offset, Low, and High mounts)\n- SIG Romeo3 (Low and High mounts)\n- SIG Romeo4T (Low and High mounts in Black and FDE)\n- DOCTER SightIII (Offset, Low, and High mounts)\n- Trijicon MRO\n- Trijicon RMR (Offset, Low, and High mounts)\n- Trijicon SRO (Offset, Low, and High mounts)\n- Trijicon ACOG TA02\n- Vortex Venom\n- Vortex StrikefireII\n- Vortex Crossfire\n- Vortex UH-1 Huey Gen III\n- Leupold DeltaPoint (Offset, Low, and High mounts)",
 			"Path": "https://bonetome.com/download.php?file=NmU0ZDBhZjAzYWZlMzk4NCsyMTYxKzEzNzM=",
 			"Website": "https://bonetome.com/h3vr/weapons/336/",
@@ -1087,7 +1087,7 @@
 			"Author": [
 				"Jayyden"
 			],
-			"Version": "1.0.0",
+			"Version": "1.1.0",
 			"Description": "Introduces a line of SIG SAUER handguns for you to play with - with optic-ready slides.\n\nContains:\n- SIG P226 (.40S&W and 9x19mm)\n- SIG P226T (.40S&W and 9x19mm)\n- SIG MK25 (.40S&W and 9x19mm)\n- SIG MK25T (.40S&W and 9x19mm)\n- Extended Magazines for .40S&W and 9x19mm SIG P226 series handguns\n\nKNOWN ISSUES:\n9x19mm extended magazine only holds 15 rounds - uncertain what could be causing it, looking to fix ASAP.\nThanks to:\n- Nikpo (Texture editing for the MK25 series)\n- Infinity Ward (Sounds from Modern Warfare 2019)\nWant to support me and help me afford more models to implement, or otherwise feel like you have too much money burning a hole in your wallet? I now have a Ko-fi open for donations!\nhttps://ko-fi.com/jayyden",
 			"Path": "https://bonetome.com/download.php?file=MzJjZmU0MDViNTBkNWI2MyszNjUrMTQ0Mw==",
 			"Website": "https://bonetome.com/h3vr/weapons/377/",
