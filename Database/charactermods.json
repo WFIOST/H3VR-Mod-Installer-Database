@@ -134,9 +134,9 @@
       "Description": "Its Pistols and Machine Pistols only! Attachments are discounted and sosigs are numerous.\nCharacter will appear in the standard/default category.\nInstallation requires Take n' Hold Tweaker. Place in your H3VR/Mods folder and it should do the rest!",
       "Path": "https://bonetome.com/download.php?file=YmZlZDkzYWM4ZDZhMDE0MSszNjUrMTExMA==",
       "Website": "https://bonetome.com/h3vr/characters/243/",
-      "Arguments": "moveToFolder?PistolPercy.zip?Mods/?PistolPercy.zip",
-      "DelInfo": "Mods/PistolPercy.zip",
-      "Dependencies": ["tnhtweaker"]
+      "Arguments": "unzipToDir?Deli/Mods/",
+      "DelInfo": "Deli/Mods/PistolPercy.deli",
+			"Dependencies": [ "tnhtweaker_deli30" ]
     },
     {
       "modID": "doomboxsgermanuniforms",
