@@ -260,7 +260,7 @@
 			"Website": "https://github.com/acstark92/Franktory",
 			"Arguments": "unzipToDir?Mods/",
 			"Delinfo": "Mods/Factory_deli03.deli",
-			"Dependencies": [ "wurstmod" ]
+			"Dependencies": [ "wurstmod_deli30" ]
 		},
 		{
 			"modID": "hotelhotlink",
