@@ -66,26 +66,25 @@
       "Arguments": "unzipToDir?Deli/Mods",
       "DelInfo": "Deli/mods/JohnWurst.deli",
       "Dependencies": [
-        "meatsmodularparts",
+        "meatsmodulm4",
         "meatsmodulmpx",
-        "modular",
         "pccg",
         "tnhtweaker_deli30"
       ]
     },
-    {
-      "modID": "greatwargunther",
-      "Name": "Great War Gunther",
-      "RawName": "GreatWarGunther.zip",
-      "Author": ["VolkswagenBeatle"],
-      "Version": "1.0.9",
-      "Description": "Hello everyone! This is Great War Gunther, my first character. It's a WWI themed character with progression based off of GI Grayson. Please make sure you are using the latest version of TnHTweaker and that you are on the alpha branch. Remember to report any bugs or other issues to me, as well as give feedback! One last thing, Limited ammo is very hard and endless hasn't been tested fully, so report any issues there.",
-      "Path": "https://bonetome.com/download.php?file=OTE5NDUyYWJhMTRiMGRmYSszNjUrODYy",
-      "Website": "https://bonetome.com/h3vr/characters/163/",
-      "Arguments": "moveToFolder?GreatWarGunther.zip?Mods/?GreatWarGunther.zip",
-      "DelInfo": "Mods/GreatWarGunther.zip",
-      "Dependencies": ["tnhtweaker", "doomboxsgermanuniforms"]
-    },
+		{
+			"modID": "greatwargunther",
+			"Name": "Great War Gunther",
+			"RawName": "GreatWarGunther0.9.1ExtractToMods.zip",
+			"Author": [ "VolkswagenBeatle" ],
+			"Version": "1.0.10",
+			"Description": "Hello everyone! This is Great War Gunther, my first character. It's a WWI themed character with progression based off of GI Grayson. Please make sure you are using the latest version of TnHTweaker and that you are on the alpha branch. Remember to report any bugs or other issues to me, as well as give feedback! One last thing, Limited ammo is very hard and endless hasn't been tested fully, so report any issues there.",
+			"Path": "https://bonetome.com/download.php?file=OTE5NDUyYWJhMTRiMGRmYSszNjUrODYy",
+			"Website": "https://bonetome.com/h3vr/characters/163/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/GreatWarGunther.deli",
+			"Dependencies": [ "tnhtweaker_deli30", "doomboxsgermanuniforms", "otherloader" ]
+		},
 		{
 			"modID": "allrounderrandy",
 			"Name": "All Rounder Randy",
@@ -202,9 +201,7 @@
 			"Arguments": "moveToFolder?Adrianv1.2.0.zip?Mods/?Adrianv1.2.0.zip",
 			"DelInfo": "Mods/Adrianv1.2.0.zip",
 			"Dependencies": [
-				"modular",
-				"meatsmodulsr",
-				"meatsmodularparts",
+				"meatsmodulm4",
 				"meatsrigs",
 				"tnhtweaker"
 			]

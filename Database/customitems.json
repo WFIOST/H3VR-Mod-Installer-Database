@@ -49,6 +49,7 @@
 			"Path": "https://bonetome.com/download.php?file=MjgxMDkxOThkYTE0Mjg4MCszNjUrODUw",
 			"Website": "https://bonetome.com/h3vr/weapons/159/",
 			"Arguments": "unzipToDir?VirtualObjects/",
+			"HideMod": true,
 			"Dependencies": [
 				"lsiic"
 			],
@@ -67,6 +68,7 @@
 			"Website": "https://bonetome.com/h3vr/weapons/157/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/ARParts",
+			"HideMod": true,
 			"Dependencies": [
 				"lsiic",
 				"modular"
@@ -74,20 +76,25 @@
 		},
 		{
 			"modID": "meatsmodulm4",
-			"Name": "Meats ModulM4",
-			"RawName": "MeatsModulM4.zip",
+			"Name": "Meats ModulM4 Overhaul",
+			"RawName": "ModulARUnzipMeToDeliMods.zip",
 			"Author": [
 				"MeatBanono",
-				"NotWolfie"
+				"Meloncorp"
 			],
-			"Version": "1.0.0",
-			"Description": "This is the next level of modularity, the ModulM4!! Complete control over what lower receiver, charging handle, and upper receiver you want in your M4. As always, Kamikaze's ModulAR is required for barrels and my ARParts mod for more AR parts.\nIncluded in this mod are:\nM4 and ADAR (semi auto only) lower receivers\n4 Upper Heceivers\n5 Charging Handles\n\nWhen it comes to building your dream M4, I recommend attaching to your lower in this order: Bolt -> Charging handle -> Upper receiver. This will be the smoothest process. Place them more or less where you think they should go, and they should snap into place.\nSome minor issues: Due to how attachments work in H3, Fores and Barrels technically attach to the lower receiver, not the upper. Other minor issues: Visual stuff that works on vanilla AR's like dustcover interaction and charging handle latch rotation does not work for now.",
-			"Path": "https://bonetome.com/download.php?file=MGI3M2Y4ZGUwMjM5OWI2NyszNjUrOTYw",
-			"Website": "https://bonetome.com/h3vr/weapons/188/",
-			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/ModulAR2.0",
+			"FileSizeMB": "940",
+			"Version": "2.0.0",
+			"Description": "It's finally here. The U.S. Meat Corps is more than proud to announce the official overhaul and re-release of ModulAR!\n\nA month overdue but with countless more attachments, more than a dozen new receivers, and an almost infinite number of possible combinations. I'm serious, we did the math, and not including magazines there are over 3 billion possible combinations waiting for you to assemble. Dive deep!\n\nYou will find everything located under the Modular Workshop category on the main page of the itemspawner, give the mod some time to load and it will auto-populate the itemspawner, even if you are already in a scene! There are new receivers, barrels, magazines, stocks, and more! Please refer to the U.S.M.C Instructional Training video posted above for assembly instructions! There is also a handy infographic above most items pointing out where to attach and detach all your AR bling.\n\nA massive thanks to Meloncorp for making this overhaul as massive as it is, and all of my beta testers for ensuring the highest quality and user experience for this mod! A thank you to you to for downloading this mod and reading this far! \n\nMods like this cost so much in time and effort, if you are feeling generous or wish to fund the Meat Banana Manufacturing Group here is a link to me Ko-Fi page for any donations, much love! \nKo-fi.com/meatbanana",
+			"Path": "https://bonetome.com/download.php?file=N2ZkN2IxYjJkZmFiOTVkNiszNjUrMTYwNA==",
+			"Website": "https://bonetome.com/h3vr/weapons/450/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/ModulAR.deli",
 			"Dependencies": [
-				"lsiic",
+				"otherloader",
+				"h3vrutils"
+			],
+			"IncompatableMods": [
+				"meatsmodulsr",
 				"meatsmodularparts"
 			]
 		},
@@ -122,7 +129,7 @@
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/SidechARger",
 			"Dependencies": [
-				"meatsmodularparts",
+				"meatsmodulm4",
 				"lsiic"
 			]
 		},
@@ -139,9 +146,9 @@
 			"Website": "https://bonetome.com/h3vr/weapons/167/",
 			"Arguments": "unzipToDir?VirtualObjects/",
 			"DelInfo": "VirtualObjects/ModulSR",
+			"HideMod": true,
 			"Dependencies": [
-				"lsiic",
-				"meatsmodularparts"
+				"lsiic"
 			]
 		},
 		{
