@@ -1362,21 +1362,21 @@
 		},
 		{
 			"modID": "foxarmsstm9",
-			"Name": "ModulAR9",
-			"RawName": "STM9.zip",
-			"FileSizeMB": "81",
+			"Name": "ModulAR9 (Overhauled)",
+			"RawName": "modulstm.zip",
+			"FileSizeMB": "146",
 			"Author": [
 				"NotWolfie"
 			],
-			"Version": "1.1.0",
-			"Description": "The glorious motherland has returned with a fancy new carbine for you to play with!\n\nI present the STM-9MM, Made for Russian Civilian Markets!\n\nFEATURES:\n\n- Works with any glock mags!\n- Semi-Auto\n- EXTREMELY ACCURATE!!\n\nTo be added:\n- Custom Stocks\n- Custom handguards\n- Foregrip and Laser Mounts\n- Custom Muzzles/Barrels!",
+			"Version": "2.0",
+			"Description": "Owie, 5.56 is too strong of a caliber.\n\nThe ModulAR9 Is the platform of an AR15, but using Glock mags and 9mm.\n\nFEATURES:\n\nModularity!\nCompatiblity with Meat's ModulOverhaul!\nSemi-auto Receiver (STM-9)\nMagwells!\nFast firerate\nAccurate shooty sticks!",
 			"Path": "https://bonetome.com/download.php?file=MjkyYTM1OTcwZTVkZWU5ZiszNjUrMTUwMg==",
 			"Website": "https://bonetome.com/h3vr/weapons/408/",
-			"Arguments": "unzipToDir?VirtualObjects/",
-			"DelInfo": "VirtualObjects/modulstm",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/modulstm",
 			"Dependencies": [
-				"lsiic"
-			]
+				"h3vrutils"
+			],
 		},
 		{
 			"modID": "ftwarms1911mags",
