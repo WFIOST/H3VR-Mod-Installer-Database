@@ -28,19 +28,19 @@
 			"DelInfo": "Deli/Mods/PMCPete.deli",
 			"Dependencies": [ "tnhtweaker_deli30" ]
 		},
-    {
-      "modID": "timetraveltimmy",
-      "Name": "Time Travel Timmy",
-      "RawName": "TimeTravelTimmy.zip",
-      "Author": ["devyndamonster"],
-      "Version": "1.4.0",
-      "Description": "Progress through each age of weaponry, from wild west to modern",
-      "Path": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.4.0/",
-      "Website": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/tag/v1.4.0",
-      "Arguments": "moveToFolder?TimeTravelTimmy.zip?Mods/?TimeTravelTimmy.zip",
-      "DelInfo": "Mods/TimeTravelTimmy.zip",
-      "Dependencies": ["tnhtweaker"]
-    },
+		{
+			"modID": "timetraveltimmy",
+			"Name": "Time Travel Timmy",
+			"RawName": "TimeTravelTimmy.zip",
+			"Author": [ "devyndamonster" ],
+			"Version": "1.4.1",
+			"Description": "Fight sosigs throughout all ages of weaponry!\nNOTE: This character pretty much requires \"Potatoes Compile Custom Guns\"!\nYou can download it from this link: https://bonetome.com/h3vr/weapons/142/\nStart out using guns from the wild west, and progress all the way to modern day. Loot pools are based on loadouts from each time period.",
+			"Path": "https://bonetome.com/download.php?file=NmE4YWVhZjMwNzIyYTZjOSszNjUrMTYwNw==",
+			"Website": "https://bonetome.com/h3vr/characters/451/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/TimeTravelTimmy.deli",
+			"Dependencies": [ "tnhtweaker_deli30" ]
+		},
     {
       "modID": "scifisofia",
       "Name": "Sci-Fi Sofia",
@@ -109,14 +109,15 @@
       "Website": "https://bonetome.com/h3vr/characters/203/",
       "Arguments": "moveToFolder?BJBlazkomeat.zip?Mods/?BJBlazkomeat.zip",
       "DelInfo": "Mods/BJBlazkomeat.zip",
-      "Dependencies": ["tnhtweaker"]
+			"Dependencies": [ "tnhtweaker" ],
+			"HideMod": true
     },
     {
       "modID": "meattfortressfredd",
       "Name": "Meatt Fortress Fredd",
       "RawName": "MeattFortressFredd.zip",
       "Author": ["Trittyburd"],
-      "Version": "1.2.6",
+      "Version": "1.3.1",
       "Description": "Fight the Meatt Co. personnel with Meatt Co. weaponry!",
       "Path": "https://bonetome.com/download.php?file=YWVlOWNhODNiNzc2ODg2YSszNjUrMTAxMw==",
       "Website": "https://bonetome.com/h3vr/characters/200/",
@@ -174,7 +175,8 @@
       "Website": "https://bonetome.com/h3vr/characters/164/",
       "Arguments": "unzipToDir?Mods/",
       "DelInfo": "Mods/BratwurstBernie.deli",
-      "Dependencies": ["tnhtweaker"]
+			"Dependencies": [ "tnhtweaker" ],
+			"HideMod": true
     },
 		{
 			"modID": "completelyfuckedcarl",
@@ -204,7 +206,23 @@
 				"meatsmodulm4",
 				"meatsrigs",
 				"tnhtweaker"
+			],
+			"HideMod": true
+		},
+		{
+			"modID": "hotdogmiami",
+			"Name": "HOTDOG MIAMI: BRUTAL BENNY",
+			"RawName": "HMBrutalBennyUNZIPME.zip",
+			"Author": [ "Hagus" ],
+			"Version": "1.0.1",
+			"Description": "\"A rash of devestating attacks have spread throughout the city of Miami as tensions between the Veggie and Shotties continues to rise. In other news, citizens of Miami continue to report strange prank calls asking for mundane tasks...\\\"\\nUse an arsenal of iconic action movie arms to carve through a legion of varied and dangerous enemies. All of the holds are timed and don't have any targets. Designed for limited ammo.\\n\\nTECHNICALLY NOT REQUIRED, BUT THERE IS A FEW WEAPONS USING THESE\\nhttps://bonetome.com/h3vr/weapons/162/ - ModulAK\\nhttps://bonetome.com/h3vr/weapons/271/ - ModulShotguns\\n\\nJust unzip this file and place the .deli in your deli mods directory found at steamapps\\common\\H3VR\\Deli\\mods\\n- No ammo refill stations! Use a combination of one time weapons and select ammo from enemy ranks!\\n- All unique enemies! From goons who go down in a single hit to thugs that eat half a magazine.\\n- Aggressive enemies that will try to rush and pin you down between holds!\\nMelee is nerfed pretty hard, with some enemies barely reacting to hits, but you can stun most enemies with a leg shot. I play with a self imposed rule to not put any sosig weapons in my quickbelt slots but since I've done it so long I don't know if stocking up on sosigguns wrecks the balance, so use them at your discretion!\\n(*As of now there is no easy configuration.)",
+			"Path": "https://bonetome.com/download.php?file=NTE2ZTE4ODRkY2Y3ZDQ2NCszNjUrMTU5Mw==",
+			"Website": "https://bonetome.com/h3vr/characters/348/",
+			"Arguments": "unzipToDir?Deli/Mods",
+			"DelInfo": "Deli/Mods/HM Brutal Benny.deli",
+			"Dependencies": [
+				"tnhtweaker_deli30"
 			]
 		}
-  ]
+		]
 }

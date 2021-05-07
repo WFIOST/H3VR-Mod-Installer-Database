@@ -83,7 +83,7 @@
 				"Meloncorp"
 			],
 			"FileSizeMB": "940",
-			"Version": "2.0.0",
+			"Version": "2.0.1",
 			"Description": "It's finally here. The U.S. Meat Corps is more than proud to announce the official overhaul and re-release of ModulAR!\n\nA month overdue but with countless more attachments, more than a dozen new receivers, and an almost infinite number of possible combinations. I'm serious, we did the math, and not including magazines there are over 3 billion possible combinations waiting for you to assemble. Dive deep!\n\nYou will find everything located under the Modular Workshop category on the main page of the itemspawner, give the mod some time to load and it will auto-populate the itemspawner, even if you are already in a scene! There are new receivers, barrels, magazines, stocks, and more! Please refer to the U.S.M.C Instructional Training video posted above for assembly instructions! There is also a handy infographic above most items pointing out where to attach and detach all your AR bling.\n\nA massive thanks to Meloncorp for making this overhaul as massive as it is, and all of my beta testers for ensuring the highest quality and user experience for this mod! A thank you to you to for downloading this mod and reading this far! \n\nMods like this cost so much in time and effort, if you are feeling generous or wish to fund the Meat Banana Manufacturing Group here is a link to me Ko-Fi page for any donations, much love! \nKo-fi.com/meatbanana",
 			"Path": "https://bonetome.com/download.php?file=N2ZkN2IxYjJkZmFiOTVkNiszNjUrMTYwNA==",
 			"Website": "https://bonetome.com/h3vr/weapons/450/",
@@ -1368,8 +1368,8 @@
 			"Author": [
 				"NotWolfie"
 			],
-			"Version": "1.1.0",
-			"Description": "The glorious motherland has returned with a fancy new carbine for you to play with!\n\nI present the STM-9MM, Made for Russian Civilian Markets!\n\nFEATURES:\n\n- Works with any glock mags!\n- Semi-Auto\n- EXTREMELY ACCURATE!!\n\nTo be added:\n- Custom Stocks\n- Custom handguards\n- Foregrip and Laser Mounts\n- Custom Muzzles/Barrels!",
+			"Version": "2.0.0",
+			"Description": "Owie, 5.56 is too strong of a caliber.\nThe ModulAR9 Is the platform of an AR15, but using Glock mags and 9mm.\n\n*REQUIRES LATEST VERSION OF H3VR UTILS.*\n\nFEATURES:\n\nModularity! \nCompatiblity with Meat's ModulOverhaul!\nSemi-auto Receiver (STM-9)\nMagwells! \nFast firerate\nAccurate shooty sticks!\n\nIncluded in Pack:\n- x4 Lower Receivers\n- x3 Upper Receiver \n- x3 Charging Handle\n- x3 Barrels\n- x9 Handguards\n- x4 Magwells\n- x3 Pistol Grip\n- x3 Buffer Tube\n- x3 Stock\n\nWant to support my work? \nBuy me a coffee! \nhttps://ko-fi.com/woofwoof4723",
 			"Path": "https://bonetome.com/download.php?file=MjkyYTM1OTcwZTVkZWU5ZiszNjUrMTUwMg==",
 			"Website": "https://bonetome.com/h3vr/weapons/408/",
 			"Arguments": "unzipToDir?VirtualObjects/",
