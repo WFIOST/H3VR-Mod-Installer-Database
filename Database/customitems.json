@@ -1525,6 +1525,24 @@
 			"Dependencies": [
 				"lsiic"
 			]
+		},
+		{
+			"modID": "ftwarmsmodulvector",
+			"Name": "FTW Arms Modular Vector",
+			"RawName": "vector_UNZIP_INTO_DELI_MODS.zip",
+			"FileSizeMB": "50",
+			"Author": [
+				"Andrew_FTW"
+			],
+			"Version": "1.0.0",
+			"Description": "As my first real \"Modular\" series mod, I present, the Modular Vector. Including a Vector 9, aswell as a Vector 45, along with a real vector stock, and a few other parts, allowing you to make the Vector of your dreams.",
+			"Path": "https://bonetome.com/download.php?file=N2EzYmUzYzk2MDVhNmQ3OSszNjUrMTYyMQ==",
+			"Website": "https://bonetome.com/h3vr/weapons/456/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/vector.deli",
+			"Dependencies": [
+				"otherloader"
+			]
 		}
 	]
 }
