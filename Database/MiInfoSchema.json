@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "ModInstallerID": {
+      "type": "string"
+    },
+    "GameID": {
+      "type": "string"
+    },
+    "GameName": {
+      "type": "string"
+    },
+    "GameWebsite": {
+      "type": "string"
+    },
+    "GameSteamID": {
+      "type": "string"
+    },
+    "GameAuthors": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string"
+        }
+      ]
+    },
+    "DatabaseFiles": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        }
+      ]
+    },
+    "GameModdingWebsite": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "ModInstallerID",
+    "GameID",
+    "GameName",
+    "GameWebsite",
+    "GameSteamID",
+    "GameAuthors",
+    "DatabaseFiles",
+    "GameModdingWebsite"
+  ]
+}

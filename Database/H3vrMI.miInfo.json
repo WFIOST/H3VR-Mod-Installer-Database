@@ -1,0 +1,18 @@
+{
+  "ModInstallerID": "h3vrmodinstaller",
+  "GameID": "h3vr",
+  "GameName": "Hotdogs Horseshoes and Hand grenades",
+  "GameWebsite": "https://store.steampowered.com/app/450540/Hot_Dogs_Horseshoes__Hand_Grenades/",
+  "GameSteamID": "450540",
+  "GameAuthors": [
+    "Rust LTD"
+  ],
+  "DatabaseFiles": [
+    "mapmods.json",
+    "charactermods.json",
+    "dependencies.json",
+    "customitems.json",
+    "mapmods.json"
+  ],
+  "GameModdingWebsite": "https://bonetome.com/h3vr/"
+}
