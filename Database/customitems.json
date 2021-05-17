@@ -1543,6 +1543,180 @@
 			"Dependencies": [
 				"otherloader"
 			]
+		},
+		{
+			"modID": "xenoclastiv",
+			"Name": "Xenoclast IV",
+			"RawName": "xenoclast.zip",
+			"FileSizeMB": "10",
+			"Author": [
+				"gamernayr"
+			],
+			"Version": "1.0.0",
+			"Description": "Xenoclast IV shotgun from the popular sci-fi mmo Destiny.\n\nThanks to Meat for the suppressed sounds!\n\nExtract into H3VR/VirtualObjects or H3VR/Deli/mods/Legacy/LegacyVirtualObjetcs",
+			"Path": "https://bonetome.com/download.php?file=NDBiNjY2YjNjNjA5YmY0MCsyOTAxKzE2NDc=",
+			"Website": "https://bonetome.com/h3vr/weapons/476/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/xenoclast",
+			"Dependencies": [
+				"lsiic"
+			]
+		},
+		{
+			"modID": "modularhk417",
+			"Name": "Modular HK417",
+			"RawName": "Modular_HK417.rar",
+			"FileSizeMB": "432",
+			"Author": [
+				"sgt.brooks"
+			],
+			"Version": "1.0.0",
+			"Description": "MAKE SURE YOU DELELTE H&K G28 DMR\n\nHK417 Family\nthis is modular hk417\n\nRequirements\nDELI 0.3\nOTHERLOADER\nH3UTILS\n\nhas\n7 barrels\n9 handguards \n3 upper receivers\n3 lower receivers\n2 stocks (g28 butt pad and check rest move)\n2 charring charging handles\n2 pistol grips\n2 mags\n\nWant to support my work consider donating it helps me out.\nhttps://ko-fi.com/sgtbrooks\n\nknow bug\nwhen vaulted mag spring sticks out fix after round moves",
+			"Path": "https://bonetome.com/download.php?file=YTgwODg3YmM4OTM3ZTVkZisyOTAxKzE2NDU=",
+			"Website": "https://bonetome.com/h3vr/weapons/474/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/HK417.deli",
+			"Dependencies": [
+				"otherloader",
+				"h3vrutils",
+				"deli_experimental"
+			]
+		},
+		{
+			"modID": "modulhk",
+			"Name": "ModulHK",
+			"RawName": "ModulHK.zip",
+			"FileSizeMB": "73",
+			"Author": [
+				"NotWolfie"
+			],
+			"Version": "1.0.1",
+			"Description": "1.0.1 Magwelled\n\nFixes:\n- Re-added the texture to the HK7 Magwell\n\nIMPORTANT: This mod was designed to be an Expansion/DLC of ModulAR, and is made to be used with it.\n\nDownload that here: https://bonetome.com/h3vr/weapons/450/\n\nLATEST VERSION OF H3VRUTILS REQUIRED!\n\nInstallation: Place ModulHK.deli into your Deli mod's folder.\n\n~ Notes ~\n\n- HK's rail is higher, meaning you have to use the upper if you want to use the handguards.\n- HK's buffer tube is longer and results in some problems with it, I've tried my best to reduce it and I'm still looking into fixes.\n\nChunky AR.\n\nIntroducing the MODULHK! An Expansion to the ModulAR platform.\n\nIncluding the 60 round PMAG, and the cursed HK7 Lower which takes MP7 Mags!\n\nIncluded are:\n2 Lowers\n1 Upper\nCountless Handguards\n1 Buffer\n2 Stocks\n1 Pistol Grip\n1 Piston/Gasblock\n5 Barrels (With folding sights!)\n30 round Maritime Steel\n60 round Magpul PMAG.\nUnique HK416A5 Rear sight\n\nWant to support my work? \nBuy me a coffee!\nhttps://ko-fi.com/woofwoof4723",
+			"Path": "https://bonetome.com/download.php?file=YTNiODM3ZGQ2YmExMTRmNCsyOTAxKzE2MzY=",
+			"Website": "https://bonetome.com/h3vr/weapons/468/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/HK417.deli",
+			"Dependencies": [
+				"otherloader",
+				"h3vrutils",
+				"deli_experimental"
+			]
+		},
+		{
+			"modID": "foxarmsmp7",
+			"Name": "FOXARMS - MP7A1/A2",
+			"RawName": "FOX-MP7.zip",
+			"FileSizeMB": "42",
+			"Author": [
+				"NotWolfie"
+			],
+			"Version": "1.1.2",
+			"Description": "Update 1.1.2 - Normalized\n\nFixes:\n- Made all MP7 Weapons fall under the PDW Tab in the Vault, should be easier to find now.\n- Re-did the normals on the guns so they look nicer.\n\n4.6x30mm is a nice caliber.\n\nIntroducing the MP7A1/A2 Mod! (Because Anton's ones arent excatly top-notch..)\n\nInstallation: Drop the FOX-MP7.deli into your Deli mod folder. Weapons are located under SMG-Rifle/PDW\n\nIncluded are:\n\n- Rotex 2 (ONLY FOR THE MP7, NOT A NORMAL SUPRESSOR)\n- MP7A1 (Folding Foregrip, In black and FDE)\n- MP7A2 (Railed Bottom, In Black and FDE)\n- 20,30 and 40 Round Magazines\n- MP7A2 Glowing Sights\n- Cursed Mini MP22.\n\nWant to support my work? \nBuy me a coffee! \nhttps://ko-fi.com/woofwoof4723",
+			"Path": "https://bonetome.com/download.php?file=MTJkOGI2NDQ2ZmMxMzQ0OSsyOTAxKzE2MzQ=",
+			"Website": "https://bonetome.com/h3vr/weapons/467/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/FOX-MP7.deli",
+			"Dependencies": [
+				"h3vrutils",
+				"deli_experimental"
+			]
+		},
+		{
+			"modID": "ftwarmsp50",
+			"Name": "FTW Arms P50",
+			"RawName": "p50_UNZIP_INTO_DELI_MODS.zip",
+			"FileSizeMB": "24",
+			"Author": [
+				"Andrew_FTW"
+			],
+			"Version": "1.0.0",
+			"Description": "One of KelTeks latest innovations is now ready to perforate Sosigs! Included are the KelTek P50, the P50a (a machine pistol variant) as well as a stock-less pistol adapter, so that you can now use Meats Modular buffer tubes with any pistol you'd like!",
+			"Path": "https://bonetome.com/download.php?file=NDQ1OWQ4MTFlZTI5YWI1NCsyOTAxKzE2MzA=",
+			"Website": "https://bonetome.com/h3vr/weapons/463/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/p50.deli",
+			"Dependencies": [
+				"h3vrutils",
+				"deli_experimental"
+			]
+		},
+		{
+			"modID": "comicallylargespoon",
+			"Name": "Comically Large Spoon and other cutlery",
+			"RawName": "cutlery.zip",
+			"FileSizeMB": "3",
+			"Author": [
+				"SovietPigeon"
+			],
+			"Version": "1.0.0",
+			"Description": "Cutlery Mod. Comes with-\nThrowing butter knife\nThrowing fork\nThrowing spoon\n\nPotato Peeler\n\n\n\nGolub Tactical Plate\n\nCOMICALLY LARGE SPOON\n\nMade for BRUH on the H3VR modding Discord",
+			"Path": "https://bonetome.com/download.php?file=NzUxMTg1Njg1OWFjMWMzOSsyOTAxKzE2Mjg=",
+			"Website": "https://bonetome.com/h3vr/weapons/462/",
+			"Arguments": "unzipToDir?VirtualObjects/",
+			"DelInfo": "VirtualObjects/xenoclast",
+			"Dependencies": [
+				"h3vrutils",
+				"lsiic"
+			]
+		},
+		{
+			"modID": "modulfalenhanced",
+			"Name": "ModulFAL (Enhanced Edition)",
+			"RawName": "ModulFalEnhanced.zip",
+			"FileSizeMB": "91",
+			"Author": [
+				"NotWolfie"
+			],
+			"Version": "1.0.1",
+			"Description": "Version 1.0.1 Oops\nH3VRUTILS AND OTHERLOADER ARE REQUIRED.\n\n- Install Location is in your Deli Mods folder.\n\n- This is the Enhanced edition, meaning you have to press down on the touchpad to remove the magazine. - \n\nBelgium Made, BABY!\n\nFeatures\n- COMPATIBLITY WITH MEAT'S MODULAK PISTOL-GRIPS!\n- COMPATIBLITY WITH MEAT'S MODULAR STOCKS!\n- Two Receivers (FAL and SA47, the Cursed one)\n- Different Barrel lengths!\n- Folding Stocks!\n- Unique parts and a customizable rear-sight!\n- New FAL magazines!\n- Juicy Noises!\n- Two length handguards, some custom-made\n- Ability to single-load your rounds into the gun!\n- Original Wood bits!\n- Polymer cold-war bits!\n- Modern bits! \n- Working and moving bolt catch!\n- Classic rear sight and muzzles!\n- Full PARA Kit!\n\nYou can find all the parts in as follows;\nReceivers and Magazines - Battle Rifle \nDust Covers - Rail Adapters\nPistol Grips - Foregrips\nHandguards - Foregrips \nStocks - Stocks\nSights - Iron Sights\nBarrels - Supressors/Muzzle Device\n\nWant to support my work? \nBuy me a coffee! \nhttps://ko-fi.com/woofwoof4723\n\nSpecial thanks to Doombox for giving me textures and parts for some of the original stuff!",
+			"Path": "https://bonetome.com/download.php?file=OTc5NTkxNDk5M2QzOTJiMCsyOTAxKzE2MjM=",
+			"Website": "https://bonetome.com/h3vr/weapons/458/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/ModulFalEnhanced.deli",
+			"Dependencies": [
+				"h3vrutils",
+				"deli_experimental",
+				"otherloader"
+			]
+		},
+		{
+			"modID": "modulfalvanilla",
+			"Name": "ModulFAL (Vanilla Edition)",
+			"RawName": "ModulFalVanilla.zip",
+			"FileSizeMB": "91",
+			"Author": [
+				"NotWolfie"
+			],
+			"Version": "1.0.1",
+			"Description": "",
+			"Path": "https://bonetome.com/download.php?file=MjlkMjE2NGM0MDAwNDA4YSsyOTAxKzE2MjI=",
+			"Website": "https://bonetome.com/h3vr/weapons/457/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/ModulFalVanilla.deli",
+			"Dependencies": [
+				"h3vrutils",
+				"deli_experimental",
+				"otherloader"
+			]
+		},
+		{
+			"modID": "modulsvd",
+			"Name": "modulSVD",
+			"RawName": "modulSVD.zip",
+			"FileSizeMB": "100",
+			"Author": [
+				"gamernayr"
+			],
+			"Version": "1.0.2",
+			"Description": "Modular SVD features the all famous big boy AK chambered in 7.62x54R.\n\nThis is a Deli 0.3.2 mod, and goes into H3VR/Deli/Mods, and requires OtherLoader.\n\nEverything is separated into 2 categories under SMG/Rifle>Battle Rifle:\nDefault: Contains all the basic things, receiver, stock, upper band, etc.\nExtras: All the aftermarket or attachment things\n\nJust a tip: I recommend putting the upper band on from the top and fores on from the bottom.\nDue to me not wanted things to be naturally cursed, it doesn't accept AR/AK fores, but does accept pistol grips and stocks.\nAlso note: You need the front post to put on a silencer. ",
+			"Path": "https://bonetome.com/download.php?file=MGFmODgwOWE0YTYxMjVlZCsyOTAxKzE1NTU=",
+			"Website": "https://bonetome.com/h3vr/weapons/429/",
+			"Arguments": "unzipToDir?Deli/Mods/",
+			"DelInfo": "Deli/Mods/modulSVD.deli",
+			"Dependencies": [
+				"deli_experimental",
+				"otherloader"
+			]
 		}
 	]
 }
